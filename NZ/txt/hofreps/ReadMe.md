@@ -1,0 +1,3 @@
+Aotearoa New Zealand Hansard was digitized by the [Google Books Project](https://books.google.com) project, transcribed by the [Hathi Trust Project](https://hathitrust.org) project, and made available under a Creative [Commons Zero (CC0) license](https://creativecommons.org/public-domain/cc0/). 
+
+These files were sourced in pdf format from https://babel.hathitrust.org/cgi/mb?a=listis&c=71329709, OCRd using [Microsoft Azure Document Intelligence](https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence), and reformatted using Python (see https://github.com/AI-as-Infrastructure/aiinfra-nzhansard-wrangling).

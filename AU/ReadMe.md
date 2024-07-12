@@ -1,0 +1,1 @@
+Australian Hansard is licensed for reuse by the Parliament of Australia under a [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) licence. These files were sourced from [Historic Hansard's](https://historichansard.net/) [GitHub repo](https://github.com/wragge/hansard-xml). 
