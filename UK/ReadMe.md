@@ -2,4 +2,4 @@ These Hansard documents contain Parliamentary information licensed under the [Op
 
 Note: The txt files were produced from the original xml files. This removal of high quality information was done to align them to the Aotearoa NZ source files (which do not have xml markup) and to facilitate generic LLM testing. 
 
-The source files used for primary AIINFRA testing for AU, NZ, UK can be found [here](https://github.com/AI-as-Infrastructure/aiinfra-source).
+The canonical source files used for primary AIINFRA testing for AU, NZ, UK can be found [here](https://github.com/AI-as-Infrastructure/aiinfra-source).
