@@ -5,7 +5,7 @@
     <session.no>1</session.no>
     <period.no>0</period.no>
     <chamber>REPS</chamber>
-    <page.no>3547</page.no>
+    
     <proof>0</proof>
   </session.header>
   <chamber.xscript>
@@ -18,13 +18,13 @@
     <debate>
       <debateinfo>
         <title>MEMBER DECEASED</title>
-        <page.no>3547</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>3547</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -41,7 +41,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3547</page.no>
+            <page>3547</page>
             <time.stamp />
             <name.id>009LR</name.id>
             <electorate>Hunter</electorate>
@@ -63,7 +63,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3548</page.no>
+            
             <time.stamp />
             <name.id>L2G</name.id>
             <electorate>Wentworth</electorate>
@@ -80,7 +80,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3548</page.no>
+            <page>3548</page>
             <time.stamp />
             <name.id>F4N</name.id>
             <electorate>Wide Bay</electorate>
@@ -100,18 +100,18 @@
     <debate>
       <debateinfo>
         <title>SPECIAL ADJOURNMENT</title>
-        <page.no>3549</page.no>
+        
         <type>special adjournment</type>
       </debateinfo>
       <subdebate.1>
         <subdebateinfo>
           <title>Order of Business</title>
-          <page.no>3549</page.no>
+          
         </subdebateinfo>
         <speech>
           <talk.start>
             <talker>
-              <page.no>3549</page.no>
+              
               <time.stamp />
               <name.id>009LR</name.id>
               <electorate>Hunter</electorate>
@@ -128,7 +128,7 @@
           <interjection>
             <talk.start>
               <talker>
-                <page.no>3549</page.no>
+                
                 <time.stamp />
                 <name.id>K4E</name.id>
                 <electorate />
@@ -145,7 +145,7 @@
           <continue>
             <talk.start>
               <talker>
-                <page.no>3549</page.no>
+                
                 <time.stamp />
                 <name.id>009LR</name.id>
                 <electorate />
@@ -163,7 +163,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>3549</page.no>
+              
               <time.stamp />
               <name.id>L2G</name.id>
               <electorate />
@@ -183,14 +183,14 @@
     <debate>
       <debateinfo>
         <title>ADJOURNMENT</title>
-        <page.no>3549</page.no>
+        
         <type>adjournment</type>
       </debateinfo>
       <para>Funeral of the late <inline font-weight="bold">Mr. W.</inline> H. Groom. </para>
       <speech>
         <talk.start>
           <talker>
-            <page.no>3549</page.no>
+            
             <time.stamp />
             <name.id>009LR</name.id>
             <electorate />
@@ -210,7 +210,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>3549</page.no>
+        <page>3549</page>
         <time.stamp>14:45:00</time.stamp>
       </adjournmentinfo>
       <para>House adjourned at 2.45 p.m. </para>

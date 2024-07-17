@@ -5,7 +5,7 @@
     <session.no>1</session.no>
     <period.no>0</period.no>
     <chamber>REPS</chamber>
-    <page.no>4921</page.no>
+    
     <proof>0</proof>
   </session.header>
   <chamber.xscript>
@@ -18,13 +18,13 @@
 	<debate>
 		<debateinfo>
 			<title>DEATH OF PRESIDENT McKINLEY</title>
-			<page.no>4921</page.no>
+			
 			<type>miscellaneous</type>
 		</debateinfo>
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4921</page.no>
+					
 					<name.id>009LR</name.id>
 					<electorate>HUNTER</electorate>
 					<party>Protectionist</party>
@@ -41,7 +41,7 @@
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4921</page.no>
+					<page>4921</page>
 					<name.id>L2G</name.id>
 					<electorate>WENTWORTH</electorate>
 					<party />
@@ -57,7 +57,7 @@
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4923</page.no>
+					
 					<name.id>F4R</name.id>
 					<electorate>BLAND</electorate>
 					<party />
@@ -74,7 +74,7 @@
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4923</page.no>
+					
 					<name.id>009LR</name.id>
 					<electorate />
 					<party />
@@ -93,7 +93,7 @@
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4923</page.no>
+					
 					<name.id>L2G</name.id>
 					<electorate>WENTWORTH</electorate>
 					<party />
@@ -109,7 +109,7 @@
 		<speech>
 			<talk.start>
 				<talker>
-					<page.no>4923</page.no>
+					
 					<name.id>009LR</name.id>
 					<electorate>HUNTER</electorate>
 					<party>Protectionist</party>
@@ -127,7 +127,7 @@
 	</debate>
 	    <adjournment>
             <adjournmentinfo>
-                <page.no>4923</page.no>
+                <page>4923</page>
                 <time.stamp>14:10:00</time.stamp>
             </adjournmentinfo>
 			<para>House adjourned at 2.10 p.m. </para>

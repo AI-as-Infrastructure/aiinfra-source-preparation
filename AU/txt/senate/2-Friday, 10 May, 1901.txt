@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>SENATE</chamber>
-        <page.no>28</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -17,7 +17,7 @@
         <debate>
             <debateinfo>
                 <title>THE GOVERNOR-GENERAL'S SPEECH</title>
-                <page.no>28</page.no>
+                <page>28</page>
                 <type>miscellaneous</type>
             </debateinfo>
             <para>His Excellency the Governor-General entered the chamber and took the chair. A message was forwarded to the House of Representatives intimating that His Excellency awaited the attendance of the members in the Senate chamber, who being come with their Speaker, </para>
@@ -27,7 +27,7 @@
         <debate>
             <debateinfo>
                 <title>HIS EXCELLENCY THE GOVER</title>
-                <page.no>30</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <para class="block">NOR-GENERAL, having retired, and the members of the House of Representatives withdrawn, </para>
@@ -35,13 +35,13 @@
         <debate>
             <debateinfo>
                 <title>SPECIAL ADJOURNMENT</title>
-                <page.no>30</page.no>
+                
                 <type>special adjournment</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>30</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate>New South Wales</electorate>
@@ -62,7 +62,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>30</page.no>
+                        
                         <time.stamp />
                         <name.id>KUL</name.id>
                         <electorate>New South Wales</electorate>
@@ -79,7 +79,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>30</page.no>
+                        <page>30</page>
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -101,13 +101,13 @@
         <debate>
             <debateinfo>
                 <title>PROPOSED STANDING ORDERS</title>
-                <page.no>31</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>31</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate>New SouthWales</electorate>
@@ -126,7 +126,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>31</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -146,7 +146,7 @@
         <debate>
             <debateinfo>
                 <title>SERVICE AND EXECUTION OF PROCESS BILL</title>
-                <page.no>31</page.no>
+                
                 <type>bill</type>
             </debateinfo>
             <para>Bill presented by <inline font-weight="bold">Senator O'CONNOR</inline> (New South Wales), and read the first time. </para>
@@ -154,18 +154,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTION</title>
-                <page.no>31</page.no>
+                
                 <type>Questions</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>STANDING ORDERS COMMITTEE</title>
-                    <page.no>31</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>31</page.no>
+                            
                             <time.stamp />
                             <name.id>KC7</name.id>
                             <electorate>Victoria</electorate>
@@ -182,7 +182,7 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>31</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate>New South Wales</electorate>
@@ -198,7 +198,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>31</page.no>
+                                
                                 <time.stamp />
                                 <name.id>KLW</name.id>
                                 <electorate />
@@ -215,7 +215,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>31</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JYD</name.id>
                                 <electorate />
@@ -235,18 +235,18 @@
         <debate>
             <debateinfo>
                 <title>GOVERNOR-GENERAL'S SPEECH</title>
-                <page.no>31</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Addressin Reply</title>
-                    <page.no>31</page.no>
+                    
                 </subdebateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>31</page.no>
+                            <page>31</page>
                             <time.stamp />
                             <name.id>10000</name.id>
                             <electorate />
@@ -268,7 +268,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate>New South Wales</electorate>
@@ -287,18 +287,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTION</title>
-                <page.no>32</page.no>
+                
                 <type>Questions</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>RETIREMENT OF MEMBERS</title>
-                    <page.no>32</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate>NEW SOUTH WALES</electorate>
@@ -315,7 +315,7 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -333,7 +333,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>32</page.no>
+                <page>32</page>
                 <time.stamp>11:52:00</time.stamp>
             </adjournmentinfo>
             <para class="block">Senate adjourned at 11.52 a.m. </para>

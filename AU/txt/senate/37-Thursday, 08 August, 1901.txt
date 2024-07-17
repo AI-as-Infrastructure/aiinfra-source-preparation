@@ -5,7 +5,7 @@
     <session.no>1</session.no>
     <period.no>0</period.no>
     <chamber>SENATE</chamber>
-    <page.no>3546</page.no>
+    
     <proof>0</proof>
   </session.header>
   <chamber.xscript>
@@ -17,7 +17,7 @@
     <debate>
       <debateinfo>
         <title>PETITIONS</title>
-        <page.no>3546</page.no>
+        
         <type>petition</type>
       </debateinfo>
       <para>
@@ -27,7 +27,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3546</page.no>
+            
             <time.stamp />
             <name.id>K6D</name.id>
             <electorate>WESTERN AUSTRALIA</electorate>
@@ -47,7 +47,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3546</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -63,7 +63,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>3546</page.no>
+              
               <time.stamp />
               <name.id>K6D</name.id>
               <electorate />
@@ -80,7 +80,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>3546</page.no>
+              
               <time.stamp />
               <name.id>10000</name.id>
               <electorate />
@@ -102,13 +102,13 @@
     <debate>
       <debateinfo>
         <title>AUSTRALIAN-TASMANIAN STEAM SERVICE</title>
-        <page.no>3546</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>3546</page.no>
+            
             <time.stamp />
             <name.id>KPE</name.id>
             <electorate>TASMANIA</electorate>
@@ -127,7 +127,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>3546</page.no>
+              
               <time.stamp />
               <name.id>JXO</name.id>
               <electorate />
@@ -145,7 +145,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>3546</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -163,18 +163,18 @@
     <debate>
       <debateinfo>
         <title>DEATH OF MR. W. H. GROOM, M.P</title>
-        <page.no>3546</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <subdebate.1>
         <subdebateinfo>
           <title>Vote of Condolence</title>
-          <page.no>3546</page.no>
+          
         </subdebateinfo>
         <speech>
           <talk.start>
             <talker>
-              <page.no>3546</page.no>
+              <page>3546</page>
               <time.stamp />
               <name.id>JXO</name.id>
               <electorate>Queensland</electorate>
@@ -200,7 +200,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>3547</page.no>
+              
               <time.stamp />
               <name.id>KAH</name.id>
               <electorate>New South Wales</electorate>
@@ -217,7 +217,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>3547</page.no>
+              
               <time.stamp />
               <name.id>KLW</name.id>
               <electorate>Queensland</electorate>
@@ -236,7 +236,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>3547</page.no>
+        <page>3547</page>
         <time.stamp>14:47:00</time.stamp>
       </adjournmentinfo>
       <para>Senate adjourned at 2.47 p.m. </para>

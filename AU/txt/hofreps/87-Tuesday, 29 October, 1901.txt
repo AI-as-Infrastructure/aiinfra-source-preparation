@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>REPS</chamber>
-        <page.no>6495</page.no>
+        <page>6495</page>
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -1261,7 +1261,7 @@
         <debate>
             <debateinfo>
                 <title>ADJOURNMENT</title>
-                <page.no>6569</page.no>
+                
                 <type>adjournment</type>
             </debateinfo>
             <para>Motion <inline font-style="italic">of</inline> Censure. </para>
@@ -1288,7 +1288,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>6569</page.no>
+                <page>6569</page>
                 <time.stamp>23:27:00</time.stamp>
             </adjournmentinfo>
                 <para>House adjourncd at 11.45 p.m. </para>

@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>SENATE</chamber>
-        <page.no>4008</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -17,18 +17,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTIONS</title>
-                <page.no>4008</page.no>
+                
                 <type>Questions</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                 <title>PARLIAMENT HOUSE</title>
-                <page.no>4008</page.no>
+                
                 </subdebateinfo>
             <question>
                 <talk.start>
                     <talker>
-                        <page.no>4008</page.no>
+                        
                         <time.stamp />
                         <name.id>JXT</name.id>
                         <electorate>NEW SOUTH WALES</electorate>
@@ -56,7 +56,7 @@
             <answer>
                 <talk.start>
                     <talker>
-                        <page.no>4008</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate>NEW SOUTH WALES</electorate>
@@ -74,12 +74,12 @@
             <subdebate.1>
                 <subdebateinfo>
                 <title>ELECTORAL BILL</title>
-                <page.no>4008</page.no>
+                
                 </subdebateinfo>
             <question>
                 <talk.start>
                     <talker>
-                        <page.no>4008</page.no>
+                        
                         <time.stamp />
                         <name.id>K6D</name.id>
                         <electorate>WESTERN AUSTRALIA</electorate>
@@ -99,7 +99,7 @@
             <answer>
                 <talk.start>
                     <talker>
-                        <page.no>4008</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -118,13 +118,13 @@
         <debate>
             <debateinfo>
                 <title>GOVERNMENT BUSINESS</title>
-                <page.no>4008</page.no>
+                
                 <type>motion</type>
             </debateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>4008</page.no>
+                            <page>4008</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate>New South Wales</electorate>
@@ -144,7 +144,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JXT</name.id>
                                 <electorate />
@@ -161,7 +161,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JYD</name.id>
                                 <electorate />
@@ -178,7 +178,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>KLZ</name.id>
                                 <electorate />
@@ -195,7 +195,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JYD</name.id>
                                 <electorate />
@@ -212,7 +212,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>KTF</name.id>
                                 <electorate />
@@ -229,7 +229,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>4009</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JYD</name.id>
                                 <electorate />
@@ -247,7 +247,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>4009</page.no>
+                            <page>4009</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate>New South "Wales</electorate>
@@ -264,7 +264,7 @@
                 <speech>
                         <talk.start>
                             <talker>
-                                <page.no>4010</page.no>
+                                
                                 <time.stamp />
                                 <name.id>JXT</name.id>
                                 <electorate>New South Wales</electorate>
@@ -280,7 +280,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>4010</page.no>
+                                
                                 <time.stamp />
                                 <name.id>KLZ</name.id>
                                 <electorate />
@@ -297,7 +297,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>4010</page.no>
+                                <page>4010</page>
                                 <time.stamp />
                                 <name.id>JXT</name.id>
                                 <electorate />
@@ -319,7 +319,7 @@
         <debate>
             <debateinfo>
                 <title>CUSTOMS BILL</title>
-                <page.no>4011</page.no>
+                
                 <type>bill</type>
             </debateinfo>
             <para><inline font-style="italic">In Committee</inline>(consideration resumed from August 21, <inline font-style="italic">vide</inline> page 3966) : </para>
@@ -330,7 +330,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4011</page.no>
+                        
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -346,7 +346,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4011</page.no>
+                            <page>4011</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -370,7 +370,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4012</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -387,7 +387,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4012</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -404,7 +404,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4012</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -421,7 +421,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4012</page.no>
+                            <page>4012</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -439,7 +439,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4013</page.no>
+                        <page>4013</page>
                         <time.stamp />
                         <name.id>K6M</name.id>
                         <electorate>Tasmania</electorate>
@@ -460,7 +460,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4015</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -477,7 +477,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4015</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -494,7 +494,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4015</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -511,7 +511,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4015</page.no>
+                            <page>4015</page>
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -530,7 +530,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -547,7 +547,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -564,7 +564,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -581,7 +581,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -598,7 +598,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            
                             <time.stamp />
                             <name.id>JXT</name.id>
                             <electorate>NEW SOUTH WALES</electorate>
@@ -615,7 +615,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4016</page.no>
+                            <page>4016</page>
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -632,7 +632,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4017</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -649,7 +649,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4017</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -667,7 +667,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4017</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -688,7 +688,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4017</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -705,7 +705,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4017</page.no>
+                            <page>4017</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -722,7 +722,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4018</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -739,7 +739,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4018</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -757,7 +757,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4018</page.no>
+                        
                         <time.stamp />
                         <name.id>KTF</name.id>
                         <electorate />
@@ -773,7 +773,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4018</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -790,7 +790,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4018</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -807,7 +807,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4018</page.no>
+                            <page>4018</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -824,7 +824,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -841,7 +841,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -858,7 +858,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -875,7 +875,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -892,7 +892,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -909,7 +909,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4019</page.no>
+                            <page>4019</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -926,7 +926,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>KSH</name.id>
                             <electorate />
@@ -943,7 +943,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -960,7 +960,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate>TASMANIA</electorate>
@@ -977,7 +977,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -994,7 +994,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -1011,7 +1011,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1028,7 +1028,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -1045,7 +1045,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4020</page.no>
+                            <page>4020</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1063,7 +1063,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1081,7 +1081,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4021</page.no>
+                        
                         <time.stamp />
                         <name.id>KSH</name.id>
                         <electorate />
@@ -1097,7 +1097,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1114,7 +1114,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -1131,7 +1131,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1148,7 +1148,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>KSH</name.id>
                             <electorate />
@@ -1165,7 +1165,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1182,7 +1182,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>KSH</name.id>
                             <electorate />
@@ -1200,7 +1200,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4021</page.no>
+                        
                         <time.stamp />
                         <name.id>K0F</name.id>
                         <electorate>Western Australia</electorate>
@@ -1216,7 +1216,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1233,7 +1233,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -1250,7 +1250,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4021</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1268,7 +1268,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4021</page.no>
+                        <page>4021</page>
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -1284,7 +1284,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4022</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1301,7 +1301,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4022</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1318,7 +1318,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4022</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1336,7 +1336,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4022</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1353,7 +1353,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4022</page.no>
+                            <page>4022</page>
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1372,7 +1372,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1389,7 +1389,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1406,7 +1406,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1423,7 +1423,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1440,7 +1440,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1457,7 +1457,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4023</page.no>
+                            <page>4023</page>
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1484,7 +1484,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4025</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -1501,7 +1501,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4025</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -1518,7 +1518,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4025</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1535,7 +1535,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4025</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1552,7 +1552,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4025</page.no>
+                            <page>4025</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -1570,7 +1570,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1587,7 +1587,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -1606,7 +1606,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4026</page.no>
+                        
                         <time.stamp />
                         <name.id>JVG</name.id>
                         <electorate>South Australia</electorate>
@@ -1622,7 +1622,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1639,7 +1639,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1656,7 +1656,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1673,7 +1673,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1690,7 +1690,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6J</name.id>
                             <electorate />
@@ -1707,7 +1707,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1724,7 +1724,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1741,7 +1741,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1758,7 +1758,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1775,7 +1775,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>JVG</name.id>
                             <electorate />
@@ -1792,7 +1792,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4026</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1807,7 +1807,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                     </talk.start>
                 </interjection><continue><talk.start>
                     <talker>
-                        <page.no>4026</page.no>
+                        <page>4026</page>
                         <time.stamp />
                         <name.id>JVG</name.id>
                         <electorate>SOUTH AUSTRALIA</electorate>
@@ -1822,7 +1822,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </talk.start></continue><para><inline font-weight="bold">Senator CLEMONS</inline>(Tasmania). - Something was said by <inline font-weight="bold">Senator O'Connor</inline> in answer to an interjection of. mine in regard to the question of allowances of stores to ships. I understood him to say that there was a provision in the Bill that allowances might be made. We know that the crew and the passengers must be fed. </para><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1838,7 +1838,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1854,7 +1854,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1870,7 +1870,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1886,7 +1886,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -1902,7 +1902,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4027</page.no>
+                            <page>4027</page>
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1918,7 +1918,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -1934,7 +1934,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1950,7 +1950,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1966,7 +1966,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -1982,7 +1982,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1998,7 +1998,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2014,7 +2014,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -2030,7 +2030,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2046,7 +2046,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><para>Motion (by <inline font-weight="bold">Senator Sir William</inline> Zeal) proposed - </para><para>That the committee do now divide. </para><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2062,7 +2062,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            
                             <time.stamp />
                             <name.id>KC7</name.id>
                             <electorate />
@@ -2078,7 +2078,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4028</page.no>
+                            <page>4028</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2096,7 +2096,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </quote><para class="block">That would cover the whole ground, and in addition I should make the penalty £100 instead of £50. By that means we should be carrying out the practice of all these years of supplying all oversea ships with free stores. We would not in the meantime touch any question as to the duty to be paid on goods consumed within the Commonwealth. I could see no objection to pass these three clauses with that amendment. </para><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2112,7 +2112,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -2128,7 +2128,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><para><inline font-weight="bold">Senator McGREGOR</inline>(South Australia). - As so much time has been taken up I shall also express my opinion. I would like to ask honorable senators what they are objecting to - are they objecting to free goods being put on board a ship to be used when the shiphas cleared away from Australia altogether? Do they want to give preference to Germany, France, and America so far as ship's stores are concerned? If so, let them persist in what they are doing, and they will carry that out with the greatest effect. But we, who have the interest of the Commonwealth and her producers at heart, wish to give all the ship-owners an opportunity of taking our goods duty free when they want to use them outside our borders altogether. </para><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2144,7 +2144,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2160,7 +2160,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2176,7 +2176,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2192,7 +2192,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -2208,7 +2208,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4029</page.no>
+                            <page>4029</page>
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2227,7 +2227,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4030</page.no>
+                        
                         <time.stamp />
                         <name.id>K1U</name.id>
                         <electorate>New South Wales</electorate>
@@ -2243,7 +2243,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2260,7 +2260,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2277,7 +2277,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -2294,7 +2294,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2313,7 +2313,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2330,7 +2330,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4030</page.no>
+                            <page>4030</page>
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2361,7 +2361,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4031</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2378,7 +2378,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4031</page.no>
+                            <page>4031</page>
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2397,7 +2397,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4032</page.no>
+                        
                         <time.stamp />
                         <name.id>KAH</name.id>
                         <electorate>New South Wales</electorate>
@@ -2413,7 +2413,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4032</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -2430,7 +2430,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4032</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -2448,7 +2448,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4032</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -2466,7 +2466,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4032</page.no>
+                        
                         <time.stamp />
                         <name.id>JU7</name.id>
                         <electorate>Western Australia</electorate>
@@ -2483,7 +2483,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4032</page.no>
+                        <page>4032</page>
                         <time.stamp />
                         <name.id>K6J</name.id>
                         <electorate>South Australia</electorate>
@@ -2539,7 +2539,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4033</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -2558,7 +2558,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2576,7 +2576,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4033</page.no>
+                        
                         <time.stamp />
                         <name.id>K1U</name.id>
                         <electorate>New South Wales</electorate>
@@ -2595,7 +2595,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2612,7 +2612,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2629,7 +2629,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2646,7 +2646,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -2663,7 +2663,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2680,7 +2680,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -2697,7 +2697,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2715,7 +2715,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4033</page.no>
+                        
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -2731,7 +2731,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4033</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2754,7 +2754,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4033</page.no>
+                        <page>4033</page>
                         <time.stamp />
                         <name.id>K1U</name.id>
                         <electorate>New South Wales</electorate>
@@ -2771,7 +2771,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4034</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -2790,7 +2790,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2807,7 +2807,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2824,7 +2824,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -2844,7 +2844,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2862,7 +2862,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2879,7 +2879,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2896,7 +2896,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2913,7 +2913,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2930,7 +2930,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2947,7 +2947,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2964,7 +2964,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4034</page.no>
+                            <page>4034</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -2983,7 +2983,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4035</page.no>
+                        
                         <time.stamp />
                         <name.id>K6M</name.id>
                         <electorate>Tasmania</electorate>
@@ -2999,7 +2999,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3016,7 +3016,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3033,7 +3033,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3050,7 +3050,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3068,7 +3068,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4035</page.no>
+                        
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -3087,7 +3087,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3104,7 +3104,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4035</page.no>
+                            <page>4035</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3121,7 +3121,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4036</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -3138,7 +3138,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4036</page.no>
+                            <page>4036</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3159,7 +3159,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4037</page.no>
+                            <page>4037</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3176,7 +3176,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3193,7 +3193,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3210,7 +3210,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -3227,7 +3227,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3244,7 +3244,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3261,7 +3261,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3278,7 +3278,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3295,7 +3295,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3313,7 +3313,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4038</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -3331,7 +3331,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4038</page.no>
+                        <page>4038</page>
                         <time.stamp />
                         <name.id>KUL</name.id>
                         <electorate>NEW SOUTH WALES</electorate>
@@ -3347,7 +3347,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4039</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -3364,7 +3364,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4039</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -3379,7 +3379,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                     </talk.start>
                 </interjection><continue><talk.start>
                     <talker>
-                        <page.no>4039</page.no>
+                        
                         <time.stamp />
                         <name.id>KUL</name.id>
                         <electorate />
@@ -3394,7 +3394,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </talk.start></continue><interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4039</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3410,7 +3410,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 </interjection><continue>
                     <talk.start>
                         <talker>
-                            <page.no>4039</page.no>
+                            <page>4039</page>
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -3429,7 +3429,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4040</page.no>
+                        
                         <time.stamp />
                         <name.id>KTF</name.id>
                         <electorate>South Australia</electorate>
@@ -3446,7 +3446,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4040</page.no>
+                        
                         <time.stamp />
                         <name.id>KAH</name.id>
                         <electorate>New South Wales</electorate>
@@ -3462,7 +3462,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4040</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3479,7 +3479,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4040</page.no>
+                            <page>4040</page>
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -3497,7 +3497,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -3514,7 +3514,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3533,7 +3533,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -3550,7 +3550,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3567,7 +3567,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -3584,7 +3584,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4041</page.no>
+                            <page>4041</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3602,7 +3602,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4042</page.no>
+                        
                         <time.stamp />
                         <name.id>JU7</name.id>
                         <electorate>Western Australia</electorate>
@@ -3618,7 +3618,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4042</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -3635,7 +3635,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4042</page.no>
+                            
                             <time.stamp />
                             <name.id>JU7</name.id>
                             <electorate />
@@ -3657,7 +3657,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4042</page.no>
+                            <page>4042</page>
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -3699,7 +3699,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4043</page.no>
+                        
                         <time.stamp />
                         <name.id>K6J</name.id>
                         <electorate>South Australia</electorate>
@@ -3724,7 +3724,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4043</page.no>
+                        
                         <time.stamp />
                         <name.id>K0X</name.id>
                         <electorate>South Australia</electorate>
@@ -3742,7 +3742,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4043</page.no>
+                        
                         <time.stamp />
                         <name.id>K6M</name.id>
                         <electorate>Tasmania</electorate>
@@ -3758,7 +3758,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4043</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -3775,7 +3775,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4043</page.no>
+                            <page>4043</page>
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3792,7 +3792,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4044</page.no>
+                            
                             <time.stamp />
                             <name.id>KC7</name.id>
                             <electorate />
@@ -3809,7 +3809,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4044</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3826,7 +3826,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4044</page.no>
+                            
                             <time.stamp />
                             <name.id>KC7</name.id>
                             <electorate />
@@ -3843,7 +3843,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4044</page.no>
+                            
                             <time.stamp />
                             <name.id>K6M</name.id>
                             <electorate />
@@ -3861,7 +3861,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4044</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -3878,7 +3878,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4044</page.no>
+                        
                         <time.stamp />
                         <name.id>K7D</name.id>
                         <electorate>Queensland</electorate>
@@ -3895,7 +3895,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4044</page.no>
+                        <page>4044</page>
                         <time.stamp />
                         <name.id>JXO</name.id>
                         <electorate>Queensland</electorate>
@@ -3912,7 +3912,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4045</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -3930,7 +3930,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4045</page.no>
+                        
                         <time.stamp />
                         <name.id>KUL</name.id>
                         <electorate />
@@ -3947,7 +3947,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4045</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -3965,7 +3965,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4045</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -3982,7 +3982,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4045</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -4002,7 +4002,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4045</page.no>
+                        <page>4045</page>
                         <time.stamp />
                         <name.id>KTF</name.id>
                         <electorate>South Australia</electorate>
@@ -4018,7 +4018,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4046</page.no>
+                            
                             <time.stamp />
                             <name.id>K7D</name.id>
                             <electorate />
@@ -4035,7 +4035,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4046</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -4053,7 +4053,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4046</page.no>
+                        
                         <time.stamp />
                         <name.id>K0F</name.id>
                         <electorate>Western Australia</electorate>
@@ -4070,7 +4070,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4046</page.no>
+                        
                         <time.stamp />
                         <name.id>JVG</name.id>
                         <electorate>South Australia.</electorate>
@@ -4101,7 +4101,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4046</page.no>
+                            
                             <time.stamp />
                             <name.id>K7D</name.id>
                             <electorate />
@@ -4120,7 +4120,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4046</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -4137,7 +4137,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4046</page.no>
+                            <page>4046</page>
                             <time.stamp />
                             <name.id>K7D</name.id>
                             <electorate />
@@ -4156,7 +4156,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4047</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -4173,7 +4173,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4047</page.no>
+                        
                         <time.stamp />
                         <name.id>K6D</name.id>
                         <electorate>Western Australia</electorate>
@@ -4190,7 +4190,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4047</page.no>
+                        
                         <time.stamp />
                         <name.id>K6J</name.id>
                         <electorate>South Australia</electorate>
@@ -4209,7 +4209,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4047</page.no>
+                        <page>4047</page>
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -4235,7 +4235,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4048</page.no>
+                        
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -4252,7 +4252,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4048</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -4269,7 +4269,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4048</page.no>
+                        
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -4285,7 +4285,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -4302,7 +4302,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -4319,7 +4319,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -4336,7 +4336,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -4353,7 +4353,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -4370,7 +4370,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4048</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -4395,7 +4395,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                     <para>Samples of duty-paid goods, or goods the produce of Australia sent out of Australia, may, subject to any prescribed conditions, be re-imported or brought back to Australia without payment of duty. </para>
                 </quote><continue><talk.start>
                     <talker>
-                        <page.no>4048</page.no>
+                        <page>4048</page>
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -4415,7 +4415,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4049</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -4440,7 +4440,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4049</page.no>
+                        
                         <time.stamp />
                         <name.id>KUL</name.id>
                         <electorate>New South Wales</electorate>
@@ -4460,7 +4460,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4049</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -4477,7 +4477,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4049</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -4495,7 +4495,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4049</page.no>
+                        <page>4049</page>
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -4511,7 +4511,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>4050</page.no>
+                            
                             <time.stamp />
                             <name.id>KUL</name.id>
                             <electorate />
@@ -4528,7 +4528,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4050</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -4551,7 +4551,7 @@ foreign voyage, and means articles of food or consumption on board such vessel. 
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>4050</page.no>
+                <page>4050</page>
                 <time.stamp>22:10:00</time.stamp>
             </adjournmentinfo>
             <para>Senate adjourned at 10.10 p.m. </para>

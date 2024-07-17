@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>SENATE</chamber>
-        <page.no>8010</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -17,7 +17,7 @@
         <debate>
             <debateinfo>
                 <title>PETITION</title>
-                <page.no>8010</page.no>
+                
                 <type>petition</type>
             </debateinfo>
             <para>
@@ -29,13 +29,13 @@
         <debate>
             <debateinfo>
                 <title>KANAKAS IN QUEENSLAND</title>
-                <page.no>8010</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8010</page.no>
+                        
                         <time.stamp />
                         <name.id>KHE</name.id>
                         <electorate>QUEENSLAND</electorate>
@@ -52,7 +52,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8010</page.no>
+                        
                         <time.stamp />
                         <name.id>10000</name.id>
                         <electorate />
@@ -68,7 +68,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8010</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -86,7 +86,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8010</page.no>
+                        
                         <time.stamp />
                         <name.id>JXO</name.id>
                         <electorate>QUEENSLAND</electorate>
@@ -104,7 +104,7 @@
         <debate>
             <debateinfo>
                 <title>CORRESPONDENCE WITH THE PREMIER OF QUEENSLAND</title>
-                <page.no>8010</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <para>The PRESIDENT laid on the table the following paper : - </para>
@@ -115,7 +115,7 @@
         <debate>
             <debateinfo>
                 <title>PACIFIC ISLAND LABOURERS BILL</title>
-                <page.no>8010</page.no>
+                <page>8010</page>
                 <type>bill</type>
             </debateinfo>
             <para>
@@ -140,7 +140,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8011</page.no>
+                        
                         <time.stamp />
                         <name.id>K1U</name.id>
                         <electorate>New South Wales</electorate>
@@ -156,7 +156,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate>QUEENSLAND</electorate>
@@ -173,7 +173,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -191,7 +191,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8011</page.no>
+                        
                         <time.stamp />
                         <name.id>JXO</name.id>
                         <electorate>Queensland</electorate>
@@ -211,7 +211,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -228,7 +228,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -246,7 +246,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8011</page.no>
+                        
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -262,7 +262,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -279,7 +279,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8011</page.no>
+                            <page>8011</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -296,7 +296,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8012</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -313,7 +313,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8012</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -330,7 +330,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8012</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -347,7 +347,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8012</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -365,7 +365,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8012</page.no>
+                        
                         <time.stamp />
                         <name.id>KLW</name.id>
                         <electorate>Queensland</electorate>
@@ -382,7 +382,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8012</page.no>
+                        
                         <time.stamp />
                         <name.id>K7V</name.id>
                         <electorate>South Australia</electorate>
@@ -400,7 +400,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8012</page.no>
+                        <page>8012</page>
                         <time.stamp />
                         <name.id>KHE</name.id>
                         <electorate>Queensland</electorate>
@@ -416,7 +416,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -433,7 +433,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -450,7 +450,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -467,7 +467,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -484,7 +484,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -501,7 +501,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate>QUEENSLAND</electorate>
@@ -519,7 +519,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8013</page.no>
+                        
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -543,7 +543,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -561,7 +561,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -578,7 +578,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -599,7 +599,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -619,7 +619,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -636,7 +636,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8013</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -654,7 +654,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8013</page.no>
+                        <page>8013</page>
                         <time.stamp />
                         <name.id>K1O</name.id>
                         <electorate>Victoria</electorate>
@@ -671,7 +671,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8014</page.no>
+                        
                         <time.stamp />
                         <name.id>KAH</name.id>
                         <electorate>New South Wales</electorate>
@@ -691,7 +691,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8014</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -716,7 +716,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8014</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -733,7 +733,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8014</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -751,7 +751,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8014</page.no>
+                        <page>8014</page>
                         <time.stamp />
                         <name.id>JVC</name.id>
                         <electorate>Tasmania</electorate>
@@ -774,7 +774,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8015</page.no>
+                        <page>8015</page>
                         <time.stamp />
                         <name.id>K0X</name.id>
                         <electorate>South Australia</electorate>
@@ -810,7 +810,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -827,7 +827,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -848,7 +848,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -865,7 +865,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -887,7 +887,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8016</page.no>
+                        
                         <time.stamp />
                         <name.id>K6J</name.id>
                         <electorate>South Australia</electorate>
@@ -903,7 +903,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -920,7 +920,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8016</page.no>
+                            <page>8016</page>
                             <time.stamp />
                             <name.id>K6J</name.id>
                             <electorate />
@@ -945,7 +945,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -962,7 +962,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -987,7 +987,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -1005,7 +1005,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8017</page.no>
+                        
                         <time.stamp />
                         <name.id>KTF</name.id>
                         <electorate />
@@ -1021,7 +1021,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -1038,7 +1038,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -1055,7 +1055,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -1072,7 +1072,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8017</page.no>
+                            <page>8017</page>
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -1090,7 +1090,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8018</page.no>
+                        
                         <time.stamp />
                         <name.id>KKL</name.id>
                         <electorate>Victoria</electorate>
@@ -1117,7 +1117,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8018</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -1134,7 +1134,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8018</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1151,7 +1151,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8018</page.no>
+                            <page>8018</page>
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -1173,7 +1173,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8019</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -1190,7 +1190,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8019</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1207,7 +1207,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8019</page.no>
+                            <page>8019</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -1239,7 +1239,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8020</page.no>
+                        
                         <time.stamp />
                         <name.id>K6D</name.id>
                         <electorate>Western Australia</electorate>
@@ -1255,7 +1255,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -1272,7 +1272,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>JVC</name.id>
                             <electorate />
@@ -1295,7 +1295,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -1312,7 +1312,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -1329,7 +1329,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1346,7 +1346,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -1363,7 +1363,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            
                             <time.stamp />
                             <name.id>K6J</name.id>
                             <electorate />
@@ -1380,7 +1380,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8020</page.no>
+                            <page>8020</page>
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -1397,7 +1397,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1414,7 +1414,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -1431,7 +1431,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -1448,7 +1448,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>K6D</name.id>
                             <electorate />
@@ -1471,7 +1471,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>JVC</name.id>
                             <electorate />
@@ -1488,7 +1488,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1505,7 +1505,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -1522,7 +1522,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8021</page.no>
+                            <page>8021</page>
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1545,7 +1545,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8022</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1562,7 +1562,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8022</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -1580,7 +1580,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8022</page.no>
+                        <page>8022</page>
                         <time.stamp />
                         <name.id>KSH</name.id>
                         <electorate>Tasmania</electorate>
@@ -1622,7 +1622,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8023</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -1639,7 +1639,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8023</page.no>
+                            
                             <time.stamp />
                             <name.id>KAH</name.id>
                             <electorate />
@@ -1657,7 +1657,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8023</page.no>
+                        <page>8023</page>
                         <time.stamp />
                         <name.id>JZ9</name.id>
                         <electorate>Tasmania</electorate>
@@ -1696,7 +1696,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8024</page.no>
+                        <page>8024</page>
                         <time.stamp />
                         <name.id>JYS</name.id>
                         <electorate>Queensland</electorate>
@@ -1724,7 +1724,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -1741,7 +1741,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1770,7 +1770,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -1787,7 +1787,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1808,7 +1808,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -1825,7 +1825,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8025</page.no>
+                            <page>8025</page>
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1851,7 +1851,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8027</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -1868,7 +1868,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8027</page.no>
+                            <page>8027</page>
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1893,7 +1893,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8028</page.no>
+                            
                             <time.stamp />
                             <name.id>K0F</name.id>
                             <electorate />
@@ -1910,7 +1910,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8028</page.no>
+                            
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1927,7 +1927,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8028</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -1944,7 +1944,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8028</page.no>
+                            
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -1966,7 +1966,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8028</page.no>
+                        <page>8028</page>
                         <time.stamp />
                         <name.id>JXO</name.id>
                         <electorate />
@@ -1982,7 +1982,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -1999,7 +1999,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2016,7 +2016,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2033,7 +2033,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2050,7 +2050,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2067,7 +2067,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2084,7 +2084,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -2101,7 +2101,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2118,7 +2118,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2135,7 +2135,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2152,7 +2152,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            
                             <time.stamp />
                             <name.id>JYS</name.id>
                             <electorate />
@@ -2169,7 +2169,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8029</page.no>
+                            <page>8029</page>
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2186,7 +2186,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>KSH</name.id>
                             <electorate />
@@ -2203,7 +2203,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2220,7 +2220,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2237,7 +2237,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2254,7 +2254,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2271,7 +2271,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2288,7 +2288,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2305,7 +2305,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2322,7 +2322,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            
                             <time.stamp />
                             <name.id>K54</name.id>
                             <electorate />
@@ -2339,7 +2339,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8031</page.no>
+                            <page>8031</page>
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2356,7 +2356,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -2373,7 +2373,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2392,7 +2392,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8032</page.no>
+                        
                         <time.stamp />
                         <name.id>KKL</name.id>
                         <electorate>VICTORIA</electorate>
@@ -2408,7 +2408,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2425,7 +2425,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2442,7 +2442,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2459,7 +2459,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2476,7 +2476,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -2493,7 +2493,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8032</page.no>
+                            <page>8032</page>
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2511,7 +2511,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -2528,7 +2528,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2545,7 +2545,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2562,7 +2562,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2579,7 +2579,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>JZ9</name.id>
                             <electorate />
@@ -2596,7 +2596,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2613,7 +2613,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2630,7 +2630,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2647,7 +2647,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2664,7 +2664,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2681,7 +2681,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KHE</name.id>
                             <electorate />
@@ -2698,7 +2698,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2719,7 +2719,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>JVC</name.id>
                             <electorate />
@@ -2736,7 +2736,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2753,7 +2753,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2770,7 +2770,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2787,7 +2787,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2804,7 +2804,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8033</page.no>
+                            <page>8033</page>
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2821,7 +2821,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>KTF</name.id>
                             <electorate />
@@ -2838,7 +2838,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>KKL</name.id>
                             <electorate />
@@ -2856,7 +2856,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8034</page.no>
+                        
                         <time.stamp />
                         <name.id>K1U</name.id>
                         <electorate>New South Wales</electorate>
@@ -2872,7 +2872,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -2889,7 +2889,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2906,7 +2906,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>K7V</name.id>
                             <electorate />
@@ -2923,7 +2923,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -2940,7 +2940,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8034</page.no>
+                            
                             <time.stamp />
                             <name.id>K1U</name.id>
                             <electorate />
@@ -2958,7 +2958,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8034</page.no>
+                        <page>8034</page>
                         <time.stamp />
                         <name.id>K54</name.id>
                         <electorate>Victoria</electorate>
@@ -2975,7 +2975,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8035</page.no>
+                        
                         <time.stamp />
                         <name.id>K6J</name.id>
                         <electorate>South Australia</electorate>
@@ -2992,7 +2992,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8035</page.no>
+                        
                         <time.stamp />
                         <name.id>K7V</name.id>
                         <electorate>South Australia</electorate>
@@ -3009,7 +3009,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8035</page.no>
+                        <page>8035</page>
                         <time.stamp />
                         <name.id>KLZ</name.id>
                         <electorate>New South Wales</electorate>
@@ -3025,7 +3025,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8036</page.no>
+                            
                             <time.stamp />
                             <name.id>K0X</name.id>
                             <electorate />
@@ -3042,7 +3042,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8036</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3059,7 +3059,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8036</page.no>
+                            
                             <time.stamp />
                             <name.id>JXO</name.id>
                             <electorate />
@@ -3076,7 +3076,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8036</page.no>
+                            <page>8036</page>
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3097,7 +3097,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8037</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3114,7 +3114,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8037</page.no>
+                            
                             <time.stamp />
                             <name.id>KLW</name.id>
                             <electorate />
@@ -3131,7 +3131,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8037</page.no>
+                            
                             <time.stamp />
                             <name.id>KLZ</name.id>
                             <electorate />
@@ -3150,7 +3150,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>8037</page.no>
+                <page>8037</page>
                 <time.stamp>16:15:00</time.stamp>
             </adjournmentinfo>
                 <para class="block">Senate adjourned at 4.2 p.m. </para>

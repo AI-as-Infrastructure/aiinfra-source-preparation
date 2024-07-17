@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>REPS</chamber>
-        <page.no>32</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -20,7 +20,7 @@
         <debate>
             <debateinfo>
                 <title>GOVERNOR-GENERAL'S SPEECH</title>
-                <page.no>32</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <para>The Usher of the Black Rod being announced, was admitted, and delivered the message that "His Excellency the Governor-General desires the immediate attendance of this honorable House in the Senate chamber." </para>
@@ -34,13 +34,13 @@
         <debate>
             <debateinfo>
                 <title>ACTS INTERPRETATION BILL</title>
-                <page.no>32</page.no>
+                
                 <type>bill</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>32</page.no>
+                        
                         <time.stamp />
                         <name.id>009MD</name.id>
                         <electorate>Ballarat</electorate>
@@ -61,13 +61,13 @@
         <debate>
             <debateinfo>
                 <title>ADDRESS IN REPLY</title>
-                <page.no>32</page.no>
+                
                 <type>address in reply</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>32</page.no>
+                        
                         <time.stamp />
                         <name.id>009LR</name.id>
                         <electorate>Hunter</electorate>
@@ -83,7 +83,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>F4N</name.id>
                             <electorate />
@@ -100,7 +100,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>009LR</name.id>
                             <electorate />
@@ -117,7 +117,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            
                             <time.stamp />
                             <name.id>F4N</name.id>
                             <electorate />
@@ -134,7 +134,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>32</page.no>
+                            <page>32</page>
                             <time.stamp />
                             <name.id>009LR</name.id>
                             <electorate />
@@ -159,7 +159,7 @@
         <debate>
             <debateinfo>
                 <title>STANDING ORDERS</title>
-                <page.no>33</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <para>
@@ -176,7 +176,7 @@
         <debate>
             <debateinfo>
                 <title>SPECIAL ADJOURNMENT</title>
-                <page.no>33</page.no>
+                
                 <type>special adjournment</type>
             </debateinfo>
             <para>Motion (by <inline font-weight="bold">Mr. Barton)</inline> proposed - </para>
@@ -186,7 +186,7 @@
             <interjection>
                 <talk.start>
                     <talker>
-                        <page.no>33</page.no>
+                        
                         <time.stamp />
                         <name.id>F4R</name.id>
                         <electorate />
@@ -203,7 +203,7 @@
             <interjection>
                 <talk.start>
                     <talker>
-                        <page.no>33</page.no>
+                        
                         <time.stamp />
                         <name.id>009LR</name.id>
                         <electorate />
@@ -220,7 +220,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>33</page.no>
+                        
                         <time.stamp />
                         <name.id>L2G</name.id>
                         <electorate>Wentworth</electorate>
@@ -237,7 +237,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>33</page.no>
+                        
                         <time.stamp />
                         <name.id>009LR</name.id>
                         <electorate>Hunter</electorate>
@@ -260,7 +260,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>33</page.no>
+                        
                         <time.stamp />
                         <name.id>10000</name.id>
                         <electorate />
@@ -278,18 +278,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTION</title>
-                <page.no>33</page.no>
+                
                 <type>Questions</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>PACIFIC CABLE</title>
-                    <page.no>33</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            
                             <time.stamp />
                             <name.id>20000</name.id>
                             <electorate />
@@ -306,7 +306,7 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            
                             <time.stamp />
                             <name.id>009LR</name.id>
                             <electorate />
@@ -325,20 +325,20 @@
         <debate>
             <debateinfo>
                 <title>ADJOURNMENT</title>
-                <page.no>33</page.no>
+                
                 <type>adjournment</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Hansard Election Petition</title>
-                    <page.no>33</page.no>
+                    
                 </subdebateinfo>
                 <para>Motion (by <inline font-weight="bold">Mr. Barton)</inline> proposed - </para>
                 <para>That the House do now adjourn. </para>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            
                             <time.stamp />
                             <name.id>F4N</name.id>
                             <electorate>Wide Bay</electorate>
@@ -355,7 +355,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            
                             <time.stamp />
                             <name.id>009LR</name.id>
                             <electorate>Hunter</electorate>
@@ -372,7 +372,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            
                             <time.stamp />
                             <name.id>K5D</name.id>
                             <electorate>Tasmania</electorate>
@@ -388,7 +388,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>33</page.no>
+                                
                                 <time.stamp />
                                 <name.id>F4S</name.id>
                                 <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
@@ -405,7 +405,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>33</page.no>
+                                
                                 <time.stamp />
                                 <name.id>009LR</name.id>
                                 <electorate />
@@ -423,7 +423,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>33</page.no>
+                            <page>33</page>
                             <time.stamp />
                             <name.id>10000</name.id>
                             <electorate />
@@ -439,7 +439,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>34</page.no>
+                                
                                 <time.stamp />
                                 <name.id>009LR</name.id>
                                 <electorate />
@@ -457,7 +457,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>34</page.no>
+                                
                                 <time.stamp />
                                 <name.id>009LR</name.id>
                                 <electorate />
@@ -474,7 +474,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>34</page.no>
+                                
                                 <time.stamp />
                                 <name.id>10000</name.id>
                                 <electorate />
@@ -495,7 +495,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>34</page.no>
+                <page>34</page>
                 <time.stamp>11:40:00</time.stamp>
             </adjournmentinfo>
             <para>House adjourned at 11.40 a. m.</para>

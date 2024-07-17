@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>REPS</chamber>
-        <page.no>3490</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -20,18 +20,18 @@
         <debate>
             <debateinfo>
                 <title>DEMISE OF THE DOWAGER EMPRESS OF GERMANY</title>
-                <page.no>3490</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Special Adjournment</title>
-                    <page.no>3490</page.no>
+                    
                 </subdebateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>3490</page.no>
+                            
                             <time.stamp />
                             <name.id>10000</name.id>
                             <electorate />
@@ -48,7 +48,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>3490</page.no>
+                            <page>3490</page>
                             <time.stamp />
                             <name.id>009LR</name.id>
                             <electorate>Hunter</electorate>
@@ -67,7 +67,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>3491</page.no>
+                            
                             <time.stamp />
                             <name.id>L2G</name.id>
                             <electorate>Wentworth</electorate>
@@ -86,7 +86,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>3491</page.no>
+                <page>3491</page>
                 <time.stamp>14:40:00</time.stamp>
             </adjournmentinfo>
                     <para>House adjourned at 2.40 p.m. </para>

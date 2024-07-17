@@ -5,7 +5,7 @@
     <session.no>1</session.no>
     <period.no>0</period.no>
     <chamber>SENATE</chamber>
-    <page.no>5</page.no>
+    
     <proof>0</proof>
   </session.header>
   <chamber.xscript>
@@ -19,7 +19,7 @@
     <debate>
       <debateinfo>
         <title>THE OPENING OF PARLIAMENT</title>
-        <page.no>5</page.no>
+        <page>5</page>
         <type>miscellaneous</type>
       </debateinfo>
       <para>The senators assembled under the dome in the Exhibition-building, Melbourne, at a quarter to twelve o'clock a.m., pursuant to the proclamation of His Excellency the Governor General convening Parliament. </para>
@@ -60,13 +60,13 @@
     <debate>
       <debateinfo>
         <title>GOVERNOR-GENERAL'S SPEECH</title>
-        <page.no>7</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <subdebate.1>
         <subdebateinfo>
           <title>Calling of Parliament</title>
-          <page.no>7</page.no>
+          
         </subdebateinfo>
         <para>HIS EXCELLENCY THE GOVERNOR-GENERAL then addressed both Houses as follows : - "Gentlemen of the Senate, Gentlemen of the House of Representatives - "I am desired by His Royal Highness to acquaint you that so soon as the Members of your Houses shall be sworn, and a President of the Senate and a Speaker of the House of Representatives shall be chosen, I will declare to you the causes of this Parliament being called. The Members of the Senate and the Members of the House of Representatives will, therefore, now make and subscribe before me, the Governor General, the Oath or Affirmation of Allegiance, as by the Constitution Act provided, which will be administered by me." </para>
       </subdebate.1>
@@ -74,7 +74,7 @@
     <debate>
       <debateinfo>
         <title>MEMBERS SWORN</title>
-        <page.no>7</page.no>
+        <page>7</page>
         <type>miscellaneous</type>
       </debateinfo>
       <para>The Clerk of the Parliaments having received the returns to the writs issued for the election of members to the Senate, </para>
@@ -90,7 +90,7 @@
     <debate>
       <debateinfo>
         <title>ELECTION OF PRESIDENT AND SPEAKER</title>
-        <page.no>8</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <para>HIS EXCELLENCY THE GOVERNOR-GENERAL further addressed both Houses, in the following terms : - "Gentlemen of the Senate, Gentlemen of the House of Representatives - "It being necessary that a President of the Senate and a Speaker of the House of Representatives should be first chosen, you will repair to the places where you are to sit, where you, Gentlemen of the Senate, will proceed to choose some proper person to be your President, and you, Gentlemen of the House of Representatives, will proceed to choose some proper person to be your Speaker, and thereafter you respectively will present such persons for my approval at such time and place as I shall hereafter appoint." </para>
@@ -104,7 +104,7 @@
     <debate>
       <debateinfo>
         <title>SPECIAL ADJOURNMENT</title>
-        <page.no>8</page.no>
+        
         <type>special adjournment</type>
       </debateinfo>
       <para>Motion (by <inline font-weight="bold">Senator O'Connor)</inline> proposed - </para>
@@ -112,7 +112,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>8</page.no>
+            
             <time.stamp />
             <name.id>KHE</name.id>
             <electorate>Queensland</electorate>
@@ -129,7 +129,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>8</page.no>
+            <page>8</page>
             <time.stamp />
             <name.id>JYD</name.id>
             <electorate>NEW SOUTH WALES</electorate>
@@ -147,7 +147,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>9</page.no>
+        
         <time.stamp>13:15:00</time.stamp>
       </adjournmentinfo>
       <para>Senate adjourned at 1.15 p.m. </para>
@@ -156,13 +156,13 @@
     <debate>
       <debateinfo>
         <title>ELECTION OF THE PRESIDENT</title>
-        <page.no>9</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>9</page.no>
+            
             <time.stamp />
             <name.id>JYD</name.id>
             <electorate>New South WalesVicePresident of the Executive Council</electorate>
@@ -181,7 +181,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>9</page.no>
+            
             <time.stamp />
             <name.id>K7V</name.id>
             <electorate>South Australia</electorate>
@@ -199,7 +199,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
+              
               <time.stamp />
               <name.id>JVG</name.id>
               <electorate />
@@ -216,7 +216,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -233,7 +233,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
+              <page>9</page>
               <time.stamp />
               <name.id>JVG</name.id>
               <electorate />
@@ -250,7 +250,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -268,7 +268,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
+            
             <time.stamp />
             <name.id>KUL</name.id>
             <electorate>New South Wales</electorate>
@@ -285,7 +285,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -303,7 +303,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
+            
             <time.stamp />
             <name.id>JVG</name.id>
             <electorate>South Australia</electorate>
@@ -320,7 +320,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
+            
             <time.stamp />
             <name.id>KHE</name.id>
             <electorate>Queensland</electorate>
@@ -336,7 +336,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -353,7 +353,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
+              <page>10</page>
               <time.stamp />
               <name.id>KHE</name.id>
               <electorate />
@@ -379,7 +379,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
+            
             <time.stamp />
             <name.id>JYQ</name.id>
             <electorate>Western Australia</electorate>
@@ -395,7 +395,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -414,7 +414,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
+              
               <time.stamp />
               <name.id>JXT</name.id>
               <electorate />
@@ -431,7 +431,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -452,7 +452,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
+            
             <time.stamp />
             <name.id>JXT</name.id>
             <electorate />
@@ -471,7 +471,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
+            <page>11</page>
             <time.stamp />
             <name.id>JTV</name.id>
             <electorate>QUEENSLAND</electorate>
@@ -487,7 +487,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>K3S</name.id>
               <electorate />
@@ -504,7 +504,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -521,7 +521,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JYD</name.id>
               <electorate />
@@ -538,7 +538,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -556,7 +556,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>KUL</name.id>
               <electorate />
@@ -573,7 +573,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -590,7 +590,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>K6J</name.id>
               <electorate />
@@ -607,7 +607,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -624,7 +624,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>K6J</name.id>
               <electorate />
@@ -641,7 +641,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -660,7 +660,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>12</page.no>
+            
             <time.stamp />
             <name.id>K7D</name.id>
             <electorate>Queensland</electorate>
@@ -678,7 +678,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
+              
               <time.stamp />
               <name.id>KHE</name.id>
               <electorate />
@@ -696,7 +696,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>12</page.no>
+            <page>12</page>
             <time.stamp />
             <name.id>KLZ</name.id>
             <electorate>NEW SOUTH WALES</electorate>
@@ -712,7 +712,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>13</page.no>
+              
               <time.stamp />
               <name.id>JTV</name.id>
               <electorate>QUEENSLAND</electorate>
@@ -729,7 +729,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>13</page.no>
+              
               <time.stamp />
               <name.id>KLZ</name.id>
               <electorate />
@@ -747,7 +747,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
+            
             <time.stamp />
             <name.id>KSQ</name.id>
             <electorate>Western Australia</electorate>
@@ -764,7 +764,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
+            
             <time.stamp />
             <name.id>K6J</name.id>
             <electorate>South Australia</electorate>
@@ -781,7 +781,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
+            <page>13</page>
             <time.stamp />
             <name.id>K7V</name.id>
             <electorate>South Australia</electorate>
@@ -798,7 +798,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
+              
               <time.stamp />
               <name.id>K7V</name.id>
               <electorate />
@@ -830,7 +830,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
+            
             <time.stamp />
             <name.id>JYD</name.id>
             <electorate>New South Wales</electorate>
@@ -846,7 +846,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
+              
               <time.stamp />
               <name.id>JVG</name.id>
               <electorate />
@@ -863,7 +863,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
+              
               <time.stamp />
               <name.id>KLW</name.id>
               <electorate />
@@ -885,7 +885,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
+            
             <time.stamp />
             <name.id>JPC</name.id>
             <electorate>Victoria</electorate>
@@ -901,7 +901,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
+              
               <time.stamp />
               <name.id>K7V</name.id>
               <electorate>SOUTH AUSTRALIA</electorate>
@@ -922,7 +922,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
+            <page>14</page>
             <time.stamp />
             <name.id>K6D</name.id>
             <electorate>Western Australia</electorate>
@@ -939,7 +939,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>KAH</name.id>
             <electorate>New South Wales</electorate>
@@ -957,7 +957,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>JVG</name.id>
             <electorate>South Australia</electorate>
@@ -975,7 +975,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>L2E</name.id>
             <electorate>South Australia</electorate>
@@ -993,7 +993,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -1012,7 +1012,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>KLZ</name.id>
             <electorate>New South Wales</electorate>
@@ -1029,7 +1029,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>KTF</name.id>
             <electorate>South Australia</electorate>
@@ -1046,7 +1046,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
+            
             <time.stamp />
             <name.id>K7V</name.id>
             <electorate>South Australia</electorate>
@@ -1062,7 +1062,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>15</page.no>
+              <page>15</page>
               <time.stamp />
               <name.id>10000</name.id>
               <electorate />
@@ -1082,7 +1082,7 @@
     <debate>
       <debateinfo>
         <title>PRESENTATION OF THE PRESIDENT TO THE GOVERNOR- GENERAL</title>
-        <page.no>16</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <para>The Senate proceeded to the Executive Council Chamber, Treasury-buildings to present the President to His Excellency the Governor- General </para>
@@ -1091,7 +1091,7 @@
       <interjection>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -1109,13 +1109,13 @@
     <debate>
       <debateinfo>
         <title>MESSAGE FROM THE SECRETARY OF STATE FOR THE COLONIES</title>
-        <page.no>16</page.no>
+        
         <type>miscellaneous</type>
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
+            
             <time.stamp />
             <name.id>10000</name.id>
             <electorate />
@@ -1135,7 +1135,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
+            
             <time.stamp />
             <name.id>KLW</name.id>
             <electorate>Queensland</electorate>
@@ -1151,7 +1151,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>16</page.no>
+              
               <time.stamp />
               <name.id>10000</name.id>
               <electorate />
@@ -1170,7 +1170,7 @@
     <debate>
       <debateinfo>
         <title>SPECIAL ADJOURNMENT</title>
-        <page.no>16</page.no>
+        
         <type>special adjournment</type>
       </debateinfo>
       <para class="block">
@@ -1181,7 +1181,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>16</page.no>
+        <page>16</page>
         <time.stamp>16:13:00</time.stamp>
       </adjournmentinfo>
       <para class="block">Senate adjourned at 4.13 p.m. </para>

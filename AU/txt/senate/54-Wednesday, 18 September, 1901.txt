@@ -5,7 +5,7 @@
         <session.no>1</session.no>
         <period.no>0</period.no>
         <chamber>SENATE</chamber>
-        <page.no>4919</page.no>
+        
         <proof>0</proof>
     </session.header>
     <chamber.xscript>
@@ -17,13 +17,13 @@
         <debate>
             <debateinfo>
                 <title>DEATH OF PRESIDENT McKINLEY</title>
-                <page.no>4919</page.no>
+                
                 <type>miscellaneous</type>
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4919</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate>NEW SOUTH WALES</electorate>
@@ -40,7 +40,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4919</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -65,7 +65,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4919</page.no>
+                        <page>4919</page>
                         <time.stamp />
                         <name.id>K7V</name.id>
                         <electorate>SOUTH AUSTRALIA</electorate>
@@ -95,7 +95,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4920</page.no>
+                        <page>4920</page>
                         <time.stamp />
                         <name.id>KTF</name.id>
                         <electorate>SOUTH AUSTRALIA</electorate>
@@ -114,7 +114,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>4921</page.no>
+                        
                         <time.stamp />
                         <name.id>JYD</name.id>
                         <electorate />
@@ -136,7 +136,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>4921</page.no>
+                            
                             <time.stamp />
                             <name.id>JYD</name.id>
                             <electorate />
@@ -156,7 +156,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>4921</page.no>
+                <page>4921</page>
                 <time.stamp>14:53:00</time.stamp>
             </adjournmentinfo>
                     <para class="block">Senate adjourned at 2.53 p.m. </para>
