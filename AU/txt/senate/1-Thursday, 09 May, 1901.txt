@@ -1,12 +1,7 @@
-<hansard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1">
+
   <session.header>
     <date>1901-05-09</date>
-    <parliament.no>1</parliament.no>
-    <session.no>1</session.no>
-    <period.no>0</period.no>
-    <chamber>SENATE</chamber>
-    <page.no>5</page.no>
-    <proof>0</proof>
+    
   </session.header>
   <chamber.xscript>
     <para class="block">COMMONWEALTH OF AUSTRALIA </para>
@@ -14,13 +9,11 @@
     <para>First <inline font-style="italic">Session</inline> of the First Parliament. </para>
     <para class="block">Senate. </para>
     <business.start>
-      <day.start>1901-05-09</day.start>
     </business.start>
     <debate>
       <debateinfo>
         <title>THE OPENING OF PARLIAMENT</title>
-        <page.no>5</page.no>
-        <type>miscellaneous</type>
+        <page>5</page>
       </debateinfo>
       <para>The senators assembled under the dome in the Exhibition-building, Melbourne, at a quarter to twelve o'clock a.m., pursuant to the proclamation of His Excellency the Governor General convening Parliament. </para>
       <para>The Clerk of the Parliaments read the proclamation.</para>
@@ -60,13 +53,12 @@
     <debate>
       <debateinfo>
         <title>GOVERNOR-GENERAL'S SPEECH</title>
-        <page.no>7</page.no>
-        <type>miscellaneous</type>
+        
       </debateinfo>
       <subdebate.1>
         <subdebateinfo>
           <title>Calling of Parliament</title>
-          <page.no>7</page.no>
+          
         </subdebateinfo>
         <para>HIS EXCELLENCY THE GOVERNOR-GENERAL then addressed both Houses as follows : - "Gentlemen of the Senate, Gentlemen of the House of Representatives - "I am desired by His Royal Highness to acquaint you that so soon as the Members of your Houses shall be sworn, and a President of the Senate and a Speaker of the House of Representatives shall be chosen, I will declare to you the causes of this Parliament being called. The Members of the Senate and the Members of the House of Representatives will, therefore, now make and subscribe before me, the Governor General, the Oath or Affirmation of Allegiance, as by the Constitution Act provided, which will be administered by me." </para>
       </subdebate.1>
@@ -74,8 +66,7 @@
     <debate>
       <debateinfo>
         <title>MEMBERS SWORN</title>
-        <page.no>7</page.no>
-        <type>miscellaneous</type>
+        <page>7</page>
       </debateinfo>
       <para>The Clerk of the Parliaments having received the returns to the writs issued for the election of members to the Senate, </para>
       <para>The following senators made and subscribed the oath or affirmation of allegiance : - </para>
@@ -90,8 +81,7 @@
     <debate>
       <debateinfo>
         <title>ELECTION OF PRESIDENT AND SPEAKER</title>
-        <page.no>8</page.no>
-        <type>miscellaneous</type>
+        
       </debateinfo>
       <para>HIS EXCELLENCY THE GOVERNOR-GENERAL further addressed both Houses, in the following terms : - "Gentlemen of the Senate, Gentlemen of the House of Representatives - "It being necessary that a President of the Senate and a Speaker of the House of Representatives should be first chosen, you will repair to the places where you are to sit, where you, Gentlemen of the Senate, will proceed to choose some proper person to be your President, and you, Gentlemen of the House of Representatives, will proceed to choose some proper person to be your Speaker, and thereafter you respectively will present such persons for my approval at such time and place as I shall hereafter appoint." </para>
       <para>After the "Hallelujah Chorus" by the orchestra, and "Rule Britannia", by the orchestra and singers, </para>
@@ -104,23 +94,15 @@
     <debate>
       <debateinfo>
         <title>SPECIAL ADJOURNMENT</title>
-        <page.no>8</page.no>
-        <type>special adjournment</type>
+        
       </debateinfo>
       <para>Motion (by <inline font-weight="bold">Senator O'Connor)</inline> proposed - </para>
       <para>That the sitting of the Senate be suspended until half-past two of the clock. </para>
       <speech>
         <talk.start>
           <talker>
-            <page.no>8</page.no>
-            <time.stamp />
-            <name.id>KHE</name.id>
-            <electorate>Queensland</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">HIGGS, William</name>
             <name role="display">Senator HIGGS</name>
           </talker>
           <para>- Do not honorable members think that this is very sudden ? We are all, I should imagine, anxious to do business, and other Senators will come here in a very few minutes expecting to do business. </para>
@@ -129,15 +111,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>8</page.no>
-            <time.stamp />
-            <name.id>JYD</name.id>
-            <electorate>NEW SOUTH WALES</electorate>
-            <party>Protectionist</party>
+            <page>8</page>
             <role>Vice-President of the Executive Council</role>
-            <in.gov>1</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">O'CONNOR, Richard</name>
             <name role="display">Senator O'CONNOR</name>
           </talker>
           <para>- There must be an adjournment for lunch ; we propose that that adjournment shall take place now, and at half-past two o'clock the Senate will assemble in the ordinary way for the transaction of business. It was never intended, no matter how many senators might be here, to proceed to business before the luncheon hour. </para>
@@ -147,7 +122,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>9</page.no>
+        
         <time.stamp>13:15:00</time.stamp>
       </adjournmentinfo>
       <para>Senate adjourned at 1.15 p.m. </para>
@@ -156,21 +131,12 @@
     <debate>
       <debateinfo>
         <title>ELECTION OF THE PRESIDENT</title>
-        <page.no>9</page.no>
-        <type>miscellaneous</type>
+        
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>9</page.no>
-            <time.stamp />
-            <name.id>JYD</name.id>
-            <electorate>New South WalesVicePresident of the Executive Council</electorate>
-            <party>Protectionist</party>
-            <role />
-            <in.gov>1</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">O'CONNOR, Richard</name>
+            
             <name role="display">Senator O'CONNOR</name>
           </talker>
           <para>- I would remind the Senate that the time has arrived for electing a President, and, as I understand that there is not likely to be a unanimous choice in the first instance, I think it would be well if we were to lay down at once a method of procedure by which in the end the will of the majority might prevail. As honorable members are aware, the House of Commons' practice would guide a body of this kind in the absence of express direction by ourselves. I think it will be evident that, in the event of there being more than two candidates, the putting of several motions successively would very likely result in the election of a President who would not' be the choice of the majority of the House. The experience, I think, of all of us who have had much to do with deliberative bodies is that, in these circumstances, there is only one way of ascertaining the choice of the majority, and that is by the system of what is called exhaustive ballot. I propose therefore that, inasmuch as under the circumstances which are likely to arise, it is necessary to have some other procedure than that of the House of Commons, the Senate should lay down for itself a form of procedure to be adopted during this election of President. I put my proposal in the form . of a motion, which I ask the consent of the Senate to submit without notice. It is as follows : - </para>
@@ -181,15 +147,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>9</page.no>
-            <time.stamp />
-            <name.id>K7V</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">SYMON, Josiah</name>
             <name role="display">Senator Sir JOSIAH SYMON</name>
           </talker>
           <para>- I should like to ask <inline font-weight="bold">Senator O'Connor</inline> whether it might not be well to adopt the House of Commons' practice after the first ballot has eliminated the third candidate. If in the first instance there be only two candidates, it is proposed that the House of Commons' practice be adopted ; and there seems to be no reason why, when we have eliminated the third candidate, the voting on the two who remain should not be open, according to the House of Commons' practice. I would suggest that an august body, such as we hope the Senate will always be, should not shrink from open voting upon the determination of the highest office in the gift of this Chamber. I think that we should be doing honour to ourselves by adopting that course, because I am sure that, whatever our views may be as to the respective candidates, we shall give the most loyal obedience to whoever may be chosen, and aid him in maintaining the dignity and prestige of this Chamber. </para>
@@ -199,15 +158,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
-              <time.stamp />
-              <name.id>JVG</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOWNER, John William</name>
               <name role="display">Senator Sir John Downer</name>
             </talker>
             <para>- If this is a reply, I would like to say something. </para>
@@ -216,15 +169,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'CONNOR</name>
             </talker>
             <para>- If there is to be a debate I shall defer what I have to say. I was answering a' question, and I thought that by doing so I should save debate. </para>
@@ -233,15 +180,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>9</page.no>
-              <time.stamp />
-              <name.id>JVG</name.id>
+              <page>9</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOWNER, John William</name>
               <name role="display">Senator Sir John Downer</name>
             </talker>
             <para>- It will save debate. </para>
@@ -250,15 +191,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'CONNOR</name>
             </talker>
             <para>- I think the Senate will admit at once that it is not from any desire that any <inline font-weight="bold">Senator has</inline> to conceal his opinions as to the candidate who ought to occupy the chair that we propose to adopt the system of ballot. It is done to get rid of the difficulty which very often arises owing to the cross voting which occurs where you have three motions submitted, and in consequence of which you may have a person chosen as President who is not the choice of the majority. It appeal's to me that, once having adopted the method of ballot, it should be carried right through. Therefore, although I quite assent to a good deal of what the honorable member has said, I think it will be a simpler and more satisfactory process if, when once the ballot begins, it is carried right through in the ordinary way in which these ballots proceed. </para>
@@ -268,15 +203,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
-            <time.stamp />
-            <name.id>KUL</name.id>
-            <electorate>New South Wales</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">MILLEN, Edward</name>
             <name role="display">Senator MILLEN</name>
           </talker>
           <para>
@@ -285,15 +213,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'Connor</name>
             </talker>
             <para>- It is well known that the probabilities are that there will be three candidates. </para>
@@ -303,15 +225,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
-            <time.stamp />
-            <name.id>JVG</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">DOWNER, John William</name>
             <name role="display">Senator Sir JOHN DOWNER</name>
           </talker>
           <para>- Yes ; but I am inclined to agree with the last speaker. We know, so fur as human beings can know in the circumstances in -which we are placed, that there will be at least three candidates. Under the circumstances, the first proposition in this motion will certainly not arise. The procedure should be uniform throughout, and I think, therefore, that the first part of the motion might be omitted, and that we. might say generally that the voting shall be by ballot, and that, if there are more than two candidates, it shall be in the manner <inline font-weight="bold">Senator O'Connor</inline> has proposed. It is not a matter of very much consequence, to tell you the truth, nor is it worthy of a very great amount of discussion, but if it will prevent conflict and save time, I would suggest that the first part of the motion be struck out, and that the one method of voting be adopted. </para>
@@ -320,15 +235,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>10</page.no>
-            <time.stamp />
-            <name.id>KHE</name.id>
-            <electorate>Queensland</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">HIGGS, William</name>
             <name role="display">Senator HIGGS</name>
           </talker>
           <para>- I appreciate the desire of honorable members to get to business, because Upper Houses are not deemed to be bodies which are anxious to do business in a rapid way. I dare say it will come as a surprise to those who have occupied positions in other Parliaments that such a feeling exists. Knowing nothing of the capacity of either of the gentlemen who are about to be -proposed - not even knowing their names, because I am not in the confidence of those who are prepared to submit nominations - I think that the mover and seconder should in each case give us some reasons why we should vote for their particular candidate. We are about to appoint a gentleman to a very high office, and I agree that he should be one who can fill it with dignity and impartiality. My great desire is to cast my vote for an honorable member who will endeavour to give us just decisions whenever the standing orders of the Senate have to be interpreted, so that I do not at all fall in with the proposal of <inline font-weight="bold">Senator O'Connor</inline> that the candidates should simply be nominated, that nothing should be said either for or against them, but that we should proceed forthwith to vote. </para>
@@ -336,15 +244,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'Connor</name>
             </talker>
             <para>- That is not part of the motion. I merely make that suggestion. </para>
@@ -353,15 +255,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>10</page.no>
-              <time.stamp />
-              <name.id>KHE</name.id>
+              <page>10</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">HIGGS, William</name>
               <name role="display">Senator HIGGS</name>
             </talker>
             <para>- I thought it necessary to make these remarks because honorable members seemed to deprecate having any discussion whatever. </para>
@@ -379,15 +275,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
-            <time.stamp />
-            <name.id>JYQ</name.id>
-            <electorate>Western Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">EWING, Norman</name>
             <name role="display">Senator EWING</name>
           </talker>
           <para>- I have very much pleasure in seconding the amendment. I do not think the Senate can be divided in the opinion that whatever method we adopt should be a uniform one. If it is wise to adopt the system of ballot under certain circumstances, surely it is wise even if there are only two candidates. With regard to what <inline font-weight="bold">Senator Higgs</inline> has said, I think the proposal of the Vice President of the Executive Council was only meant as a suggestion. Personally I do not agree with it. We come from another State, and we are not closely in touch with the public men in the community in which we are now living. We desire to know the qualifications of the gentlemen for whom we are asked to vote. It is all very well for those who live in Melbourne or Sydney to say they know the merits of the various gentlemen who are to be proposed for this office, but realizing as we do that the office of President is a most important one, we, as Senators coming from far-off portions of the continent, desire to hear what can be said either for or against the . individual candidates. </para>
@@ -395,15 +284,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- No <inline font-weight="bold">Senator is</inline> ashamed] of his vote. </para>
@@ -414,15 +295,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
-              <time.stamp />
-              <name.id>JXT</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">NEILD, John</name>
               <name role="display">Senator Neild</name>
             </talker>
             <para>- But will the amended motion provide for an exhaustive ballot ? </para>
@@ -431,15 +306,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>11</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'CONNOR</name>
             </talker>
             <para>- Yes. By leave I beg to withdraw my motion, and to substitute another, which embodies <inline font-weight="bold">Senator Neild's</inline> amendment, and really expresses the sense of the Senate. .It is as follows - </para>
@@ -452,15 +321,9 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
-            <time.stamp />
-            <name.id>JXT</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">NEILD, John</name>
             <name role="display">Senator NEILD</name>
           </talker>
           <para>- With the consent of <inline font-weight="bold">Senator Ewing,</inline> who seconded my amendment, I am very happy to withdraw it, if the Chamber is willing. </para>
@@ -471,15 +334,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>11</page.no>
-            <time.stamp />
-            <name.id>JTV</name.id>
-            <electorate>QUEENSLAND</electorate>
-            <party>ALP</party>
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">DAWSON, Anderson</name>
+            <page>11</page>
             <name role="display">Senator DAWSON</name>
           </talker>
           <para>- I wish to express my opinion that the amended motion is not a satisfactory one to the public whom we are supposed to represent in this Chamber. It is not satisfactory for the simple reason that it still provides for a secret ballot. If there is one thing above another that we have to do in this Chamber it is to let the public outside know exactly on which side and in which direction we cast our votes. I for one am against any attempt at secret voting in the Senate, and I am, therefore, distinctly against the amended motion. If honorable members who have been honoured by the people of Australia by being selected to represent them in the Senate are ashamed to cast their votes openly let them say so, and let the public know it. I am not. I am quite willing to vote openly. If there is one place in the whole of Australia where this course should be adopted it is in the legislative halls of the Commonwealth, and particularly in the Senate. I desire to direct the attention of honorable members, through you, <inline font-weight="bold">Mr. Blackmore,</inline> to' a most irregular proceeding of this afternoon, and I am very much astonished that the representative of Queensland, who is sitting on the Ministerial bench, has not thought fit to interfere in the matter. I refer to the fact that very important motions are being moved, and that copies of them have not been handed to honorable members. We know no more of them than the general public. A surprise motion has been sprung upon us. </para>
@@ -487,15 +342,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>K3S</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">CAMERON, Cyril</name>
               <name role="display">Senator Cameron</name>
             </talker>
             <para>- We are here for the first time. </para>
@@ -504,15 +353,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- That is true ; but the honorable gentleman who has moved this motion has taken the precaution to have a ballot-paper printed and circulated. </para>
@@ -521,15 +362,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JYD</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">O'CONNOR, Richard</name>
               <name role="display">Senator O'Connor</name>
             </talker>
             <para>- It is only an alphabetical list of names. </para>
@@ -538,15 +373,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- It is perfectly clear to my mind that the Government had determined beforehand what it was going to do in regard to this matter, and that it would bring along this particular motion. </para>
@@ -556,15 +383,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>KUL</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">MILLEN, Edward</name>
               <name role="display">Senator Millen</name>
             </talker>
             <para>- It does not look like it, or more care would have been taken with this paper. </para>
@@ -573,15 +394,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- I have never known it to be done in Queensland, and I hope a similar state of things will not occur again. It is idle for honorable members to say " Nonsense." How many have received a copy of the motion <inline font-style="italic">1</inline></para>
@@ -590,15 +403,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>K6J</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">CHARLESTON, David</name>
               <name role="display">Senator Charleston</name>
             </talker>
             <para>- We do not require it. You have already decided for whom your vote will be cast. </para>
@@ -607,15 +414,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- Yes; I have already decided for whom I shall vote. </para>
@@ -624,15 +423,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>K6J</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">CHARLESTON, David</name>
               <name role="display">Senator Charleston</name>
             </talker>
             <para>- And yet }'ou ask for information as to the abilities of the candidates. </para>
@@ -641,15 +434,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- The question is not for whom I shall vote, but how I shall vote, and I absolutely object to any secret voting in the Senate. Let every honorable member vote openly, and stand by his vote. I therefore move by way of amendment - </para>
@@ -660,15 +445,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>12</page.no>
-            <time.stamp />
-            <name.id>K7D</name.id>
-            <electorate>Queensland</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">STEWART, James</name>
             <name role="display">Senator STEWART</name>
           </talker>
           <para>- In seconding the amendment I desire to say that the proposition appears to me to be an extraordinary one. The honorable gentleman who brought forward the motion seems to forget altogether that we are here in our representative capacity to appoint the first President of the Senate of the Commonwealth Parliament, and that our constituents are just as much interested in how we vote upon this question as they are in how we vote on any other subject. For that reason, I decidedly object to any attempt to throw the veil of secrecy over the proceedings of the Senate. The motion appears to me to be entirely opposed to the traditions of Parliament. Why should there be secret voting? Do honorable members object to the public knowing for whom they vote? I think it is the right of the people who sent us here to have that information given to them. ' There is no need for me to prolong this discussion. My mind is made up ; and I am decidedly opposed to anything in the way of secrecy. </para>
@@ -678,15 +456,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>12</page.no>
-              <time.stamp />
-              <name.id>KHE</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">HIGGS, William</name>
               <name role="display">Senator Higgs</name>
             </talker>
             <para>- What section ? </para>
@@ -696,15 +468,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>12</page.no>
-            <time.stamp />
-            <name.id>KLZ</name.id>
-            <electorate>NEW SOUTH WALES</electorate>
+            <page>12</page>
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">GOULD, Albert</name>
             <name role="display">Senator GOULD</name>
           </talker>
           <para>- I am told there is a section which determined either yesterday or this morning to support a certain honorable member. </para>
@@ -712,15 +477,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>13</page.no>
-              <time.stamp />
-              <name.id>JTV</name.id>
-              <electorate>QUEENSLAND</electorate>
-              <party>ALP</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DAWSON, Anderson</name>
+              
               <name role="display">Senator DAWSON</name>
             </talker>
             <para>- To what section do you belong ? </para>
@@ -729,15 +486,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>13</page.no>
-              <time.stamp />
-              <name.id>KLZ</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">GOULD, Albert</name>
               <name role="display">Senator GOULD</name>
             </talker>
             <para>- I belong to the independent section. I do not belong to any particular caucus. I think we shall find it best to adopt <inline font-weight="bold">Senator O'Connor's</inline> proposition, and I hope whatever caucuses there may be honorable members will remember that their first duty is to the public, that they should let the public know what their honest convictions are, and. that they should not vote according to the - dictates of the majority of the particular section to which they belong. </para>
@@ -747,15 +498,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
-            <time.stamp />
-            <name.id>KSQ</name.id>
-            <electorate>Western Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">MATHESON, Alexander</name>
             <name role="display">Senator MATHESON</name>
           </talker>
           <para>- I think honorable members have to a great extent overlooked the fact that to-day we have to form a precedent in regard to the election of President of the Senate. We know that in the House of Commons the invariable practice has been to elect the Speaker on the voices by open voting, and, as far as I am aware, the practice in the Australian States has always been in the same direction. Is it desirable that we, meeting here to-day as a new elective body, should without very grave consideration start a new system in regard " to the election of our President which will be a precedent for all time <inline font-style="italic">1</inline> That is not "the way in which we should enter upon the business of the session. When <inline font-weight="bold">Senator O'Connor</inline> first addressed us on this subject, he distinctly pointed out that his only motive for advocating election by ballot was to eliminate any candidates above the number of two, and that he had originally intended, in case there were only two, that the election should be by open voting. I was perfectly prepared to go with him as far as the adoption of the ballot for eliminating the extra number was concerned ; but, since he has now adopted the amendment suggested by <inline font-weight="bold">Senator Neild,</inline> I am perforce compelled to support the amendment moved by <inline font-weight="bold">Senator Dawson,</inline> who strongly advocated election by open voting. To my mind it is really a most serious matter that we should attempt to establish to-day a precedent entirely different from the precedents which have been in vogue for countless years, both in Great Britain and in these States. If it had been possible to move as a further amendment that the method adopted by the House of Commons should be followed, so that we might have the advantage of al1, the experience which, has been brought to bear on the subject in that Chamber, I should have been prepared to support it. As this cannot be done, I shall strongly support the amendment. </para>
@@ -764,15 +508,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
-            <time.stamp />
-            <name.id>K6J</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">CHARLESTON, David</name>
             <name role="display">Senator CHARLESTON</name>
           </talker>
           <para>- I shall strongly support voting by ballot. What I had hoped was that we should have met- the whole of us - to quietly select our President, and that we should then have adopted the method adopted, I believe, in the British Parliament of some one moving that <inline font-weight="bold">Mr. So-and-So</inline> should be President, when he would have been conducted to the chair. That is what I and a great many honorable members had hoped would have been done. We should then have avoided waste of time and have avoided also the warmth which has been introduced this afternoon. We, in voting by ballot, will record our votes in the direction which we think best in the interests of the country. We are not afraid to express our opinions. I think it is well known how the vote will go. It is better, in the interests of the candidates themselves and in the interests of the Senate, that we should adopt this method, seeing that we have entered the chamber with the supposition that there will be three candidates. If we had adopted the other method of quietly arranging it, then of course it could have been done as it is done in the British House of Commons, and there .would have been no loss of time. I shall support the motion that the election be by ballot, and I am quite sure that those who sent us here will be satisfied that we are acting in the interests of the Commonwealth, and are not, as some of our friends seem to think, seeking to adopt some clandestine way of doing our work. </para>
@@ -781,15 +518,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>13</page.no>
-            <time.stamp />
-            <name.id>K7V</name.id>
-            <electorate>South Australia</electorate>
+            <page>13</page>
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">SYMON, Josiah</name>
             <name role="display">Senator Sir JOSIAH SYMON</name>
           </talker>
           <para>- This matter is very much more important than perhaps some honorable senators seem to think. The point that <inline font-weight="bold">Senator Matheson</inline> has just put is one that deserves, at any rate, our very serious consideration. It is a pity that there should be the slightest element of irritation or heat. Although some honorable senators behind where I sit have been emphatic in the expression of their views, I am quite certain that it has not been with .any idea of importing any undue heat into this discussion. At the same time, I think that none of us will shrink from making known the votes we give, whether upon a personal matter or any other matter, so long as we have the honour to be members of the Senate. We are about to establish a precedent. There are precedents, of course, for balloting for committees and so on in the different legislative bodies. . But then it is apt to be forgotten that there are no proposers and seconders of the men who are to form those committees. On such an occasion us this, even if we adopt the ballot, we incorporate two systems into one. The proposer and seconder in each case give their votes absolutely in the eye of the world, and are to be exposed, if such a thing were possible - which it is not - to be associated with the particular member chosen, or with those in opposition to him, whilst others are to have the advantage of recording their votes in secret, though not in any clandestine way. </para>
@@ -798,15 +528,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
-              <time.stamp />
-              <name.id>K7V</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">SYMON, Josiah</name>
               <name role="display">Senator Sir JOSIAH SYMON</name>
             </talker>
             <para>- No advantage in what ? What does the honorable member mean by that remark? There is nothing clandestine about it, but it is a double system of voting. You are having open voting, in so for as the proposers and seconders are concerned, and you are having - what you do not have when you choose a committee by ballot - voting by ballot as to all others who support any particular candidate. I think we ought to look upon this as a precedent. If we are to do this now, then we must be prepared to do it for all time. Usually the choice is made 'at a meeting before the formal sitting of the legislative body, and then the members come prepared to support practically unanimously a particular choice. It is unfortunate that that was not done in this instance. There may have been difficulties in the way I admit, but I think it would have been well if some such arrangement had been possible in this particular instance, and nobody could have called it a caucus or anything of that kind, because we should have assembled informally as a Senate, and with the view of deciding this question right out of hand, and then come here for the purpose of recording our votes. I do not know whether there is any precedent for anything of this kind. We are establishing one. I think it will be an unfortunate one, and that it would be . very much better for us to adhere to the system of open voting which has always prevailed than to adopt a compound system which has no precedent to justify it. </para>
@@ -830,15 +554,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
-            <time.stamp />
-            <name.id>JYD</name.id>
-            <electorate>New South Wales</electorate>
-            <party>Protectionist</party>
+            
             <role>Vice-President of the Executive Council</role>
-            <in.gov>1</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">O'CONNOR, Richard</name>
             <name role="display">Senator O'CONNOR</name>
           </talker>
           <para>. - The time has arrived for making the election of a President. I understand that blank pieces of paper will be handed round, and that each senator will write on his paper the name of the candidate for whom he wishes to vote and hand it in to the clerk, who will count the votes and declare the result. It will be necessary, I presume, to have a proposer and seconder for each of the different candidates. </para>
@@ -846,15 +563,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
-              <time.stamp />
-              <name.id>JVG</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOWNER, John William</name>
               <name role="display">Senator Sir John Downer</name>
             </talker>
             <para>- It is not necessary at all. </para>
@@ -863,15 +574,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
-              <time.stamp />
-              <name.id>KLW</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">GLASSEY, Thomas</name>
               <name role="display">Senator Glassey</name>
             </talker>
             <para>- Every one's' mind is pretty well made up. </para>
@@ -885,15 +590,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
-            <time.stamp />
-            <name.id>JPC</name.id>
-            <electorate>Victoria</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">BEST, Robert</name>
             <name role="display">Senator BEST</name>
           </talker>
           <para>- I second the motion. </para>
@@ -901,15 +599,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>14</page.no>
-              <time.stamp />
-              <name.id>K7V</name.id>
-              <electorate>SOUTH AUSTRALIA</electorate>
-              <party>FT; ANTI-SOC from 1906</party>
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">SYMON, Josiah</name>
+              
               <name role="display">Senator Sir JOSIAH SYMON</name>
             </talker>
             <para>-JOSIAH SYMON (South Australia). - I rise to propose - </para>
@@ -922,15 +612,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>14</page.no>
-            <time.stamp />
-            <name.id>K6D</name.id>
-            <electorate>Western Australia</electorate>
+            <page>14</page>
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">SMITH, Miles</name>
             <name role="display">Senator SMITH</name>
           </talker>
           <para>- I second the motion. </para>
@@ -939,15 +622,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>KAH</name.id>
-            <electorate>New South Wales</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">WALKER, James</name>
             <name role="display">Senator WALKER</name>
           </talker>
           <para>- I have pleasure in proposing </para>
@@ -957,15 +633,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>JVG</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">DOWNER, John William</name>
             <name role="display">Senator Sir JOHN DOWNER</name>
           </talker>
           <para>- I second the motion. </para>
@@ -975,15 +644,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>L2E</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">BAKER, Richard</name>
             <name role="display">Senator Sir RICHARD BAKER</name>
           </talker>
           <para>- I feel deeply the great honour it is proposed to confer upon me, and I am very deeply impressed with the great responsibilities I am about to undertake. I feel that I cannot worthily and properly fulfil those responsibilities - perhaps no man can - but still I submit myself to the Senate. </para>
@@ -993,15 +655,9 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>10000</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">PRESIDENT, The</name>
             <name role="display">The PRESIDENT</name>
           </talker>
           <para>- I desire to express my most humble and hearty thanks for the great honour that the Senate has conferred upon me. </para>
@@ -1012,15 +668,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>KLZ</name.id>
-            <electorate>New South Wales</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">GOULD, Albert</name>
             <name role="display">Senator GOULD</name>
           </talker>
           <para>- I wish to congratulate you, <inline font-weight="bold">Mr. President,</inline> on the position to which you have been elected, and to say that I am quite sure honorable members heartily reciprocate all that has been said by the Vice-President of the Executive Council when congratulating you on your appointment to the very honorable and distinguished position which you now occupy. I feel perfectly sure that honorable members will, at all times, be prepared to pay every attention to your rulings, and to render you every assistance that may be in their power. </para>
@@ -1029,15 +678,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>KTF</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">MCGREGOR, Gregor</name>
             <name role="display">Senator MCGREGOR</name>
           </talker>
           <para>- I wish, on behalf of the party to which I belong, to offer you, <inline font-weight="bold">Mr. President,</inline> our hearty congratulations. I take this course not as an individual but with the authority of my friends, and I may say that we have every confidence, from our previous knowledge of you, that all fairness and impartiality will be. extended to every member of this Chamber. We all hope that in the future every honorable member will lend you such assistance that the business of the Parliament of the Commonwealth of Australia will be earned on without undue haste or unnecessary delay. I tender you our hearty congratulations, and hope you will long live to occupy your present position. </para>
@@ -1046,15 +688,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>15</page.no>
-            <time.stamp />
-            <name.id>K7V</name.id>
-            <electorate>South Australia</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">SYMON, Josiah</name>
             <name role="display">Senator Sir JOSIAH SYMON</name>
           </talker>
           <para>- I also desire, on my own behalf as well as on behalf of those who voted for the candidate of my nomination, to tender you our congratulations on your accession to the exceedingly high and important office which you have been called on to fill. It is the highest office in the gift of the Senate, and I think, repeating what I have said or indicated this afternoon, that, whatever course we have taken individually with regard to candidates on this occasion, we shall all unite in giving you that aid, in expectation of which you submitted yourself to tho Senate, in maintaining the honour and dignity of this august assemblage, and securing the speedy despatch of its business. </para>
@@ -1062,15 +697,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>15</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              <page>15</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- Before I put the proposition I may be allowed to say a few words of thanks to the leader of the Senate, and to other honorable members, for the kind congratulations they have given me. I feel sure that in the performance of the duties of. presiding officer over this august Chamber I shall have the help and assistance of honorable members in carrying on its business properly. Without that aid, and -without that assistance, no President can properly maintain order, and business cannot be properly conducted. It is not perhaps becoming of me to say more than to thank honorable members, and to put this motion. </para>
@@ -1082,8 +711,7 @@
     <debate>
       <debateinfo>
         <title>PRESENTATION OF THE PRESIDENT TO THE GOVERNOR- GENERAL</title>
-        <page.no>16</page.no>
-        <type>miscellaneous</type>
+        
       </debateinfo>
       <para>The Senate proceeded to the Executive Council Chamber, Treasury-buildings to present the President to His Excellency the Governor- General </para>
       <para>The Senate having re-assembled, </para>
@@ -1091,14 +719,9 @@
       <interjection>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
-            <time.stamp />
-            <name.id>10000</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
             <name role="metadata" />
             <name role="display">Mr President</name>
           </talker>
@@ -1109,21 +732,14 @@
     <debate>
       <debateinfo>
         <title>MESSAGE FROM THE SECRETARY OF STATE FOR THE COLONIES</title>
-        <page.no>16</page.no>
-        <type>miscellaneous</type>
+        
       </debateinfo>
       <speech>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
-            <time.stamp />
-            <name.id>10000</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">PRESIDENT, The</name>
             <name role="display">The PRESIDENT</name>
           </talker>
           <para>- His Excellency the Governor-General ako handed me a copy of a cable message received from the Secretary of State for the Colonies too late to be road at the opening of Parliament in the Exhibition-building. It is as follows : - </para>
@@ -1135,15 +751,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>16</page.no>
-            <time.stamp />
-            <name.id>KLW</name.id>
-            <electorate>Queensland</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">GLASSEY, Thomas</name>
             <name role="display">Senator GLASSEY</name>
           </talker>
           <para>- Perhaps it would be fitting for the Senate to instruct you, <inline font-weight="bold">Mr. President,</inline> to reply to the' very warm and congratulatory cable message from His Majesty's Government. </para>
@@ -1151,15 +760,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>16</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- The cable message is addressed to the Governor-General, and I have no doubt His Excellency will reply to it. </para>
@@ -1170,8 +773,7 @@
     <debate>
       <debateinfo>
         <title>SPECIAL ADJOURNMENT</title>
-        <page.no>16</page.no>
-        <type>special adjournment</type>
+        
       </debateinfo>
       <para class="block">
         <inline font-style="italic">Resolved,</inline>on motion (by <inline font-weight="bold">Senator O'Connor)</inline> : - </para>
@@ -1181,7 +783,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>16</page.no>
+        <page>16</page>
         <time.stamp>16:13:00</time.stamp>
       </adjournmentinfo>
       <para class="block">Senate adjourned at 4.13 p.m. </para>

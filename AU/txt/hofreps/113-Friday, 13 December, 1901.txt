@@ -1,17 +1,11 @@
-<hansard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1">
+
     <session.header>
         <date>1901-12-13</date>
-        <parliament.no>1</parliament.no>
-        <session.no>1</session.no>
-        <period.no>0</period.no>
-        <chamber>REPS</chamber>
-        <page.no>8714</page.no>
-        <proof>0</proof>
+        
     </session.header>
     <chamber.xscript>
         <para>House of Representatives. </para>
         <business.start>
-            <day.start>1901-12-13</day.start>
             <para>
                 <inline font-weight="bold">Mr. Speaker</inline>
                 took the chair at 10.30 a.m, and read prayers.
@@ -20,8 +14,7 @@
         <debate>
             <debateinfo>
                 <title>PETITION</title>
-                <page.no>8714</page.no>
-                <type>petitions</type>
+                
             </debateinfo>
             <para>
                 <inline font-weight="bold">Mr. Barton</inline>
@@ -32,26 +25,19 @@
         <debate>
             <debateinfo>
                 <title>QUESTIONS</title>
-                <page.no>8714</page.no>
-                <type>Questions</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>OLD-AGE PENSIONS</title>
-                    <page.no>8714</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8714</page.no>
-                            <time.stamp />
-                            <name.id>K5D</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata"> O'MALLEY, King</name>
                             <name role="display">Mr. O'MALLEY</name>
                         </talker>
                         <para>I wish to ask the Prime Minister if, immediately on the reassembling of Parliament after the Christmas holidays, he will set apart a day for the purpose of discussing the old-age pension question? </para>
@@ -60,15 +46,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8714</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
-                            <electorate>HUNTER, NEW SOUTH WALES</electorate>
-                            <party>Protectionist</party>
+                            <page>8714</page>
                             <role>Prime Minister</role>
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>That matter will be considered by Ministers. I am not in a position at this moment to say whether wo shall be able to do so or not. </para>
@@ -79,8 +58,7 @@
         <debate>
             <debateinfo>
                 <title>LEAVE OF ABSENCE</title>
-                <page.no>8715</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <para>
                 <inline font-style="italic">Resolved</inline>
@@ -94,26 +72,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTIONS</title>
-                <page.no>8715</page.no>
-                <type>Questions</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>JUDICIARY BILL</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>KCO</name.id>
-                            <electorate>SOUTH AUSTRALIA, SOUTH AUSTRALIA</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">GLYNN, Patrick</name>
                             <name role="display">Mr GLYNN</name>
                         </talker>
                         <para>- I desire to ask the Attorney-General when the Judiciary Bill, which I understand is drafted, is likely to be placed on the files of honorable members</para>
@@ -122,15 +92,9 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>009MD</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">DEAKIN, Alfred</name>
                             <name role="display">Mr DEAKIN</name>
                         </talker>
                         <para>We hope that the House will be able to consider and pass a Judiciary Bill before the close of the session. The measure will be laid before Parliament as early as possible, in order that honorable members may have an opportunity of acquainting themselves with its provisions. </para>
@@ -140,20 +104,13 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>ADMINISTRATION OF CUSTOMS ACT</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>KYJ</name.id>
-                            <electorate>BENDIGO, VICTORIA</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">QUICK, John</name>
                             <name role="display">Sir JOHN QUICK</name>
                         </talker>
                         <para>- I desire to ask the Minister for Trade and Customs whether his attention has been drawn to the fact that within the last few days a foreign ship has entered an inter-State port with its seals of stores broken, contrary to the Federal Customs Act, and that such ship has been allowed to clear that port without giving a guarantee to answer the charge, whilst a British ship for a similar offence was refused clearance and detained in port ? Will the Minister see that the federal law is enforced equally against foreign and British ships ? </para>
@@ -162,15 +119,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
-                            <electorate>SOUTH AUSTRALIA, SOUTH AUSTRALIA</electorate>
-                            <party>Protectionist</party>
+                            
                             <role>Minister for Trade and Customs</role>
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr KINGSTON</name>
                         </talker>
                         <para>- The Government are seeing and will see that the law is applied equally to British and foreign ships. The only complaint I know of is that the foreign ship referred to was treated more harshly than was the British ship ; but that is not a fact. It is the intention of the Federal Government to strictly enforce the provisions of the Customs Act against British and foreign ships alike. </para>
@@ -180,20 +130,13 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>SUGAR DUTIES</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>F4N</name.id>
-                            <electorate>WIDE BAY, QUEENSLAND</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">FISHER, Andrew</name>
                             <name role="display">Mr FISHER</name>
                         </talker>
                         <para>- I desire to ask the Prime Minister whether it will be possible to deal with the sugar duties before we adjourn over the Christmas holidays <inline font-style="italic">1</inline> I understand that honorable members generally are agreeable that this should be done, and it will certainly prove a great convenience to Queensland sugar growers. </para>
@@ -202,15 +145,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
-                            <electorate>HUNTER, NEW SOUTH WALES</electorate>
-                            <party>Protectionist</party>
+                            
                             <role>Minister for External Affairs</role>
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>- I shall at once consult the Ministers in charge of the Tariff on the question. </para>
@@ -221,8 +157,7 @@
         <debate>
             <debateinfo>
                 <title>PAPER</title>
-                <page.no>8715</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <para>
                 <inline font-weight="bold">Mr. Barton</inline>
@@ -234,26 +169,18 @@
         <debate>
             <debateinfo>
                 <title>QUESTIONS</title>
-                <page.no>8715</page.no>
-                <type>Questions</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>REPORT ON NAVAL DEFENCES</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>JR7</name.id>
-                            <electorate>SOUTH AUSTRALIA</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BONYTHON, John</name>
                             <name role="display">Sir LANGDON BONYTHON</name>
                         </talker>
                         <para>- Some weeks ago I asked the Minister for Defence a question with reference to obtaining a report from Captain Creswell upon our naval defences. I now desire to know whether such a report has been obtained, and, if so, whether there is any objection to lay it on the table. </para>
@@ -262,15 +189,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>- The report has been sent on to me, and I shall lay it on the table as early as possible, probably tomorrow. </para>
@@ -280,20 +200,12 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>EXEMPTIONS FROM DUTY</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>K4I</name.id>
-                            <electorate>BOURKE, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">COOK, James</name>
+                            
                             <name role="display">Mr HUME COOK</name>
                         </talker>
                         <para>- I recently asked the Minister for Trade and Customs whether the list of minor articles that are to be exempted from duty under the Tariff would be made available at an early date. I am now in receipt of a letter from the boot manufacturers of Victoria, who ask that the minor articles used in their trade which it is intended to exempt from duty should be made known at once. I do not prefer this request in the interest of any one class of persons, but I would ask the Minister to make the list available before the holidays. </para>
@@ -302,15 +214,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr KINGSTON</name>
                         </talker>
                         <para>- I mentioned last week that I hoped to have the list ready for publication during this week. If it is not published this week, it will be made known as soon thereafter as possible. We fully recognise the importance of the information. </para>
@@ -320,20 +225,12 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>STATE REVENUE RETURNS</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- I wish to ask the Minister for Trade and Customs whether he will be able to lay on the table, when we re-assemble after the Christmas holidays, a statement showing the amount of revenue received from the various States of the Commonwealth under the new Tariff ? </para>
@@ -342,15 +239,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr KINGSTON</name>
                         </talker>
                         <para>- Yes. </para>
@@ -360,20 +250,12 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>TARIFF ALTERATIONS</title>
-                    <page.no>8715</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8715</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            <page>8715</page>
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- I desire to know whether the Minister for Trade and Customs will have a list prepared showing the exact alterations made in the Tariff up to the present time, so that it may be distributed and placed in the hands of honorable members when we re-assemble after the holidays? </para>
@@ -382,15 +264,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8716</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr KINGSTON</name>
                         </talker>
                         <para>- I am informed by the officers of the House that a list showing the alterations made up to to-night will be ready to-morrow morning. </para>
@@ -400,20 +275,12 @@
             <subdebate.1>
                 <subdebateinfo>
                     <title>TRANSFERRED OFFICERS</title>
-                    <page.no>8716</page.no>
+                    
                 </subdebateinfo>
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8716</page.no>
-                            <time.stamp />
-                            <name.id>K4I</name.id>
-                            <electorate>BOURKE, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">COOK, James</name>
+                            
                             <name role="display">Mr HUME COOK</name>
                         </talker>
                         <para>asked the Minister representing the Postmaster-General, <inline font-style="italic">upon notice -</inline></para>
@@ -425,15 +292,8 @@
                 <question>
                     <talk.start>
                         <talker>
-                            <page.no>8716</page.no>
-                            <time.stamp />
-                            <name.id>KWL</name.id>
-                            <electorate>YARRA, VICTORIA</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TUDOR, Frank</name>
                             <name role="display">Mr TUDOR</name>
                         </talker>
                         <para>asked the Minister for Home Affairs,upon <inline font-style="italic">notice -</inline></para>
@@ -449,15 +309,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8716</page.no>
-                                <time.stamp />
-                                <name.id>K4I</name.id>
-                                <electorate>BOURKE, VICTORIA</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, James</name>
+                                
                                 <name role="display">Mr HUME COOK</name>
                             </talker>
                             <para>asked the Prime Minister, <inline font-style="italic">upon notice -</inline></para>
@@ -470,15 +322,8 @@
                 <answer>
                     <talk.start>
                         <talker>
-                            <page.no>8716</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>- I ask honorable members to accept the following answer as applying to their three questions - </para>
@@ -495,8 +340,7 @@
         <debate>
             <debateinfo>
                 <title>SUPPLY BILL (No. 5)</title>
-                <page.no>8716</page.no>
-                <type>bill</type>
+                
             </debateinfo>
             <para class="italic">
                 <inline font-style="italic">In Committee of Supply :</inline>
@@ -508,15 +352,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8716</page.no>
-                        <time.stamp />
-                        <name.id>L2G</name.id>
-                        <electorate>Went worth</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCMILLAN, William</name>
                         <name role="display">Sir WILLIAM McMILLAN</name>
                     </talker>
                     <para>- I suggest that it might be more convenient to have a genera] discussion now, in preference to discussing the various departmental items. Yesterday was grievance day, but we did not take advantage of it, and, perhaps, it would be as well to allow those honorable members who have grievances to bring them up now, so that we may dispose of all extraneous matter before we deal with the items. I do not anticipate any great difficulty with the items, because I have no doubt the Treasurer will be able to explain to us that the proposals are regular, and that he is. asking for Supply for only a short period. </para>
@@ -525,15 +362,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8716</page.no>
-                        <time.stamp />
-                        <name.id>KWT</name.id>
-                        <electorate>BalaclavaTreasurer</electorate>
-                        <party>Protectionist</party>
+                        
                         <role>Treasurer</role>
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">TURNER, George</name>
                         <name role="display">Sir GEORGE TURNER</name>
                     </talker>
                     <para>- I had hoped that, in view of the importance of the business with which we are dealing, and the fact that we are asking for Supply for only one month instead of three months, as we might fairly have done, the matter would be regarded as formal, and passed without a long discussion. We are asking for only the usual departmental supply, and had it not been for the fact that the Senate will not re-assemble until the 22nd January, I should not have interrupted the Tariff discussion by introducing this subject. The Senate will adjourn to-day over the holidays, and members of that Chamber are only waiting for the Supply Bill. It has been somewhat difficult to induce some of the senators to remain, as they were anxious to get away to their homes, but my honorable colleague, the Postmaster-General, persuaded them to wait on the understanding that the Supply Bill would be sent up as early as possible. I cannot, of course, stop any general discussion with regard to grievances, but I do hope that honorable members will make their remarks as brief as possible. We are all anxious to proceed with the Tariff, and the Prime Minister and the Minister for Trade and Customs are consulting now as to how we can meet the wishes of honorable members with regard to the sugar duties. There is only one large item that honorable members will be called upon to pass, namely, the vote for the Australian Auxiliary Squadron, the money for which must be sent away at once, and there is a further sum for mail services which is urgently required. I am very loath to ask for Supply at this stage, but I had no alternative under the circumstances. </para>
@@ -545,15 +375,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8716</page.no>
-                            <time.stamp />
-                            <name.id>KQP</name.id>
+                            <page>8716</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCDONALD, Charles</name>
                             <name role="display">Mr McDonald</name>
                         </talker>
                         <para>- I rise to a point of order. Do I understand that the honorable member is going to debate various matters at this stage of the Bill? </para>
@@ -562,15 +386,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8717</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- I do not raise any objection. </para>
@@ -579,15 +397,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8717</page.no>
-                            <time.stamp />
-                            <name.id>KQP</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCDONALD, Charles</name>
                             <name role="display">Mr McDonald</name>
                         </talker>
                         <para>- I take it that this Bill ought either to be allowed to pass formally or that there should be a general discussion upon it. Personally, I am of opinion that the former course should be adopted, and that the general discussion should take place upon the Estimates. </para>
@@ -596,15 +408,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8717</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            <page>8717</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM MCMILLAN</name>
                         </talker>
                         <para>- I think that any long discussion upon this matter is to be deprecated, but there are some subjects which honorable members desire to bring under the notice of Ministers before we adjourn for the Christmas holidays. If everybody is reasonably brief, I think that we shall be able to get the Bill through in time to give the Senate a fair opportunity to deal with it. One matter to which I wish to draw attention has reference to the rates charged for the transmission of press telegrams relating to the proceedings of the Commonwealth Parliament. Some time ago a statement was made by one of the Ministers to the effect that the reports of speeches delivered in this House and telegrams relating to matters of a purely official character would be transmitted at the rate of ls. per 100 words. Although the usual price for press telegrams between the different States is 3s. per 100 words, in view of the necessity for putting the press reports of Commonwealth debates and Commonwealth information upon an equal footing throughout the whole of Australia, a concession was to be made to that extent. Then came the question as to how far in this direction the Executive would be justified in going. I quite admit that when we once go beyond the point of strictly official information - such, for example, as the reports of debates in this Parliament, precise information of Bills and Executive minutes - ;it is very difficult to differentiate between matter which should be charged the ordinary telegraphic rates and that which should be transmitted at the reduced rate. But, as the Commonwealth Parliament has now only a temporary home, and the time will come when the federal capital will be removed elsewhere, there is a feeling that in information relating to the Federal Government the utmost opportunity should be given by cheap telegraphic press rates to put the whole of Australia upon equal </para>
@@ -615,15 +421,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8718</page.no>
-                        <time.stamp />
-                        <name.id>009LR</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">BARTON, Edmund</name>
                         <name role="display">Mr BARTON</name>
                     </talker>
                     <para>- May I be permitted to interpose a word or two. I have no knowledge whatever as to whether the course which my honorable friend has suggested was taken in regard to the report of my speech in the Melbourne Town Hall. But of course it will be obviously fairer for him to postpone any comment which he may wish to make upon the course which he supposes to have been taken until he finds out whether it really was taken. If he will ask me a question, without notice, upon the matter to-morrow, I will in the meantime obtain the information which he desires. </para>
@@ -631,15 +430,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8718</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM McMILLAN</name>
                         </talker>
                         <para>- I am not basing my argument upon that isolated case, because I admit that very often the most important political manifestoes are made upon the public platform, and not in Parliament. I agree with the principle that everything connected with the Federal Parliament should be transmitted at the lower press rate. Honorable members will understand that both during the recess and during a general election it is very necessary for' the people all over Australia to be informed of the opinions of their political representatives. I ask the Government to take the whole of this matter into consideration. I am not one, as the Treasurer knows, to whittle away the public revenue. I believe in getting a fair revenue for fair service ; while we ought not to make profit, a public service should, as a rule, pay its way within certain limits. But national considerations arise ; and just as honorable members desire to give bonuses in aid of particular trades, I. think that, in the interests of the whole people, press telegrams ought to be charged the lowest possible rate. </para>
@@ -649,15 +442,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8718</page.no>
-                        <time.stamp />
-                        <name.id>KQP</name.id>
-                        <electorate>Kennedy</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCDONALD, Charles</name>
                         <name role="display">Mr McDONALD</name>
                     </talker>
                     <para>- The speech of the honorable member for Wentworth is a revelation to myself, as I believe it is to most members of the Chamber. </para>
@@ -665,15 +451,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8718</page.no>
-                            <time.stamp />
-                            <name.id>009MD</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">DEAKIN, Alfred</name>
                             <name role="display">Mr Deakin</name>
                         </talker>
                         <para>-. - It is news to the Government also. </para>
@@ -682,15 +462,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8718</page.no>
-                            <time.stamp />
-                            <name.id>KQP</name.id>
+                            <page>8718</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCDONALD, Charles</name>
                             <name role="display">Mr McDONALD</name>
                         </talker>
                         <para>- Under the circumstances the Prime Minister should immediately telephone to the Postal department and obtain full information. A most serious charge has been made, and one which affects all members of this Parliament to a large extent. Under existing circumstances, I am not altogether favorable to cheap press rates. I do not think it is possible to find a more biased press than that in our metropolitan centres today. I recognise that official statements, made by the Prime Minister, or other members who occupy responsible positions, are of great importance to the Commonwealth generally, and I can understand that those statements; when on purely State business, should take precedence over those made by other honorable members. But when the Prime Minister or the leader of the Opposition chooses to address a meeting in the Town Hall on protection or free-trade, I do not see why reports of the proceedings should not be charged full telegraphic rates. In connexion with the Kanaka Bill, which has lately become law, the most one-sided reports of the debates in this House were published in the press, although those debates were just as vital to the Queensland representatives here as any speech by the Prime Minister on fiscal matters could be to others. The labour party, in connexion with the Bill which I have mentioned, were handicapped considerably in laying their views before the public. The reports of their speeches were mutilated in such a way as to be a disgrace to the leading metropolitan daily press. There is an arrangement for an exchange of news between a newspaper in Sydney and another newspaper in Brisbane, and when the mutilated reports were telegraphed to Queensland, the principal newspaper there, which is the bitterest opponent of the labour party, supplied, through an agency which they conduct; nearly all the provincial press with telegrams of the proceedings in this Parliament. Anything likely to favour us was carefully omitted, while all that could damage our cause was prominently reported. Members of the labour party who express opinions which do not fall in with press views on free-trade or protection, have their speeches mutilated to such an extent by the Melbourne newspapers that honorable members can scarcely recognise their own utterances. One of the most brilliant speeches delivered in this Chamber was that of the honorable member for West Sydney on the Address in. Reply, but the <inline font-style="italic">Argus</inline> carefully omitted to report any of his remarks on labour matters, though they gave full prominence to what the honorable member said on the question of free-trade. In the <inline font-style="italic">Age</inline> newspaper there were just five or six lines of that speech. </para>
@@ -699,15 +473,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8719</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir William McMillan</name>
                         </talker>
                         <para>- The <inline font-style="italic">Argus</inline> gave the best report. </para>
@@ -716,15 +484,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8719</page.no>
-                            <time.stamp />
-                            <name.id>F4R</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">WATSON, John Christian</name>
                             <name role="display">Mr Watson</name>
                         </talker>
                         <para>- Because it temporarily suited the <inline font-style="italic">Argus</inline> to do so. </para>
@@ -733,15 +495,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8719</page.no>
-                            <time.stamp />
-                            <name.id>KQP</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCDONALD, Charles</name>
                             <name role="display">Mr McDONALD</name>
                         </talker>
                         <para>- I admit the <inline font-style="italic">Argus</inline> gave a long report of the honorable member's speech, but only of those parts which dealt with the free-trade point of view. Under such circumstances it is only right that a protest should be made by the labour party, who for years have had to fight the great newspapers, not only in the metropolitan areas, but throughout the country. Every effort has been made by what I call the capitalistic press to belittle the labour party, and do it all the injury possible ; and yet we are asked to assent to a proposal which will give the press a further weapon. I have yet to learn that leaders on either side of the House have in these matters a right to any recognition beyond that accorded to an ordinary member. From an official or State point of view we are prepared to extend them all due courtesy, but in the matter of ordinary political speeches, the leaders have no more rights than have their followers. It is not proper for the Government or the Postal department to telegraph the speeches of certain men at1s. per 100 words when for other speeches the full rate of 3s: is charged ; and the matter demands the most searchinginquiiy. After the charge which has been made, the Prime Minister, as I have said, ought to telephone at once to the department for full information. </para>
@@ -750,15 +506,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8719</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir Georgge Turner</name>
                         </talker>
                         <para>- We are doing that now. We had no intimation that the charge was going to be made. </para>
@@ -767,15 +517,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8719</page.no>
-                            <time.stamp />
-                            <name.id>KQP</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCDONALD, Charles</name>
                             <name role="display">Mr McDONALD</name>
                         </talker>
                         <para>- We were prepared to pass this Bill as formal business, and have a general discussion at some other time ; but if the Treasurer makes any statement, honorable members should have the right to go fully into the question. </para>
@@ -785,15 +529,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8719</page.no>
-                        <time.stamp />
-                        <name.id>L2I</name.id>
-                        <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SMITH, Sydney</name>
+                        <page>8719</page>
                         <name role="display">Mr SYDNEY SMITH</name>
                     </talker>
                     <para>- I am glad the honorable member for Wentworth has laid this matter before the committee. For some considerable time negotiations have been going on between certain sections of the press and the Government in regard to the definition of "federal matter" in relation to telegraph charges. The proposal was made to the Prime Minister that - </para>
@@ -844,15 +580,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8720</page.no>
-                            <time.stamp />
-                            <name.id>KCO</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">GLYNN, Patrick</name>
                             <name role="display">Mr Glynn</name>
                         </talker>
                         <para>- That is the proper check. </para>
@@ -861,15 +591,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8720</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- Exactly. I should like to see a wide interpretation placed upon this concession. Unless that is done there will be room for a considerable amount of dissatisfaction and abuse. If the Ministry, for instance, come to a decision upon the Queensland sugar duties, and members of the Opposition or the labour party give public expression to their views upon it, the press should have the right to send reports of those views over the wires at the special rates allowed in respect of the Government decision itself. Unless we allow this to be done, those who are opposed to the views of the Government will be placed at a very great disadvantage, and the public will not be in a position to judge. This is a very important matter, and the Opposition intended originally to bring it before the House on a motion of adjournment. The acting leader of the Opposition, with a desire to save time, decided, however, that it would be better to deal with it on Supply, when a general discussion could take place, and an explanation might be given. I hope that the Government will look into the matter, and see that every honorable member is placed on an equal footing in regard to this concession to the press. </para>
@@ -879,15 +601,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8720</page.no>
-                        <time.stamp />
-                        <name.id>F4R</name.id>
-                        <electorate>Bland</electorate>
+                        <page>8720</page>
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">WATSON, John Christian</name>
                         <name role="display">Mr WATSON</name>
                     </talker>
                     <para>- I think that most of us will agree that whatever concession is made to the press throughout the Commonwealth in regard to telegraphic press rates, should apply to reports of the utterances of each section or individual member of the House. Further than that, the concession should be made so comprehensive as to avoid ' the necessity for any interpretation, because as long as we insist upon differentiating between one section and another, there will always be room for abuses to creep in. If the statement tentatively put forward by the acting leader of the Opposition be correct, I do not think that any honorable member will attempt to justify the transmission over the wires at reduced rates of reports of expressions of party opinion pure and simple. It seems to me that that is a wrong basis to go upon. We should see that the press rates are the lowest possible, consistent with making the lines pay working expenses, on that class of telegraphic messages. The press spends many thousands per annum in telegrams, and it has a right to be treated as a wholesale customer. I think that it is possible to pay working expenses on the increased business at the rate of ls. per 100 words for press messages. That charge should be made applicable to all matter which the press choose to transmit over the wires. My enthusiasm in this matter is somewhat dulled by the recollection of the downright lies relating to party matters which a number of the press representatives here have sent to their respective organs. As a member of the labour party, I 'have a right to complain in this direction. Matters which were more than misrepresentations - because the true facts should have been known to the senders- of the messages - have been sent by telegraph to various newspapers. But even if the press representatives choose to send as many lies over the wires as Ananias was capable of telling, I do not care to hamper their work, because such statements are assessed at their true value by the people interested. The Government should fix as low a rate as can be made applicable to all press telegrams sent over the wires. If that is done there will be no ground for complaint on the part of honorable members. I think the rate should be fixed at ls. per 100 words. </para>
@@ -896,15 +611,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8721</page.no>
-                        <time.stamp />
-                        <name.id>F4S</name.id>
-                        <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                        <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">COOK, Joseph</name>
+                        <page>8721</page>
                         <name role="display">Mr JOSEPH COOK</name>
                     </talker>
                     <para>- I think we have good ground for complaint against the Government in regard to the way in which they have acted in this matter. There can be no doubt that in relation to matters of general political news no distinction should be made between the utterances of party leaders and of honorable members generally. It seems to me that the Government have gone astray in endeavouring to draw a distinction between press matter which shall and that which shall not come within special telegraphic concessions. Had they fixed a general press rate there would have been no cause for complaint, but in making these definitions the Government have shown a woeful lack of appreciation of the real position. They have agreed that federal matter shall be carried over the wires at special rates, and here is a statement showing their original definition of what is federal matter - </para>
@@ -917,15 +624,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8722</page.no>
-                        <time.stamp />
-                        <name.id>L0K</name.id>
-                        <electorate>Laanecoorie</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SALMON, Charles</name>
                         <name role="display">Mr SALMON</name>
                     </talker>
                     <para>- I recognise the value of the time left to us between now and the adjournment over the holidays, and will not waste it, but I desire to assure honorable members from the other States that no special appeal is required from them to enlist the assistance of honorable members representing the State of Victoria in removing the anomalies now existing in reference to press telegrams. It is not necessary to remind us that we may sooner or later be placed in the same position that they are in to-day. Every honorable member must recognise the great importance of having the public in every part of the Commonwealth fully informed as to our doings, and I. am sure ' the Government will see the urgent necessity for facilitating the dissemination of information throughout the length and breadth of the Commonwealth, at the most reasonable rates. I agree with the honorable member for Bland that these telegrams should not be despatched at the expense of the general taxpayer, but at the same time no more than ordinary working expenses should be charged. I would point out to the honorable member for Kennedy that, so far as the press combination he has referred, to is concerned, their interests would be more affected by a reduction of rates than by an increased charge. Whilst the rates rule high, the combination stands in a position of advantage, as compared with unattached newspaper proprietors, who cannot afford the heavy expense of sending independent telegrams. If the rates were reduced, it would have a tendency to help the newspaper proprietors outside the combination, and thus 'break down the monopoly of which the honorable member has complained. With regard to the federal capital, I understand that the Minister for Home affairs has intimated that a visit of inspection to the proposed sites will be arranged for in February. I do not think any advantage would be gained by extending the Christmas adjournment for the purpose of enabling an inspection to be made before we re-assemble, because honorable members would simply extend their own holidays. </para>
@@ -934,15 +634,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8722</page.no>
-                            <time.stamp />
-                            <name.id>L0K</name.id>
+                            <page>8722</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SALMON, Charles</name>
                             <name role="display">Mr SALMON</name>
                         </talker>
                         <para>- I am just as desirous as any one to see this question settled. I was no party to the improper bargain that was made by the then Premiers of New </para>
@@ -952,15 +646,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8723</page.no>
-                            <time.stamp />
-                            <name.id>L1D</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">WILLIS, Henry</name>
                             <name role="display">Mr Henry W Willis</name>
                         </talker>
                         <para>- Would the honorable member like the capital to be in Sydney ? </para>
@@ -969,15 +657,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8723</page.no>
-                            <time.stamp />
-                            <name.id>L0K</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SALMON, Charles</name>
                             <name role="display">Mr SALMON</name>
                         </talker>
                         <para>- I should not mind where the capital was placed, but the nearer to civilization the better from my point of view. </para>
@@ -987,15 +669,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8723</page.no>
-                        <time.stamp />
-                        <name.id>KDD</name.id>
-                        <electorate>SOUTH SYDNEY, NEW SOUTH WALES</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">EDWARDS, George</name>
+                        
                         <name role="display">Mr G B EDWARDS</name>
                     </talker>
                     <para>- I think that it says something for the patriotism of the Opposition that they have not brought up this matter of press telegrams at an earlier stage. The matter has been discussed, and has been regarded as of the utmost importance, but in consideration of the state of public business honorable members have refrained from publicly referring to the matter before. I hope the Ministers will now take some steps to put an end to the present arrangements, because any system of differentiating between the telegrams to be sent at low rates and high rates amounts to a censorship of the press. I do not think that in this Commonwealth we should favour anything that smacks in the very slightest degree of a press censorship. One thing ought to be considered, and that is, that it is within the power of the press - instead of paying the 3s. per 100 words upon messages which the department decline to send at the reduced rate - to put the Government to, the extra cost of repeating a message half --way, and to then secure its transmission at 2s. per 100 words. I think that is an absurdity. The relations of the press with the Post and Telegraph department should be placed upon some definite business- like footing, and it is only necessary to provide that press messages shall be sent at cheap rates, so long as they are intended for publication within 24 hours. The press will never transmit matter of a purely private character because it has to be published, neither will they for ward anything of an unimportant nature, because it would not pay them to do so. If we proceed upon the lines laid down by the honorable member for Bland we cannot go far wrong. So long as the working expenses of the Telegraph department can be covered by these press messages - which are usually transmitted at night - the lower rate should be charged upon them, and the only restriction imposed upon them should be that the information so despatched should be published within 24 hours. Regarding the question of the federal capital site, I think it would be very injudicious to make an inspection of the eligible areas during the heat of January. If an inspection is to be-undertaken, it should not partake of the nature of a picnic in any sense of the term. It should be a business visit, pure and simple. We cannot satisfactorily undertake such a visit in January, owing to the state of the public business, and, in my judgment, it would be far better to delay it till the cooler months of the yeal", when the session has terminated. </para>
@@ -1004,15 +678,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8723</page.no>
-                        <time.stamp />
-                        <name.id>KTV</name.id>
-                        <electorate>FREMANTLE, WESTERN AUSTRALIA</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SOLOMON, Elias</name>
+                        <page>8723</page>
                         <name role="display">Mr E SOLOMON</name>
                     </talker>
                     <para>- I am sure that all honorable members appreciate the liberality which has been displayed by the representatives of Victoria in all matters that have come before this Chamber up to the present time. We have had a great deal of discussion upon the Tariff, and, in many instances, those representatives have yielded to the general feeling of the committee. In regard to the transmission of press telegrams at the reduced rate, I know that Victorian representatives fully realize the disadvantages to which the distant States of Queensland and Western Australia are subjected at the present time. In the north - west portion of Western Australia, it is very difficult indeed for the people to get any information as to the doings of the Federal Parliament. If additional facilities were offered for the transmission of news, the residents of the distant States would be placed in possession of far more authentic information than they receive at the present time. Many complaints have reached me from Western Australia concerning the meagre character of the reports relating to Commonwealth matters which are published in the different newspapers. If anything in the nature of differential rates has existed in the past, I feel sure that the Government will not permit it to continue. As regards the question of the site of the federal capital, I should be very pleased indeed to form one of the parliamentary party to inspect the eligible areas. In this connexion I cannot agree with the remarks of the honorable member for South Sydney regarding the time at which the visit should be made. My opinion is that January and February, being hot months, would offer special facilities to honorable members for gaining information as to the climatic conditions which prevail. To my mind it would be preferable to visit them in the summer than in the winter. </para>
@@ -1021,15 +687,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8724</page.no>
-                        <time.stamp />
-                        <name.id>KCO</name.id>
-                        <electorate>South Australia</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">GLYNN, Patrick</name>
                         <name role="display">Mr GLYNN</name>
                     </talker>
                     <para>- On the whole, I think that the safest method for the Government to adopt is to allow all telegrams relating to federal matters to be transmitted at the lower rate. The proper safeguard against the abuse of such a system would be the press itself, which is not likely to minister to the vanity of any particular individual. The reports of parliamentary proceedings which reach the other States are necessarily meagre, because the newspapers cannot afford to publish long reports. In England the distant towns have very great advantages as compared with the several States here in relation to the parliamentary centre. There are very rich journals in England, in places like Manchester and Liverpool, and the speeches of local members are reported verbatim in many cases, so that the distant parts of the United Kingdom are amply supplied with information - more so, in fact, than are the inhabitants within the metropolitan area, where members' speeches ave greatly condensed by the newspapers, with the exception of <inline font-style="italic">The Times.</inline> 1 think, therefore, that the Government should allow all federal matter to be telegraphed at the rate of ls. per 100 words. Looking through this Supply Bill, I find that the item of "contingencies" in the case of South Australia is set down at £19,100. That is an exceedingly high amount, as compared with the other States. For example, the contingencies in the case of New South Wales are set down at £7,000; in Victoria, at £6,000; and in Queensland at £1,200. Of course I know that these contingencies constitute transferred expenditure, and therefore have to be borne by the respective States. I am not complaining that any undue expense is being thrown upon South Australia, but I do not understand why the item in the case of that State is so large. </para>
@@ -1038,15 +697,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8724</page.no>
-                        <time.stamp />
-                        <name.id>L17</name.id>
-                        <electorate>Dalley</electorate>
+                        <page>8724</page>
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">WILKS, William</name>
                         <name role="display">Mr WILKS</name>
                     </talker>
                     <para>- I have just managed to discover how it is that some honorable members become the " white-haired boys " of the press, and if I miss this opportunity of saying a few words by way of explanation, I shall probably still remain an Ishmaelite, as far as the press is concerned. Notwithstanding the battles which have been waged in the past, when the odds have been about 8 to 1 against me, I am prepared to show that I can be magnanimous by declaring that all federal matter should be transmitted by telegraph at a uniform rate. The only thing that I do not like in the press reports, which are telegraphed to the other States, is such headings as "Tactics of the Opposition." As a matter of fact, the present Opposition is absolutely devoid of tactics. Its members are open-hearted, clear-minded, earnest, and anxious to conserve the public interests. I am indeed astonished that the press, whilst naturally asking for its rights, should unwittingly accuse the Opposition of " tactics." Though upon previous occasions we have deemed it our duty to take a certain course in order to safeguard the public interests, I am satisfied that the Opposition would not like it to be broadcasted throughout the Commonwealth that we have reached such a low ebb as to descend to "tactics." As regards the capital site, I wish to remind the Minister for Home Affairs that that is a matter which he has forgotten for about eight or nine months, lt was part of the compact entered into between the different States that the federal capital should be within New South Wales territory at the earliest possible moment. At the same time, I do not think it wise ti undertake a parliamentary inspection of the eligible sites during the coming festive season ; and I hope that the Treasurer will shut down immediately upon the idea that such an inspection is to partake of anything in the nature of a picnic I trust that he will make it known that there are to be no cards, no flowers, no cake, and no visitors. Probably the Minister for Home Affairs may think it necessary, in order that honorable members may get a proper view of the suggested sites from a scientific stand-point to obtain the services of certain aeronauts, so that we may get a bird's eye view of them. The selection of the federal capital is a matter of serious moment in New South Wales, and I am quite sure that the members of the State Parliament of Victoria are agreed that the sooner it is made the better. I do not wish to increase the death-rate by compelling the Victorian Parliament to continue sitting in their present unhealthy surroundings. It is our duty to remove our own quarters as soon as possible if only to keep down the death-rate of our fellow-legislators in this State. As there has been some misunderstanding between myself and the press, I want to say that I am not nearly so bad as it has represented me to be. I hope the Government will so deal with press telegraphic rates as to make them uniform. </para>
@@ -1054,15 +706,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- With regard to the contingency item, it will be seen that it contains a very large expenditure on foreign and various ship mails, which in South Australia are not shown separately ; and that accounts for the large amount. So far, as the federal capital site is concerned, I was one who had something to do with the framing of the section of the Constitution which places the capital within the borders of New South Wales ; and that is a right which New South Wales might not have got had it not been for the compromise then made. Sofar as I am concerned, I am 'only too anxious to see the compact carried out at the earliest possible moment ; and no one can say that up to the present time members have had the slightest opportunity of visiting the various proposed sites. There seems to be a general idea that a visit should be made, in order that we may ascertain for ourselves the merits or demerits of the suggested localities. But to say that we ought to have had all the plans prepared, is asking something rather difficult to accomplish until we have decided on the site. The Minister for Home Affairs has for some time been in communication with the Government of New South Wales, and has a mass of information which will be placed at the disposal of honorable members. When we come to deal with the question, the trouble will not be in regard to Victorian members who may desire to prevent the capital being placed in New South Wales, but will be amongst the New South Wales people in deciding where the site is to be. To ask that the ! adjournment should be extended for a week, in order to visit the site, is suggesting something that the Government are not prepared to grant. We want the Tariff settled, so that the minds of the commercial community may be relieved as speedily as possible. I am perfectly certain that if we ask members to pay the proposed visit at the end of the short recess, it will be found that they prefer to stop at home rather than travel about in the month of January in all the accompanying heat and discomfort. The other Chamber will take some time to deal with the Tariff, when it is sent from this House, and at that time, after one or two urgent Bills have been dealt with, an opportunity might be given to honorable members. It would not be wise to postpone the visit until the end of the session, because we might again find that honorable members preferred to remain at home, and would not care to spend a week, not in a picnic, but in the hard work of travelling rapidly about. </para>
@@ -1071,15 +717,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>JSM</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BROWN, Thomas</name>
                             <name role="display">Mr Brown</name>
                         </talker>
                         <para>- Can the Treasurer give any idea when the visit will be made ? </para>
@@ -1088,15 +728,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- If the Tariff is finished, as it ought to be, not later than the end of January, and one or two Bills are passed which are necessary to enable me to raise money for urgent public works, there ought then to be no difficulty in taking a week to make the proposed inquiry while the Senate is dealing 'with the Tariff. </para>
@@ -1105,15 +739,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KRO</name.id>
-                            <electorate>GIPPSLAND, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCLEAN, Allan</name>
+                            
                             <name role="display">Mr A McLEAN</name>
                         </talker>
                         <para>- Does the Treasurer mean January, 1902, or January, 1903. </para>
@@ -1122,15 +748,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- I think if we get the Tariff through by the end of January, 1902, we shall be fairly satisfied. There is no doubt that some arrangement should be made for the members of both Houses to visit the proposed sites, because it would be unfair to ask the other Chamber to decide merely on information obtained from us. Whether members of both Houses can visit the sites at the same time, or some other arrangement will have to be made, is a matter for future consideration. </para>
@@ -1140,15 +760,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- Is it suggested that the members of the Senate should go away and take the Tariff with them in the balloons which may be necessary for the expedition ? </para>
@@ -1157,15 +771,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir William McMillan</name>
                         </talker>
                         <para>- If the Tariff were sent away in a balloon it would be better for us all. ' </para>
@@ -1174,15 +782,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8725</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            <page>8725</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- If the acting leader of the Opposition will go away with me in a balloon we could settle the Tariff very quickly. As to press telegrams, I regret that the acting leader of the Opposition did not give some notice of his intention to bring the matter forward. So far as Ministers, including the Postmaster-General, are concerned, we have no knowledge whatever of any such transaction as has been mentioned, but inquiries will be made and an answer given to the honorable member to-morrow morning. .If anything of the kind did occur, I have the assurance of the Postmaster-General that the matter was not brought before him, and that he did not sanction any lower charges. As regards press telegrams generally, it has been said that Victorian newspapers have a great advantage in being able to report the proceedings of this Parliament without being put to the cost of telegrams. The object the Government have in view in making a reduction in the rates is to place the other States as nearly as possible on an equality with Victoria. As to differentiating between the rates, there is a good deal of force in what has been said in regard to that course. There is no desire on the part of the Government to take any advantage of their official position to give reports of their proceedings without affording equal power to those who differ from them. </para>
@@ -1191,15 +793,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- Why not make one general charge for all press telegrams <inline font-style="italic">1</inline></para>
@@ -1208,15 +802,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- Gossip and that sort of stuff might be sent, and I think we ought to have some sort of control. If we found that press telegrams were being used for the mere purpose of abuse, we should be perfectly justified in stopping them. </para>
@@ -1226,15 +814,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- That may be ; but there are ways and means of taking advantage of the reduction if it were made without some restriction. </para>
@@ -1243,15 +825,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- The great danger would be that if the press criticised the Government, the Government might not send the messages. </para>
@@ -1260,15 +834,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- I regret that the question has been brought up now, because the Postal Rate Bill has been received from the other Chamber, and that measure fixes the various rates for press messages. Honorable members might well hold this matter in abeyance until we have the Bill before us. No doubt the Cabinet will consider what has been said here this morning, and in the meantime see whether some arrangement can be made to meet the views of honorable members. I trust that honorable members will now allow the Supply Bill to proceed, so that it may be passed into law in time for the beginning of the year. | </para>
@@ -1278,15 +846,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8726</page.no>
-                        <time.stamp />
-                        <name.id>KW6</name.id>
-                        <electorate>North Sydney</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">THOMSON, Dugald</name>
                         <name role="display">Mr THOMSON</name>
                     </talker>
                     <para>- The Treasurer's remarks indicate that, so far as he is concerned, he is prepared to adopt a method of distinction in the matter of press telegrams. But such a method would only lead to all sorts of trouble, suspicion, and injustice. His very remark that there might be abuse or gossip in those messages, and that, therefore, there should be a sort of censorship, which, if extended, would apply to all press telegrams, federal or State. No such distinction ought to be made. There are only two lines of demarcation. The message should consist of federal matter, or on the other hand, as suggested by the honorable member for Bland, should be simply press matter taken through at a given rate. If there is to be a distinction between federal and local Parliaments, then federal matter, of whatever nature, should be sent through at fixed rates. As to the federal capital site, Ministers do not seem to have definitely settled their policy. As the Treasurer says, a very good opportunity for visiting the sites will be presented after we have passed the Tariff, and while it is being considered by the Senate. That is the very time the Senate would be busy, and it would be perfectly impossible, without delaying the Tariff, for members of that Chamber then to pay the proposed visit. If convenience is to be considered it would be better to allow the Senate to pay a separate visit. . </para>
@@ -1294,15 +855,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>KIN</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">LYNE, William</name>
                             <name role="display">Sir William Lyne</name>
                         </talker>
                         <para>- It is possible that that may be the arrangement if the Senate so desire. </para>
@@ -1311,15 +866,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8726</page.no>
-                            <time.stamp />
-                            <name.id>KW6</name.id>
+                            <page>8726</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">THOMSON, Dugald</name>
                             <name role="display">Mr THOMSON</name>
                         </talker>
                         <para>- It is desirable that the matter should be settled as soon as possible. Although the honorable member for Laanecoorie chooses" to describe the position as an "improper arrangement," it must be remembered that it' was part of the bargain. Personally, I never troubled much about that question ; but there was a strong feeling in New South Wales, which was recognised by the Treasurer as a possible danger to the Federation of that State. Consequently, some consideration was given to the sentiments of New South Wales, and the arrangement under the Constitution was arrived at. The fear has been expressed that although the bargain will be adhered to in the letter, it will not be adhered to in the spirit and the sooner that fear is allayed in New South Wales the better.. </para>
@@ -1328,15 +877,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KIN</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">LYNE, William</name>
                             <name role="display">Sir William Lyne</name>
                         </talker>
                         <para>- There is no ground for any fear. </para>
@@ -1345,15 +888,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KW6</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">THOMSON, Dugald</name>
                             <name role="display">Mr THOMSON</name>
                         </talker>
                         <para>- I admit that there has not been much opportunity for doing anything in the matter so far. But the opportunity is coming, and we want the arrangement made as early as possible, and to be much less shadowy than the policy of the Government has hitherto been. Now that we have an opportunity, I think it would be well for the Ministry to arrange - as no doubt they will - for honorable members of the Federal Parliament to visit these sites with the- least possible delay. There is one other matter which I wish to mention, and which I presume relates to the Government Printing office. Honorable members have not yet received copies of several Bills which are listed ' on the notice-paper for second reading. It seems to me that there is nearly always .too great delay in the distribution of Bills, and as honorable members are going away for the Christmas adjournment, I think it is desirable that they should be furnished with copies of these measures before they leave. The Bills which are listed for the second reading, and copies of which have not yet been received, are the Federal Judiciary Bill, the Conciliation and Arbitration Bill, Parliamentary Elections Bill, the Franchise Bill, and the High Court Procedure Bill. </para>
@@ -1363,15 +900,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8727</page.no>
-                        <time.stamp />
-                        <name.id>KYT</name.id>
-                        <electorate>Kooyong</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">KNOX, William</name>
                         <name role="display">Mr KNOX</name>
                     </talker>
                     <para>- I have received several letters from various rifle clubs in Victoria, the members of which are very anxious that the distribution of ammunition may receive the early attention of the department. During the last eighteen months the rifle club movement in Victoria has received a considerable impetus. At the outset certain arrangements were made with Victorian riflemen by the Defence department. These have been somewhat modified. I am well aware that the Minister for Defence has had good reason for some of the modifications made by him, but the rifle clubs wish to ascertain what quantity of free ammunition will be distributed amongst them, and the quantity which they will be allowed to purchase from the department at a moderate price. I am persuaded that the Minister will give this matter his early attention in order that rifle clubs may know as soon as possible how they stand so far as these matters are concerned. </para>
@@ -1380,15 +910,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8727</page.no>
-                        <time.stamp />
-                        <name.id>KRO</name.id>
-                        <electorate>GIPPSLAND, VICTORIA</electorate>
-                        <party>PROT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCLEAN, Allan</name>
+                        
                         <name role="display">Mr A McLEAN</name>
                     </talker>
                     <para>- The question of what rates shall be charged for press telegrams is a very important one. I think it would be a fatal mistake to attempt to exercise any censorship over press messages lodged for transmission by telegraph. Whether we are in Parliament or on the hustings it is quite right that we should advocate our own particular views as strongly as possible, but our sense of fair play, and of what is due to the people throughout the Commonwealth, should induce us to see that the public have an opportunity of learning all sides of a question. There should be no attempt to cheapen the rates for telegraphic press messages relating to one particular set of opinions as against another. </para>
@@ -1396,15 +918,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- There is no suggestion of that. </para>
@@ -1413,15 +929,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KRO</name.id>
-                            <electorate>GIPPSLAND, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCLEAN, Allan</name>
+                            
                             <name role="display">Mr A McLEAN</name>
                         </talker>
                         <para>- I understood the Treasurer to say that the Government had some idea of confining the special rates to a particular class of press messages, which would be under supervision. . </para>
@@ -1430,15 +938,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- Soon after allowing this concession we found out that it was being used for the purpose of transmitting political gossip. We decided that that was not matter which we ought to transmit at the reduced rates. </para>
@@ -1447,15 +949,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8727</page.no>
-                            <time.stamp />
-                            <name.id>KRO</name.id>
-                            <electorate>GIPPSLAND, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCLEAN, Allan</name>
+                            <page>8727</page>
                             <name role="display">Mr A McLEAN</name>
                         </talker>
                         <para>- The press represents all shades of political opinion, and it is right that it should be permitted to place before its readers any information which it thinks is of interest to them. A newspaper is, after all, a commercial concern, and it will place before its readers that class of news which it believes to be most interesting to them, if it has any regard for its circulation. I think the press representatives might fairly be allowed to transmit .by telegraph that class of news which they consider is of interest or useful to the subscribers to their journals, and the rates should be the lowest compatible with the payment of working expenses. That can be done without difficulty, because the whole machinery for the transmission of these messages is in operation. In order that information may be transmitted to all parts of the Commonwealth, press messages should be sent over the wires as cheaply as possible, but without entailing any loss upon the taxpayers. I trust that before the Postal Bates Bill is dealt with the Government will give due consideration to this phase of the question. It is only right that people throughout the Commonwealth should be placed on an equal footing in regard to news relating to the Federal Parliament. The federal capital can be only in one State, and in fairness to the other five States it is right that equal facilities should be enjoyed for the transmission of press telegrams throughout the Commonwealth at the lowest rates. </para>
@@ -1465,15 +959,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8728</page.no>
-                        <time.stamp />
-                        <name.id>KYR</name.id>
-                        <electorate>Kalgoorlie</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">KIRWAN, John</name>
                         <name role="display">Mr KIRWAN</name>
                     </talker>
                     <para>- I wish to learn from the Minister for Defence whether a statement which appeared in the Perth <inline font-style="italic">Sunday Times</inline> of the 10th ult. is correct? In an article on the defence forces, which appeared in that issue, it is stated that there are only seven targets at the disposal of the defence forces of Western Australia, numbering between 12,000 and 16,000 men. It is said that - </para>
@@ -1488,15 +975,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8728</page.no>
-                            <time.stamp />
-                            <name.id>KPM</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCCAY, James</name>
                             <name role="display">Mr MCCAy</name>
                         </talker>
                         <para>- Fourteen-round packets of ammunition are not put up. </para>
@@ -1505,15 +986,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8728</page.no>
-                            <time.stamp />
-                            <name.id>KYR</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KIRWAN, John</name>
                             <name role="display">Mr KIRWAN</name>
                         </talker>
                         <para>- The only information I have on the subject is that which appears in this journal. It shows at all events that there is a big difference in the price which the riflemen of the States have to pay for their ammunition. The article goes on to refer generally to the want of encouragement which is given to the volunteer forces in Western Australia. I can bear personal testimony to that fact. There is a great deal of enthusiasm in regard to military matters in Western Australia, and I think the Minister for Defence will agree with me that on the goldfields at any rate the volunteers have not received the encouragement to which they are entitled. They were kept waiting for their uniforms for a long time, and they have not yet secured a rifle range. It is to be regretted that when men are willing to give up their time to the service of the country in this way their enthusiasm should be damped. </para>
@@ -1523,15 +998,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8728</page.no>
-                        <time.stamp />
-                        <name.id>KQU</name.id>
-                        <electorate>Melbourne</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCEACHARN, Malcolm</name>
                         <name role="display">Sir MALCOLM MCEACHARN</name>
                     </talker>
                     <para>- I desire to ask the Minister for </para>
@@ -1541,15 +1009,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8728</page.no>
-                        <time.stamp />
-                        <name.id>KEW</name.id>
-                        <electorate>South AustraliaMinister for Trade and Customs</electorate>
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">KINGSTON, Charles</name>
+                        
                         <name role="display">Mr KINGSTON</name>
                     </talker>
                     <para>- As regards the item of oilmen's stores which was amended the other day, I consider that the amendment was not intended to extend the scope of the taxation proposals of the Government in that respect, and instructions have been given accordingly. If they have not been observed I am very much surprised, but I can assure the honorable member that they will be carried out. </para>
@@ -1558,15 +1018,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8728</page.no>
-                        <time.stamp />
-                        <name.id>KFJ</name.id>
-                        <electorate>SWAN, WESTERN AUSTRALIA</electorate>
-                        <party>Protectionist</party>
+                        <page>8728</page>
                         <role>Minister for Defence</role>
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">FORREST, John</name>
                         <name role="display">Sir JOHN FORREST</name>
                     </talker>
                     <para>- (Swan- Minister for Defence). - I agree with the honorable member for Kalgoorlie that difficulties have been experienced in regard to many matters relating to the volunteer forces of Western Australia, owing to the fact that the Estimates are not yet passed, and that the provision upon the Estimates on the table is not sufficient to enable us to comply with all the requests. The practice which has been adopted up to the present time in regard to the price charged for ammunition for rifle clubs is that each State has continued to work under the regulations in force before the Defence department was taken over by the Commonwealth. It is considered desirable that that course should be followed until we have a Defence Act, and until we are able to frame regulations under it applicable to the whole of the forces of the Commonwealth. Therefore complete uniformity of procedure is still wanting in connexion with the defence forces. I hope that when the Defence Bill is passed, and regulations are framed under it applicable to all the forces of the Commonwealth ; that when we have our general officer here - as we shall have on the 29th January - and when we pass the Estimates, and have an opportunity of learning the views of honorable members in regard to the expenditure on the defence forces, we shall be able to remove the difficulties which now exist. I am sorry to say that some of the forces, and especially those in Western Australia, do labour under disadvantages. My desire is to do all I can to overcome those difficulties ; but I think honorable members will recognise that, in view of the facts which I have just mentioned, I am placed in a position of some difficulty. </para>
@@ -1578,15 +1031,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8729</page.no>
-                            <time.stamp />
-                            <name.id>KFJ</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">FORREST, John</name>
                             <name role="display">Sir JOHN FORREST</name>
                         </talker>
                         <para>- Will the honorable gentleman pardon me ? I should have mentioned that there are some 20,000 members of rifle clubs in Victoria, and the supply of ammunition on hand is not very great. We have had to expend a very large sum in providing ammunition, and we have found it necessary to curtail the supply to each individual. We have agreed to supply each individual with 200 rounds free, and 200 rounds at half-price. We believe that this supply can be used to better advantage, if it is handed over, to the various clubs for careful distribution among their members. In the case of distribution to individuals, whether the ammunition is used or not, it is placed beyond control, and we are now negotiating with a view to securing the assistance of the rifle clubs in this matter. </para>
@@ -1596,15 +1043,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8729</page.no>
-                        <time.stamp />
-                        <name.id>K4E</name.id>
-                        <electorate>Werriwa</electorate>
+                        <page>8729</page>
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">CONROY, Alfred</name>
                         <name role="display">Mr CONROY</name>
                     </talker>
                     <para>- The Government have again followed the very reprehensible course of bringing forward a temporary Supply Bill under circumstances which absolutely prevent any proper discussion of their proposals. This is the third' time that they have made an <inline font-style="italic">ad</inline><inline font-style="italic">misericordiam</inline> appeal to honorable members to rush a Supply Bill through practically without discussion, and I do not think it lies in their mouths to make any such request. All representative Houses that have the right to impose taxation have always jealously guarded their rights, and we should do nothing to in any way imperil our privilege of close criticism in matters of finance. There is no reason why the Supply Bill should not have been brought forward at a much earlier stage, and I do not feel disposed to allow the Government to rush it through hastily. It cannot be said that there is anything that would have precluded the Treasurer from submitting the Bill earlier, and the only argument he can advance in favour of its being agreed to without discussion, is that it contains no votes out of the ordinary way. If other honorable members like to shirk their duty, I do not intend to shirk mine. It is all very well for the Minister to ask us to consider the members of the other Chamber, but if they have been kept here instead of being allowed to proceed to their homes, the Ministry alone are responsible. The question of press telegrams which has been referred to by several honorable members is one of the greatest importance. Unless we are going back to the old clays, when Parliament refused to allow anything to be published in the newspapers concerning their doings, every restriction placed upon the transmission of news will certainly operate to the injury of Australia as a whole. It is perfectly true that one or two large newspaper proprietors in Victoria may be anxious to see high press rates charged ; but in the interests of the great mass of the population distributed throughout the continent, it is desirable that we should offer the fullest facilities for the transmission of cheap press telegrams. It would be to the interest of the general public if press telegrams upon matters of public concern were transmitted on a payment of a rate equivalent to the salaries of the operators engaged in sending and receiving the messages, because the more public affairs are ventilated through the press, the better for every one concerned. If the Federal Parliament were meeting in another State, we should certainly have the people of Victoria clamouring to know what their representatives were doing, and, as we have passed away from the days when the public were satisfied to know of what Parliament had done without being informed of the reasons, I strongly favour the granting of the fullest facilities to the press. We are perpetually being asked by Ministers not to take up any time in the consideration of the matters they bring before us, because public affairs are in such a muddle ; but the Ministry themselves have brought about this muddle. They have shown no consideration for the country, but have demonstrated their absolute incompetency to properly conduct the public business. We have no less than five Bills on the notice-paper set down for the second-reading stage, but one of these, the Judiciary Bill, has not yet been placed in the hands of honorable members. Is this the way in which the business of the country should be conducted ? Unless we have some evidence that business will be better conducted in the future, how can we go on granting Supply to the Government <inline font-style="italic">1</inline> What do we next find ? We have the second reading of an Arbitration Bill upon the business-paper, and yet the measure has never been drafted. </para>
@@ -1612,15 +1052,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>KPM</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCCAY, James</name>
                             <name role="display">Mr McCay</name>
                         </talker>
                         <para>- I should like to know whether the honorable member is in order in discussing the business-paper in connexion with the Supply Bill. Is the time of the committee to be wasted in that manner ? </para>
@@ -1629,15 +1063,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>K4E</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CONROY, Alfred</name>
                             <name role="display">Mr CONROY</name>
                         </talker>
                         <para>- I object to the honorable and learned member for Corinella using the term " waste." I might well apply that word to the remarks which he frequently makes. </para>
@@ -1647,15 +1075,9 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8730</page.no>
-                        <time.stamp />
-                        <name.id>10000</name.id>
+                        
                         <electorate />
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">CHAIRMAN, The</name>
                         <name role="display">The CHAIRMAN</name>
                     </talker>
                     <para>- The honorable and learned member for Werriwa will not be in order in discussing any of the Bills which are set down for further consideration. </para>
@@ -1663,15 +1085,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>K4E</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CONROY, Alfred</name>
                             <name role="display">Mr CONROY</name>
                         </talker>
                         <para>- I merely desire to point out that the Government have not even put the necessary sum upon the Estimates to allow of these Bills being printed, so that honorable members may know what provisions they contain. </para>
@@ -1680,15 +1096,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir William McMillan</name>
                         </talker>
                         <para>- Let the Bill go through. I think we have a right to consider the other Chamber. </para>
@@ -1697,15 +1107,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>K4E</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CONROY, Alfred</name>
                             <name role="display">Mr CONROY</name>
                         </talker>
                         <para>- That is exactly the reason why I am blaming the Ministry. This procedure is unheard of in any other House, and we have tolerated it long enough. I objected to it upon two previous occasions, when similar measures were under consideration. When I look at this Supply Bill, I find that no provision is therein made for carrying on the Post and Telegraph department in one of the chief electorates of New South Wales. In my own district, the residents actually agreed to guarantee the amount necessary for constructing a telegraph line to a place of considerable importance. I refer to the township of Bigga. They even went further, and offered to provide the money themselves, if they could get the necessary permission from the Government to carry out the work. Yet month after month elapses and these people are denied any consideration at the hands of the Government. I am therefore compelled to rise in my place in this committee and direct public attention to it. It is a great pity indeed that the Postmaster-General is not a member of the House of Representatives. I find, also, that not a single sum has been placed upon the Estimates to provide for a parliamentary inspection of the eligible sites for the federal capital. It is clearly against the spirit of the Constitution to delay a movement in this direction. Ministers tell us that they have no time to attend to it. The fact is that they are so much occupied in taxing the people of New South Wales that they cannot for a moment turn their attention to anything which those people may require. I trust that the Ministry will very quietly and temperately approach the question of searching German vessels, especially in view of the present excited state of feeling at the other side of the world. It may be that we have certain rights under our Customs Act ; and, in one sense, foreign nations cannot complain, seeing that we are determined to exercise the same rights in regard to British ships. I trust, however, that there will be no grounds for complaint of any harshness in the administration of the law, and that popular feeling, inflamed as it seems to be just now on the Continent, will not be fanned in any way. The gravity of the situation is such that Ministers should take care that any Executive act is done only under the personal supervision of the very highest of the Customs authorities. </para>
@@ -1732,15 +1136,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8730</page.no>
-                        <time.stamp />
-                        <name.id>L2G</name.id>
-                        <electorate>Wentworth</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCMILLAN, William</name>
                         <name role="display">Sir WILLIAM MCMILLAN</name>
                     </talker>
                     <para>- There is nothing in the schedule except the ordinary services <inline font-style="italic">1</inline></para>
@@ -1748,15 +1145,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- Nothing but what I have mentioned. </para>
@@ -1765,15 +1156,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM McMILLAN</name>
                         </talker>
                         <para>- There is the annual vote for the Navy <inline font-style="italic">1</inline></para>
@@ -1782,15 +1167,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- There is practically £106,000 for the Navy. </para>
@@ -1800,15 +1179,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8730</page.no>
-                        <time.stamp />
-                        <name.id>KU9</name.id>
-                        <electorate>SOUTH AUSTRALIA, SOUTH AUSTRALIA</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SOLOMON, Vaiben</name>
+                        
                         <name role="display">Mr V L SOLOMON</name>
                     </talker>
                     <para>- It is usual to include a clause providing that no sums for ordinary purposes shall be in excess of those previously voted for similar services. </para>
@@ -1816,15 +1187,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8730</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            <page>8730</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- Each Supply Bill is taken by itself. </para>
@@ -1833,15 +1198,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8731</page.no>
-                            <time.stamp />
-                            <name.id>KU9</name.id>
-                            <electorate>SOUTH AUSTRALIA, SOUTH AUSTRALIA</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SOLOMON, Vaiben</name>
+                            
                             <name role="display">Mr V L SOLOMON</name>
                         </talker>
                         <para>- Is the clause I have indicated in the general Appropriation Bill? </para>
@@ -1850,15 +1207,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8731</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George Turner</name>
                         </talker>
                         <para>- The general Appropriation Bill deals with all Supply Bills. </para>
@@ -1867,15 +1218,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8731</page.no>
-                            <time.stamp />
-                            <name.id>KU9</name.id>
-                            <electorate>SOUTH AUSTRALIA, SOUTH AUSTRALIA</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SOLOMON, Vaiben</name>
+                            
                             <name role="display">Mr V L SOLOMON</name>
                         </talker>
                         <para>- But then it is too late to raise the question. I only speak of the course which is adopted in South Australia. The Appropriation Bill is a mere verification of the Supplies previously granted. </para>
@@ -1885,15 +1228,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8731</page.no>
-                        <time.stamp />
-                        <name.id>KWT</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">TURNER, George</name>
                         <name role="display">Sir GEORGE TURNER</name>
                     </talker>
                     <para>- As a rule a Supply Bill is voted in the lump sum, and no details given. In this case, however, we give every detail, just as is done in the Estimates. The honorable member will see the distinction been this Bill and the old form of Supply Bills. </para>
@@ -1906,42 +1242,32 @@
         <debate>
             <debateinfo>
                 <title>POST AND TELEGRAPHIC RATES BILL</title>
-                <page.no>8731</page.no>
-                <type>bill</type>
+                
             </debateinfo>
             <para>Bill received from the Senate, and read a first time. </para>
         </debate>
         <debate>
             <debateinfo>
                 <title>PROPERTY ACQUISITION BILL</title>
-                <page.no>8731</page.no>
-                <type>bill</type>
+                
             </debateinfo>
             <para>Royal assent reported. </para>
         </debate>
         <debate>
             <debateinfo>
                 <title>PUNISHMENT OF OFFENCES BILL</title>
-                <page.no>8731</page.no>
-                <type>bill</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Second Reading</title>
-                    <page.no>8731</page.no>
+                    
                 </subdebateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8731</page.no>
-                            <time.stamp />
-                            <name.id>009MD</name.id>
-                            <electorate>Ballarat</electorate>
-                            <party>Protectionist</party>
+                            
                             <role>Attorney-General</role>
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">DEAKIN, Alfred</name>
                             <name role="display">Mr DEAKIN</name>
                         </talker>
                         <para>. - I move - </para>
@@ -1951,15 +1277,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>L17</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">WILKS, William</name>
                                 <name role="display">Mr Wilks</name>
                             </talker>
                             <para>- The Armidale case? </para>
@@ -1968,15 +1288,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr DEAKIN</name>
                             </talker>
                             <para>- That case related to the state of affairs prior to the passing of the Postal Bill. For my own part, I am strongly inclined to believe that in the Constitution itself, and the laws referred to, there is sufficient authority for the exercise of jurisdiction by the tribunals in question in relation to breaches of our law. But, as doubts have been raised by those entitled to be heard, and as, above all things, it is desirable that where penalties are sought to be recovered before minor tribunals, there should be no possibility of delay or difficulty, in consequence of appeals to higher courts on the question of local jurisdiction, the Government have thought it expedient to introduce this temporary measure This makes it perfectly clear that the laws of the States in regard to what may be termed the machinery of punishment, shall be applied where applicable, and that the tribunals themselves shall have authority to deal with Commonwealth offences, with the proviso which honorable members will find in clause 3. It also makes it plain that the right of appeal at present possessed from the decisions of the minor State courts may be exercisable in relation to those given under Commonwealth Acts. The measure is of a temporary character. Its purpose is to remove doubts, and to provide for the administration of the laws of this Parliament by the ordinary State tribunals until the passing of the Judiciary Bill. </para>
@@ -1986,15 +1300,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8731</page.no>
-                            <time.stamp />
-                            <name.id>KCO</name.id>
-                            <electorate>South Australia</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">GLYNN, Patrick</name>
                             <name role="display">Mr GLYNN</name>
                         </talker>
                         <para>- It is very hard to have to discuss a Bill of this character after it has been in our hands only a few minutes. </para>
@@ -2002,15 +1309,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- Copies of the Bill were circulated this morning. </para>
@@ -2019,15 +1320,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>KCO</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GLYNN, Patrick</name>
                                 <name role="display">Mr GLYNN</name>
                             </talker>
                             <para>- Well, we have been sitting so late this week, and meeting so early, that it is impossible for honorable members to find time to digest parliamentary papers except at their breakfast, and I do not find that convenient. I am under the impression that there is no need for a Bill of this sort. I do not suppose that any harm can be done by passing it, but I think it would have been better to wait until a general Procedure Bill and the Judiciary Bill could be introduced. Later on we shall have to repeal this measure, and incorporate its provisions in the Judiciary Bill. </para>
@@ -2036,15 +1331,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- The provisions of this measure cease to operate upon the passing of the Judiciary Bill. </para>
@@ -2053,15 +1342,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8731</page.no>
-                                <time.stamp />
-                                <name.id>KCO</name.id>
+                                <page>8731</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GLYNN, Patrick</name>
                                 <name role="display">Mr GLYNN</name>
                             </talker>
                             <para>- The Constitution is an Imperial as well as a Commonwealth Act. I We know that all Imperial Acts applying to the States can be enforced by the State courts, without the necessity for provisions declaring the procedure to be followed. Whatever variation of words is necessary to make the procedure of the State courts apply is made by the courts. Similarly, on finding that the criminal provisions of a Commonwealth Act had been violated, the State courts, so long as the offence had been committed within their jurisdiction, would take cognizance of it. A case recently arose in New South Wales, in which the court decided that it had jurisdiction in respect to an offence against the Postal department. </para>
@@ -2071,15 +1354,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8732</page.no>
-                            <time.stamp />
-                            <name.id>KFK</name.id>
-                            <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                            <party>PROT; LP from 1910; NAT from 1917; IND from 1931; UAP from 1934</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">GROOM, Littleton</name>
+                            
                             <name role="display">Mr L E GROOM</name>
                         </talker>
                         <para>- That case arose before the passing of the Post and Telegraph Act. </para>
@@ -2087,15 +1362,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8732</page.no>
-                                <time.stamp />
-                                <name.id>KCO</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GLYNN, Patrick</name>
                                 <name role="display">Mr GLYNN</name>
                             </talker>
                             <para>- Yes, but it showed that a doubt had existed as to the validity of the State Acts before a Federal Act was passed. The court decided that the State Act remained operative, and that, as a consequence, the procedure for administering it also remained. Having decided that they had jurisdiction, they determined the method of procedure which should be adopted. I am sorry that we have not a Procedure Bill and a Judiciary Bill before us. It will be almost impossible to consider one thoroughly without reading the other, the Procedure Bill being auxiliary to the Judiciary Bill. If they were before us now they would be a guide to us in considering the measure with which we are now dealing. ' In regard to those Bills, I would suggest to the Attorney-General the introduction of a provision investing the Supreme Courts of the States with complete federal jurisdiction. Of course, you could still create an Appeal Court ; but all the Supreme Courts of the States should be invested with civil as well as with criminal jurisdiction in all federal matters. With regard to the Appeal Court, probably the Chief Justices of the various States could be called together when necessary, but the necessity might not arise once in six months, and possibly not once in twelve months. It is not to the interests of the citizens of the Commonwealth to multiply legal machinery. If there is any need for a judicial pronouncement upon an Act of Parliament, it can be obtained without going before the High Court, because appeals can be made to the Privy Council both as to the interpretation of a Federal Act and as to its constitutionality. </para>
@@ -2104,15 +1373,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8732</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- In certain cases. </para>
@@ -2121,15 +1384,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8732</page.no>
-                                <time.stamp />
-                                <name.id>KCO</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GLYNN, Patrick</name>
                                 <name role="display">Mr GLYNN</name>
                             </talker>
                             <para>- When the point involved is whether the State Parliament or the Federal Parliament which passed the Act was within the powers granted to it under the Constitution in doing so. From a decision of the Supreme Court of a State there is a direct appeal to the Privy Council, but from the High Court there can be an appeal to a Privy Council only- by permission of the Council, or by permission of the High Court, where the question is as to the right of a State Parliament or the Federal Parliament to pass a law. I throw out these suggestions in the hope that they may be helpful to the Attorney-General when settling the final draft of the Judiciary Bill. The measure which we are now considering may not be necessary, but it can do no harm to pass it as a declaration of jurisdiction, and, under the circumstances, I shall support the second reading. </para>
@@ -2139,15 +1396,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8732</page.no>
-                            <time.stamp />
-                            <name.id>KYJ</name.id>
-                            <electorate>Bendigo</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">QUICK, John</name>
                             <name role="display">Sir JOHN QUICK</name>
                         </talker>
                         <para>- I am not so confident as is the honorable and learned member for South Australia that the Bill is not necessary. Indeed, I am of opinion that it is necessary. I think that it has been properly introduced in the exercise of the power conferred by section 77, sub-section (3), of the Constitution, by which the Federal Parliament is empowered to invest the State courts with federal jurisdiction. I do not know upon what provision of the Constitution my honorable and learned friend relies in arguing that this Bill is not necessary, unless it be section 5, which says - </para>
@@ -2160,15 +1410,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8732</page.no>
-                            <time.stamp />
-                            <name.id>K4P</name.id>
-                            <electorate>Wannon</electorate>
+                            <page>8732</page>
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">COOKE, Samuel</name>
                             <name role="display">Mr WINTER COOKE</name>
                         </talker>
                         <para>- -I an- not prepared to say whether the Bill is or is not necessary, but I should like to know what will become of cases which may be proceeding at the time of the establishment of the High Court. </para>
@@ -2176,15 +1419,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8733</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- They will be provided for in the Judiciary Bill. </para>
@@ -2202,15 +1439,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8733</page.no>
-                            <time.stamp />
-                            <name.id>K4E</name.id>
-                            <electorate>Werriwa</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CONROY, Alfred</name>
                             <name role="display">Mr CONROY</name>
                         </talker>
                         <para>- I doubt very much whether this Bill is absolutely necessary. But if it is, I would point out that there is a mistake in the very first clause. It is provided that the Bill shall cease to have effect upon the establishment of the High Court, and assuming that the establishment of the High Court is to date from the passing of the Act constituting the Court, it would be a mistake to render this Bill inoperative at that time. It would be far more convenient to continue the operation of the Bill for at least two or three months beyond the date of the establishment of the High Court, so as to permit of all the necessary arrangements being made for the exercise of the functions of that body. Otherwise some urgent case may arise before the High Court is in working order, and grave public inconvenience may be caused. I am rather inclined to agree with the honorable and learned member for South Australia, <inline font-weight="bold">Mr. Glynn,</inline> that the Bill is unnecessary, especially as a decision has already been given by one of the New South Wales courts to that effect. I think that all that is necessary is provided for in the charter of Justice, and that the power which has been given to the State courts to adjudicate upon matters arising under Imperial laws would extend to the Acts of the Commonwealth. I see that the Bill provides only for criminal offences, and I think that its scope might have been extended to cover civil suits. </para>
@@ -2218,15 +1448,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8733</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- Those are to be dealt with in the Judiciary Bill. </para>
@@ -2242,15 +1466,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8733</page.no>
-                            <time.stamp />
-                            <name.id>K7U</name.id>
-                            <electorate>Corio</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CROUCH, Richard</name>
                             <name role="display">Mr CROUCH</name>
                         </talker>
                         <para>- I see that this clause provides that the laws of each State respecting the arrest and custody of offenders, and the procedure for their summary conviction " or for their examination and commitment for trial," shall apply as far as they are applicable to persons who are charged with offences against the laws of the Commonwealth committed within that State. It seems to me that the provision for examination of offenders implies that a witness is to give some evidence, or make some statement. I think the word " examination " has been used instead of the word " prosecution." </para>
@@ -2258,15 +1475,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8733</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                <page>8733</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- The word " examination " is the widest term that we could employ. </para>
@@ -2275,15 +1486,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8734</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- Under an Act recently passed in Victoria, if an accused person pleads guilty in the lower court, it is assumed that he will afterwards plead guilty in the higher court ; but the provision in this clause seems to necessitate some procedure other than the bare committal for trial without further evidence being necessary. It is provided that the laws of the States shall apply " so far as as they are applicable." That really means so far as they are now applicable. But what is intended to be conveyed is that the laws shall apply as far as they can be made applicable. </para>
@@ -2292,15 +1497,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>8734</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- We always speak in the present tense in drafting Bills. </para>
@@ -2309,15 +1508,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8734</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- Yes ; but we have tried to provide for laws that do not apply to the State courts ; and we say that they shall apply as far as they do apply. That would almost seem to convey that this Bill is unnecessary and will be inoperative. Although my own mind is not at all free from doubt, I recognise the undesirability of making any amendments at this stage, and I only hope that the Bill will meet all requirements. </para>
@@ -2331,8 +1524,7 @@
         <debate>
             <debateinfo>
                 <title>TARIFF</title>
-                <page.no>8734</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <para>
                 <inline font-style="italic">In Committee of Ways and Means -</inline>
@@ -2345,15 +1537,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8734</page.no>
-                        <time.stamp />
-                        <name.id>KFI</name.id>
-                        <electorate>FLINDERS, VICTORIA</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">GROOM, Arthur</name>
+                        
                         <name role="display">Mr A C GROOM</name>
                     </talker>
                     <para>- I move - </para>
@@ -2366,15 +1550,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8734</page.no>
-                        <time.stamp />
-                        <name.id>L2G</name.id>
-                        <electorate>Wentworth</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCMILLAN, William</name>
                         <name role="display">Sir WILLIAM McMILLAN</name>
                     </talker>
                     <para>- This is an item which has a special claim upon our attention. An honorable member does not need to go very far into the country to understand to what extent these tanks are used in portions of Australia where the people have to depend upon roof rain for their water. As far as I can understand, the ordinary tank has a capacity of 400 gallons, and a duty of 3s. for every 100 gallons represents about 24 per cent. I think that such a proposal goes a little too far. </para>
@@ -2382,15 +1559,7 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8734</page.no>
-                            <time.stamp />
-                            <name.id>KRO</name.id>
-                            <electorate>GIPPSLAND, VICTORIA</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCLEAN, Allan</name>
+                            
                             <name role="display">Mr A McLEAN</name>
                         </talker>
                         <para>- Let us make them a Christmas-box of the tanks. </para>
@@ -2399,15 +1568,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8734</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM McMILLAN</name>
                         </talker>
                         <para>- I think that the suggestion of the honorable member for Gippsland is an exceedingly good one, and if we also grant the people a New Year's gift by exempting weighing machines from duty, I think we shall have cause to congratulate ourselves upon the work done. I therefore support the amendment, and appeal to members to allow tanks to be placed upon the free list. </para>
@@ -2417,15 +1580,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8734</page.no>
-                        <time.stamp />
-                        <name.id>KWT</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">TURNER, George</name>
                         <name role="display">Sir GEORGE TURNER</name>
                     </talker>
                     <para>- I do not know that we are justified in making either Christmas presents or New Year's gifts. I would point out that tanks are used very largely for the importation of goods which formerly had to be packed in cases. To a considerable extent they compete with the manufacture of corrugated-iron tanks in the different States. </para>
@@ -2433,15 +1589,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8734</page.no>
-                            <time.stamp />
-                            <name.id>KYD</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">POYNTON, Alexander</name>
                             <name role="display">Mr Poynton</name>
                         </talker>
                         <para>- The farmers in the back blocks use them for carting water during the dry months of the year. </para>
@@ -2450,15 +1600,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8734</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            <page>8734</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- I recognise that these tanks are to some extent used in the suburbs, but they are used to a much greater extent in the country districts for the storage and carting of water. I have had some experience of the difficulty under which the farmers of Victoria labour in carting water. It is true that to exempt tanks from duty will mean sacrificing a revenue of £7,500 a year, but seeing that we have to give special consideration to this particular class of our people, and in deference to the general feeling of the committee, the Government propose to accept the amendment. </para>
@@ -2474,15 +1618,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8735</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir George TURNER</name>
                         </talker>
                         <para>- Oh, no. </para>
@@ -2491,15 +1629,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8735</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM MCMILLAN</name>
                         </talker>
                         <para>- I understand that these articles are not made in Australia, and, therefore, I move - </para>
@@ -2512,15 +1644,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8735</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE TURNER</name>
                         </talker>
                         <para>- Upon this item I am afraid that I cannot yield to the acting leader of the Opposition. I have ascertained that weigh-bridges are manufactured here, while cash registers and computing machines can well afford to pay the duty proposed. To reduce the rate upon these goods to 10 per cent, would mean sacrificing half the revenue which we expect to derive from this source. As the Government have fairly met the committee in regard to the duties upon other articles they are entitled to ask honorable members to allow this impost to stand. </para>
@@ -2530,15 +1656,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8735</page.no>
-                        <time.stamp />
-                        <name.id>F4R</name.id>
-                        <electorate>Bland</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">WATSON, John Christian</name>
                         <name role="display">Mr WATSON</name>
                     </talker>
                     <para>- I cannot quite agree ' with the acting leader of the Opposition that the duty proposed should be reduced to 10 per cent., because we must get revenue from some source, and there is hardly an article in the Tariff which is not used more or less by "the community. 0n the other hand I do not think there is much in the rate proposed from a protective stand-point. Scales are not made in Australia to any large extent. </para>
@@ -2546,15 +1665,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8735</page.no>
-                            <time.stamp />
-                            <name.id>KNJ</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MAUGER, Samuel</name>
                             <name role="display">Mr Mauger</name>
                         </talker>
                         <para>- The scales of weighbridges are made here very largely. </para>
@@ -2563,15 +1676,9 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8735</page.no>
-                            <time.stamp />
-                            <name.id>F4R</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">WATSON, John Christian</name>
                             <name role="display">Mr WATSON</name>
                         </talker>
                         <para>- As we are compelled to impose duties upon some articles it seems to me that scales might very well form the subject of a reasonable duty, especially as people do not buy them very frequently. Cash registers are purely a luxury, and I shall, therefore, vote for the retention of 20 per cent. </para>
@@ -2587,15 +1694,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8735</page.no>
-                        <time.stamp />
-                        <name.id>K4E</name.id>
-                        <electorate>Werriwa</electorate>
+                        <page>8735</page>
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">CONROY, Alfred</name>
                         <name role="display">Mr CONROY</name>
                     </talker>
                     <para>- I am rather sorry that the committee did not consider " weighing machines, weigh-bridges, and scales," as one line. As a free-trader I should naturally like to see the lowest possible duty placed upon those articles. It is a mistake to believe that the imposition of a higher . duty upon any article must necessarily increase the revenue which will be derived therefrom. Everybody does not use a weighing machine, but if we are to guard against the rapacity of importers, of which we hear so much, the best thing we can do is to supply everybody with proper scales for weighing their purchases. The proposal of 10 per cent, is one which might reasonably commend itself to the committee. </para>
@@ -2609,15 +1709,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>KPM</name.id>
-                        <electorate>Corinella</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">MCCAY, James</name>
                         <name role="display">Mr McCAY</name>
                     </talker>
                     <para>- It is perfectly true that in some cases, where purely revenue duties are imposed, a large increase in the rate will cause a more than proportionate falling-off in the revenue. But in this ease I do not think it can be reasonably said that a difference of 10 per cent, will make ar,y appreciable diminution in importation and consumption. The man who wants to buy a pair of scales of a certain quality will not be debarred because of the fact that the duty is 20 per cent, and not 10 per cent. If we are to have revenue duties at all, surely this is a typical case, seeing that nearly everybody buys at long intervals. It is practically a certainty that for every 1 per cent, by which we reduce the duty, we shall lose 1 per cent, of revenue ; and, from that point of view, this is obviously an item on which a high duty may be placed. These scales are used by the whole of the community, and no man is a large buyer of any. Yesterday we agreed without a division to a revenue duty of 15 percent, on cutlery, which is more largely used, and has to be oftener renewed; and it would be inconsistent to reduce the duty on weighing machines to 10 per cent. There is a certain amount of manufacture of some of these articles, but in the main this is a matter of revenue, and if we reduce this duty in the way proposed, we might just as well have no revenue duties at all. </para>
@@ -2626,15 +1719,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>KRQ</name.id>
-                        <electorate>Grampians</electorate>
+                        
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SKENE, Thomas</name>
                         <name role="display">Mr SKENE</name>
                     </talker>
                     <para>- This is an item, which from a revenue point of view, might very well stand at 15 per cent., but I cannot agree with the leader of the Opposition that a duty of 10 per cent, is sufficient. </para>
@@ -2643,15 +1729,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>KEW</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">KINGSTON, Charles</name>
                         <name role="display">Mr KINGSTON</name>
                     </talker>
                     <para>- I believe in a little reciprocity in Customs matters. The Opposition proposed that tanks should be free, and, in view of the season, and the reasonableness of the suggestion, we assented. On the item before us, I did expect a reciprocal movement on the part of the Opposition, and I trust that I shall not be disappointed. We make some of these goods, which in many cases may be called commercial luxuries. We are not asking for a duty which will bear excessively on the pioneer, but for an amount which will be cheerfully paid by those well able to afford it. </para>
@@ -2663,15 +1742,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8736</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr Kingston</name>
                         </talker>
                         <para>- Does the honorable member think any man will buy two pairs of . scales instead of one, because of the difference of 10 per cent. <inline font-style="italic">1</inline></para>
@@ -2681,15 +1754,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>L2I</name.id>
-                        <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SMITH, Sydney</name>
+                        
                         <name role="display">Mr SYDNEY SMITH</name>
                     </talker>
                     <para>- It must be remembered that a large number of items come under " n.e.i." When speaking yesterday, I strongly urged the importance of admitting all patent machinery free, and I hope that during the recess the Minister for Trade and Customs will favorably consider that suggestion. </para>
@@ -2697,15 +1762,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8736</page.no>
-                            <time.stamp />
-                            <name.id>KWT</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">TURNER, George</name>
                             <name role="display">Sir GEORGE Turner</name>
                         </talker>
                         <para>- That is a point well worth considering, but in the present instance 10 per cent, is not enough. </para>
@@ -2714,15 +1773,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8736</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- The honorable member for Echuca admits that Hornsby's plough-shares should be admitted free, and the same admission may be made in regard to all patent machinery, which cannot, of course, be manufactured here without the permission of the patentees. </para>
@@ -2731,15 +1782,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>8736</page.no>
-                            <time.stamp />
-                            <name.id>KEW</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">KINGSTON, Charles</name>
                             <name role="display">Mr Kingston</name>
                         </talker>
                         <para>- Then it will be only necessary to brand a machine as " patent " in order to get it in free. </para>
@@ -2748,15 +1793,7 @@
                 <continue>
                     <talk.start>
                         <talker>
-                            <page.no>8736</page.no>
-                            <time.stamp />
-                            <name.id>L2I</name.id>
-                            <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                            <party>FT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SMITH, Sydney</name>
+                            
                             <name role="display">Mr SYDNEY SMITH</name>
                         </talker>
                         <para>- Patent machines are necessary to enable our farmers to compete in the markets of the world, and it is of the utmost importance that the Australian producer should be kept abreast of new inventions and improvements. In view of the promise of the Minister to consider the question of putting fruit paper upon the free list I shall say no moro on the present occasion. </para>
@@ -2766,15 +1803,7 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>KTV</name.id>
-                        <electorate>FREMANTLE, WESTERN AUSTRALIA</electorate>
-                        <party>FT</party>
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SOLOMON, Elias</name>
+                        
                         <name role="display">Mr E SOLOMON</name>
                     </talker>
                     <para>- So far as we are concerned in Western Australia we do not do a large amount of business in these articles, but the present duty there is only 5 per cent., so that a duty of 10 per cent, would be doubling the existing taxation. I, for one, however, am willing to give way to some extent upon this matter, and if a duty of 15 per cent, will meet the wishes of the Government I shall be prepared to vote for it. </para>
@@ -2783,15 +1812,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8736</page.no>
-                        <time.stamp />
-                        <name.id>009LR</name.id>
-                        <electorate>Hunter</electorate>
-                        <party>Protectionist</party>
+                        <page>8736</page>
                         <role>Minister for External Affairs</role>
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">BARTON, Edmund</name>
                         <name role="display">Mr BARTON</name>
                     </talker>
                     <para>. - I can see from a survey of the work that has taken place this week that a little kindness to honorable members, however seldom reciprocated by honorable gentlemen opposite, may not be wasted. When I look at the benignant countenance of the honorable member for Parramatta, I feel sure that we have a lot to expect from him in the future, however distant that future may be. If the committee has hot done enough work this week, honorable members have at any rate wearied themselves in their exertions, and I do not see much good in continuing our sittings tomorrow. Under these circumstances, I propose to report progress after we have dealt with the item which is now under consideration. </para>
@@ -2808,7 +1830,6 @@
             </speech>
             <division>
                 <division.header>
-                    <time.stamp />
                     <para>The committee divided - </para>
                 </division.header>
                 <division.data>
@@ -2839,15 +1860,8 @@
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>8737</page.no>
-                        <time.stamp />
-                        <name.id>KEW</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">KINGSTON, Charles</name>
                         <name role="display">Mr KINGSTON</name>
                     </talker>
                     <para>-I desire to intimate to the committee that from and after tomorrow, apple paper, cartridge cases, empty or capped, and wads, and also locks, will be placed upon the free list. </para>
@@ -2858,26 +1872,18 @@
         <debate>
             <debateinfo>
                 <title>SPECIAL ADJOURNMENT</title>
-                <page.no>8737</page.no>
-                <type>special adjournment</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Sugar Duties</title>
-                    <page.no>8737</page.no>
+                    
                 </subdebateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8737</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
-                            <electorate>Hunter</electorate>
-                            <party>Protectionist</party>
+                            
                             <role>Minister for External Affairs</role>
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>. - Before we adjourn, I desire to say, with reference to the sugar duties, that there could be no thought or intention of depriving any planter of the benefit of the rebate in respect to the retention of coloured labour up to, say, the 1st February. With the concurrence of the House, I shall now move - </para>
@@ -2890,15 +1896,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8737</page.no>
-                            <time.stamp />
-                            <name.id>L2G</name.id>
-                            <electorate>Wentworth</electorate>
+                            
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">MCMILLAN, William</name>
                             <name role="display">Sir WILLIAM McMILLAN</name>
                         </talker>
                         <para>- I am sure I can reciprocate all the friendly sentiments expressed by the Prime Minister. I paused, expecting that he would have moved a special vote of thanks to His Majesty's Opposition for the kind and generous manner in which they have helped the Government to carry through the business. At any rate, we reciprocate their affection at this period; and I am sure, so happy have we been together, and so much do we love our work, that we shall be counting the hours till we meet again. </para>
@@ -2907,15 +1906,9 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>8737</page.no>
-                            <time.stamp />
-                            <name.id>10000</name.id>
+                            <page>8737</page>
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SPEAKER, Mr</name>
                             <name role="display">Mr SPEAKER</name>
                         </talker>
                         <para>- I wish to inform the House that a short time since a communication was received from the Legislature of New South Wales intimating that the members of this Parliament have been made honorary members of the New South Wales refreshment room. The joint committee of this Parliament decided to reciprocate, and I have informed the New South Wales Legislature accordingly. </para>
@@ -2927,15 +1920,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>8738</page.no>
-                                <time.stamp />
-                                <name.id>10000</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SPEAKER, Mr</name>
                                 <name role="display">Mr SPEAKER</name>
                             </talker>
                             <para>- A communication has been received also with reference to the use of the Parliamentary Library in New South Wales, but for reasons which are known to honorable members, the Library Committee of this Parliament have not yet been able to meet and consider it. The communication will, however, be considered when the Library Committee next meet. </para>
@@ -2947,7 +1934,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>8738</page.no>
+                <page>8738</page>
                 <time.stamp>15:34:00</time.stamp>
             </adjournmentinfo>
                     <para>House adjourned at 3. 34 p.m.. </para>

@@ -1,32 +1,24 @@
-<hansard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1">
+
   <session.header>
     <date>1901-07-19</date>
-    <parliament.no>1</parliament.no>
-    <session.no>1</session.no>
-    <period.no>0</period.no>
-    <chamber>SENATE</chamber>
-    <page.no>2801</page.no>
-    <proof>0</proof>
+    
   </session.header>
   <chamber.xscript>
     <para class="block">Senate. </para>
     <business.start>
-      <day.start>1901-07-19</day.start>
       <para>The President took the chair at 10.30 a.m., and read prayers. </para>
     </business.start>
     <debate>
       <debateinfo>
         <title>SER VICE AND EXECUTION OF PROCESS BILL</title>
-        <page.no>2801</page.no>
-        <type>bill</type>
+        
       </debateinfo>
       <para>Bill read a third time. </para>
     </debate>
     <debate>
       <debateinfo>
         <title>REPURCHASE OF UNUSED POSTAGE STAMPS</title>
-        <page.no>2801</page.no>
-        <type>miscellaneous</type>
+        <page>2801</page>
       </debateinfo>
       <para class="block">
         <inline font-weight="bold">Senator KEATING</inline>(Tasmania) I move- </para>
@@ -37,15 +29,9 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2802</page.no>
-            <time.stamp />
-            <name.id>10000</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">PRESIDENT, The</name>
             <name role="display">The PRESIDENT</name>
           </talker>
           <para>- I might point out to the honorable senator' that, strictly speaking, it is not regular to refer to the report of a previous debate in the same session, but in this case I do' not see very well how it could be avoided. </para>
@@ -54,15 +40,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2802</page.no>
-            <time.stamp />
-            <name.id>KPE</name.id>
-            <electorate>TASMANIA</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">KEATING, John</name>
             <name role="display">Senator KEATING</name>
           </talker>
           <para>- I was under the impression myself that I could not refer to a previous debate, but the whole substance of this motion is aimed at procuring a correction of what seems to be an error. The Postmaster-General said - </para>
@@ -79,15 +58,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2802</page.no>
-              <time.stamp />
-              <name.id>K54</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">SARGOOD, Frederick</name>
               <name role="display">Senator Sir Frederick Sargood</name>
             </talker>
             <para>- Hear, hear. </para>
@@ -96,15 +69,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2802</page.no>
-              <time.stamp />
-              <name.id>KPE</name.id>
+              <page>2802</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">KEATING, John</name>
               <name role="display">Senator KEATING</name>
             </talker>
             <para>- I feel perfectly convinced that if <inline font-weight="bold">Senator Sir Frederick</inline> Sargood, on further investigation by the Postmaster-General, finds that the amount stated was erroneous, he will be the very first man to withdraw the reflection, if I may cull it a reflection, that was made in connexion with this particular matter. I am perfectly sure <inline font-weight="bold">Senator Sargood</inline> will treat the whole matter fairly, and acknowledge that his comment was really based on what seems to me, at this particular stage, information which is erroneous. It is simply to draw attention to these circumstances, so that the public, now that the matter has been mentioned, may get the correct facts of the case that J submit the motion. </para>
@@ -114,15 +81,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2803</page.no>
-            <time.stamp />
-            <name.id>JXO</name.id>
-            <electorate>Postmaster</electorate>
-            <party>Protectionist</party>
+            
             <role>General</role>
-            <in.gov>1</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">DRAKE, James</name>
             <name role="display">Senator DRAKE</name>
           </talker>
           <para>. - I am happy to be able to inform <inline font-weight="bold">Senator Keating</inline> that I am already taking steps to get all the information I can on this subject. That is to say, I have already caused instructions to be sent to the heads of the Postal department in each State to furnish fill the information on the subject that is available. </para>
@@ -130,15 +90,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2803</page.no>
-              <time.stamp />
-              <name.id>KTF</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">MCGREGOR, Gregor</name>
               <name role="display">Senator McGregor</name>
             </talker>
             <para>- Was the Postmaster-General's statement based only on guesswork ? </para>
@@ -147,15 +101,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2803</page.no>
-              <time.stamp />
-              <name.id>JXO</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DRAKE, James</name>
               <name role="display">Senator DRAKE</name>
             </talker>
             <para>- No. I will explain Again, and I think this is the second time I have made a statement in regard to this matter in the Senate. The foundation of the matter was that before federation there was a conference of permanent heads which sat to consider a Postal Bill. One of the recommendations of that conference was that as soon as federation was accomplished, the stamps of each State should be interchangeable throughout the Commonwealth, and should be over-printed with the letters "A. C." or " C. A." "When the. proposition came before me, I suggested that if it were adopted we could not give effect to the book- keeping clause of the Constitution, because stamps purchased in one State would be used in another. I made inquiries as to what the effect would be, from a monetary point of view, of adopting the suggestion of the conference. At first it was thought it would only be a matter of a few pounds one way or the other - that it might be an advantage of a few pounds in favour of one State, or a few pounds in favour of another. But after more careful inquiries were made, I was informed that it would make a difference of between £10,000 and £11,000 to Tasmania, solely on account of the institution in that State known as "Tattersail's." That was the foundation of the statement I made to the Senate, and I am very anxious to see whether it can be absolutely borne out. That was the information given to me on which I decided at once that it would be impossible- to make the stamps of the States interchangeable. The report that has been quoted by <inline font-weight="bold">Senator Keating</inline> is substantially correct. It will be noticed that I do not state there that " Tattersall " has sent all the stamps to the Postal department. In committee on the Postal and Telegraph Bill, I said - </para>
@@ -177,15 +125,9 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2803</page.no>
-            <time.stamp />
-            <name.id>KTF</name.id>
+            
             <electorate />
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">MCGREGOR, Gregor</name>
             <name role="display">Senator MCGREGOR</name>
           </talker>
           <para>- We want the number and value. </para>
@@ -193,15 +135,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2803</page.no>
-              <time.stamp />
-              <name.id>JXO</name.id>
+              <page>2803</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DRAKE, James</name>
               <name role="display">Senator DRAKE</name>
             </talker>
             <para>- That is what I am now suggesting should be ascertained - the number and value of the stamps repurchased by the Postal department in each of the States. And there is another difficulty. I do not speak with certainty, but I am in- formed that at the present time do note is made of the persons from whom the stamps are repurchased. We can, beyond doubt, get information as to the number and value of the stamps that are repurchased, because a small discount is charged in this transaction, except in Kew South Wales, where for some time past it has been the custom to cash stamps received, T think, in payment of duty, without any discount at all. In that State, however, there has been a recent alteration of the regulations, and it is proposed in future to charge a small commission for cashing stamps that have been received for that purpose. Beyond being able to get the number and value of the stamps repurchased, I do not think we can do anything with a view to showing where the stamps come from. We can discriminate as between stamps repurchased and used for duty purposes and other stamps, but otherwise all we can do is to give the total number and value. I do not know whether it is worth while taking notice of a peculiarity in the form of the motion, bub I see I am honoured by a "request to get this information. Usually when a House of Parliament passes a motion of this kind, it makes an order for the return. However, I do not desire to raise a quibble like that, because if I am requested to get a return, I shall do -exactly the same as if I were ordered to furnish it. I think the form of the motion should be - </para>
@@ -214,15 +150,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>K0X</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PLAYFORD, Thomas</name>
               <name role="display">Senator Playford</name>
             </talker>
             <para>- Why not confine the motion to Tattersalls altogether <inline font-style="italic">1</inline> What is the object of getting all this information ? </para>
@@ -231,15 +161,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>JXO</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DRAKE, James</name>
               <name role="display">Senator DRAKE</name>
             </talker>
             <para>- I presume <inline font-weight="bold">Senator Playford</inline> has just entered the chamber. I have just been explaining that we do not take a note in the Postal department from whom stamps have been repurchased. The only exception to that rule is that we repurchase in New South Wales stamps used for the payment of duty. Otherwise no notice is taken of the person from whom stamps are repurchased, so that probably, although we shall be able to ascertain the value of the stamps repurchased, we shall not be able to satisfy the mover of the motion by securing the names of the persons from whom we obtained them. If the motion is amended in the way I have suggested I shall be happy at the earliest possible moment to give the information desired. </para>
@@ -248,15 +172,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>JVC</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOBSON, Henry</name>
               <name role="display">Senator Dobson</name>
             </talker>
             <para>- Is it not clear that the information given to the Minister does not show that £10,000 worth of stamps were sent to Tattersalls as payment for tickets <inline font-style="italic">1</inline></para>
@@ -265,15 +183,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>JXO</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DRAKE, James</name>
               <name role="display">Senator DRAKE</name>
             </talker>
             <para>- I did not make inquiry as to whether the amount was sent as payment for tickets or to frank letters back in reply. The information which I have since gained is that every letter sent down to Tattersalls is required to contain a certain number of stamps to pay for the return of a ticket and for posting the results. </para>
@@ -282,15 +194,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>KPE</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">KEATING, John</name>
               <name role="display">Senator Keating</name>
             </talker>
             <para>- The stamps are not sent as payment for tickets. </para>
@@ -299,15 +205,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2804</page.no>
-              <time.stamp />
-              <name.id>JXO</name.id>
+              <page>2804</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DRAKE, James</name>
               <name role="display">Senator DRAKE</name>
             </talker>
             <para>- I shall be able, perhaps, to ascertain whether the information that previously reached me is correct or not. There "can be no doubt of the meaning of that information, because it was accepted by me as a reason why it would be absolutely impossible to make the stamps interchangeable. If that were done, Tasmania would be a loser to the' extent of £10,000 or £11,000 a year. It may perhaps have been an exaggeration, but that was the information which was given to me, and it could mean nothing else than that there were £10,000 or £11,000 worth of stamps annually sent down to Tasmania from the other States. </para>
@@ -319,15 +219,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2805</page.no>
-            <time.stamp />
-            <name.id>JZ9</name.id>
-            <electorate>Tasmania</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">O'KEEFE, David</name>
             <name role="display">Senator O'KEEFE</name>
           </talker>
           <para>- There seems to be a little misapprehension on the part of senators - perhaps because of their anti-gambling prejudices - with regard to this matter. There ave no senators, except myself of course, who have ever been guilty of taking tickets in Tattersalls consultations. The procedure, so far as I can remember, is that stamps are not taken as the value of the tickets. <inline font-weight="bold">Senator Sir Frederick</inline> Sargood in speaking upon this subject seemed to think that sspeculations have been going on, on the part of office employes, for the purpose of getting stamps to send to Tattersalls to purchase tickets. If that were his idea, he is wrong, because Tattersall clearly lays it down that he will not accept stamps for tickets. The procedure is to send two stamps, one for a reply, and the other for the results. The payment must be made by post-office order or postal note. It is only to shed a little light on this subject, for the assistance of those who have nothing to do with Tattersall's that I make the suggestion. </para>
@@ -335,15 +228,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- I would point out that no amendment has been moved. </para>
@@ -357,15 +244,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- The honorable and learned senator can ask leave to amend his motion. </para>
@@ -374,15 +255,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>JVG</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOWNER, John William</name>
               <name role="display">Senator Sir Johs Downer</name>
             </talker>
             <para>- On a point of order, <inline font-weight="bold">Mr. President,</inline> I venture to submit that the honorable and learned senator cannot amend his motion when speaking in reply. </para>
@@ -391,15 +266,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- Tho honorable and learned senator cannot move to amend his own motion. During the debate various suggestions were made by honorable senators, but no one moved an amendment. Then the honorable and learned senator replied, and asked leave to amend his motion. I think he can do that. </para>
@@ -408,15 +277,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>JVG</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">DOWNER, John William</name>
               <name role="display">Senator Sir John Downer</name>
             </talker>
             <para>-I respect fully submit that he can not. </para>
@@ -425,15 +288,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2805</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              <page>2805</page>
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- No doubt it would have been more regular if some honorable senator had moved an amendment instead of making suggestions. </para>
@@ -442,15 +299,9 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>2806</page.no>
-              <time.stamp />
-              <name.id>KUL</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">MILLEN, Edward</name>
               <name role="display">Senator Millen</name>
             </talker>
             <para>- I. suppose I have lost my right to move an amendment now? </para>
@@ -459,15 +310,9 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>2806</page.no>
-              <time.stamp />
-              <name.id>10000</name.id>
+              
               <electorate />
               <party />
-              <role />
-              <in.gov>0</in.gov>
-              <first.speech>0</first.speech>
-              <name role="metadata">PRESIDENT, The</name>
               <name role="display">The PRESIDENT</name>
             </talker>
             <para>- Yes. However, as this has been a somewhat irregular procedure, I think that when I put the motion in its amended form it will be advisable, if any honorable senator wishes to speak, to allow another debate to take place. Strictly speaking, the honorable and learned senator should have asked leave to amend his motion before he replied. </para>
@@ -477,15 +322,8 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>2806</page.no>
-            <time.stamp />
-            <name.id>KUL</name.id>
-            <electorate>New South Wales</electorate>
+            
             <party />
-            <role />
-            <in.gov>0</in.gov>
-            <first.speech>0</first.speech>
-            <name role="metadata">MILLEN, Edward</name>
             <name role="display">Senator MILLEN</name>
           </talker>
           <para>- The word " average " still remains in the motion in its amended form, and therefore the return will not give the particular information that I desire. I therefore move - </para>
@@ -499,7 +337,7 @@
     </debate>
     <adjournment>
       <adjournmentinfo>
-        <page.no>2806</page.no>
+        <page>2806</page>
         <time.stamp>11:10:00</time.stamp>
       </adjournmentinfo>
       <para>Senate adjourned at 11.10 a.m. </para>

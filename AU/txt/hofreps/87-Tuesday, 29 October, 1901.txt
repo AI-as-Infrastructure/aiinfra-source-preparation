@@ -1,17 +1,11 @@
-<hansard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1">
+
     <session.header>
         <date>1901-10-29</date>
-        <parliament.no>1</parliament.no>
-        <session.no>1</session.no>
-        <period.no>0</period.no>
-        <chamber>REPS</chamber>
-        <page.no>6495</page.no>
-        <proof>0</proof>
+        <page>6495</page>
     </session.header>
     <chamber.xscript>
         <para>House ofRepresentatives. </para>
         <business.start>
-            <day.start>1901-10-29</day.start>
             <para>
         <inline font-weight="bold">Mr. Speaker</inline>took the choir at 2.30 p.m., and read prayers. </para>
             <para class="block">PRESIDENT McKINLEY. </para>
@@ -1261,22 +1255,14 @@
         <debate>
             <debateinfo>
                 <title>ADJOURNMENT</title>
-                <page.no>6569</page.no>
-                <type>adjournment</type>
+                
             </debateinfo>
             <para>Motion <inline font-style="italic">of</inline> Censure. </para>
             <speech>
                 <talk.start>
                     <talker>
                         <page.no />
-                        <time.stamp />
-                        <name.id>009LR</name.id>
-                        <electorate>Hunter</electorate>
-                        <party>Protectionist</party>
                         <role>Minister for External Affairs</role>
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">BARTON, Edmund</name>
                         <name role="display">Mr BARTON</name>
                     </talker>
                     <para>. - I move - </para>
@@ -1288,7 +1274,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>6569</page.no>
+                <page>6569</page>
                 <time.stamp>23:27:00</time.stamp>
             </adjournmentinfo>
                 <para>House adjourncd at 11.45 p.m. </para>

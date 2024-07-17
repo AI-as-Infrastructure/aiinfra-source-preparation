@@ -1,38 +1,25 @@
-<hansard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1">
+
     <session.header>
         <date>1901-05-21</date>
-        <parliament.no>1</parliament.no>
-        <session.no>1</session.no>
-        <period.no>0</period.no>
-        <chamber>REPS</chamber>
-        <page.no>75</page.no>
-        <proof>0</proof>
+        
     </session.header>
     <chamber.xscript>
         <para>House of Representatives. </para>
         <business.start>
-            <day.start>1901-05-21</day.start>
             <para>
         <inline font-weight="bold">Mr. Speaker</inline>took the chair at 4 p.m. </para>
         </business.start>
         <debate>
             <debateinfo>
                 <title>COMMISSION TO ADMINISTER OATH</title>
-                <page.no>75</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>75</page.no>
-                        <time.stamp />
-                        <name.id>10000</name.id>
+                        
                         <electorate />
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SPEAKER, Mr</name>
                         <name role="display">Mr SPEAKER</name>
                     </talker>
                     <para>- I have to announce to the House that I have received from His Excellency the
@@ -44,8 +31,7 @@
         <debate>
             <debateinfo>
                 <title>MEMBERS SWORN</title>
-                <page.no>75</page.no>
-                <type>miscellaneous</type>
+                <page>75</page>
             </debateinfo>
             <para class="block">The Right Hon. George Houstoun Reid, P.O., K.C., and Hugh Mahon, Esq.,
         made ' and subscribed the oath of allegiance. </para>
@@ -53,8 +39,7 @@
         <debate>
             <debateinfo>
                 <title>PETITIONS</title>
-                <page.no>76</page.no>
-                <type>petition</type>
+                
             </debateinfo>
             <para>
         <inline font-weight="bold">Mr. Dugald</inline>Thomson presented a petition from the General
@@ -68,21 +53,13 @@
         <debate>
             <debateinfo>
                 <title>PROPOSED STANDING ORDERS</title>
-                <page.no>76</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>76</page.no>
-                        <time.stamp />
-                        <name.id>009LR</name.id>
-                        <electorate>HUNTER, NEW SOUTH WALES</electorate>
-                        <party>Protectionist</party>
+                        
                         <role>Minister for External Affairs</role>
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">BARTON, Edmund</name>
                         <name role="display">Mr BARTON</name>
                     </talker>
                     <para>- I wish to withdraw a paper which I laid upon the table on the 10th instant - the
@@ -92,15 +69,9 @@
                 <interjection>
                     <talk.start>
                         <talker>
-                            <page.no>76</page.no>
-                            <time.stamp />
-                            <name.id>F4P</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">REID, George</name>
                             <name role="display">Mr Reid</name>
                         </talker>
                         <para>- I should think there would be a revised draft. It will save us a great deal of
@@ -116,21 +87,14 @@
         <debate>
             <debateinfo>
                 <title>ACCOMMODATION FOR MEMBERS: ELECTION PETITION</title>
-                <page.no>76</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>76</page.no>
-                        <time.stamp />
-                        <name.id>10000</name.id>
+                        
                         <electorate />
                         <party />
-                        <role />
-                        <in.gov>0</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">SPEAKER, Mr</name>
                         <name role="display">Mr SPEAKER</name>
                     </talker>
                     <para>- Before the order of the day is called on, I have to inform the House that I have
@@ -159,21 +123,13 @@
         <debate>
             <debateinfo>
                 <title>CONGRATULATORY MESSAGE</title>
-                <page.no>76</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <speech>
                 <talk.start>
                     <talker>
-                        <page.no>76</page.no>
-                        <time.stamp />
-                        <name.id>009LR</name.id>
+                        
                         <electorate />
-                        <party>Protectionist</party>
-                        <role />
-                        <in.gov>1</in.gov>
-                        <first.speech>0</first.speech>
-                        <name role="metadata">BARTON, Edmund</name>
                         <name role="display">Mr BARTON</name>
                     </talker>
                     <para>- Since the last sitting of the House I have received the following cablegram from
@@ -204,28 +160,19 @@
         <debate>
             <debateinfo>
                 <title>GOVERNOR-GENERAL'S SPEECH</title>
-                <page.no>76</page.no>
-                <type>miscellaneous</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Address in Reply.</title>
-                    <page.no>76</page.no>
+                    
                 </subdebateinfo>
                 <para>Address in Reply. </para>
                 <para>Consideration of Address in Reply to the speech of His Excellency the Governor-general          resumed from 10th May, <inline font-style="italic">vide</inline> page 32. </para>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>76</page.no>
-                            <time.stamp />
-                            <name.id>KFL</name.id>
-                            <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                            <party>PROT</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">GROOM, William</name>
+                            <page>76</page>
                             <name role="display">Mr W H GROOM</name>
                         </talker>
                         <para>- I move that the following Address, in reply to His Excellency's speech to
@@ -309,15 +256,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>78</page.no>
-                                <time.stamp />
-                                <name.id>L2I</name.id>
-                                <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                                <party>FT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Sydney</name>
+                                
                                 <name role="display">Mr SYDNEY SMITH</name>
                             </talker>
                             <para>And to every other State. </para>
@@ -326,15 +265,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>78</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                <page>78</page>
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>Probably it is of more importance to Queensland than to any other State. I
@@ -499,15 +430,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>L2G</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">MCMILLAN, William</name>
                                 <name role="display">Sir William McMillan</name>
                             </talker>
                             <para>I did not say anything of the kind. I said ?8,000,000. </para>
@@ -516,15 +441,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>That is near enough. </para>
@@ -533,15 +452,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>I do not wish to misquote the honorable member for Wentworth; but I would
@@ -575,15 +486,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>It is not said; it never has been said. </para>
@@ -592,15 +495,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>When it is suggested that, in the event of a certain contingency arising, and
@@ -623,15 +518,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>10000</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">HONORABLE MEMBERS</name>
                                 <name role="display">HONORABLE MEMBERS</name>
                             </talker>
                             <para>Hear, hear.</para>
@@ -640,15 +529,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>81</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                <page>81</page>
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>I was struck by a remark made by Richard Cobden, in one of his speeches, to
@@ -731,15 +612,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>It has been unmade. </para>
@@ -748,15 +623,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>Well it was partially made, but as I do not know the gentleman
@@ -768,15 +635,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>When they unmade it.</para>
@@ -785,15 +646,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>10000</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">AN HONOURABLE MEMBER</name>
                                 <name role="display">AN HONOURABLE MEMBER</name>
                             </talker>
                             <para>Why didn't they stick to it?</para>
@@ -802,15 +657,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>Honorable members will have an opportunity to express their opinion of this
@@ -820,15 +667,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>There are several others of a similar kind. </para>
@@ -837,15 +676,7 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>83</page.no>
-                                <time.stamp />
-                                <name.id>KFL</name.id>
-                                <electorate>DARLING DOWNS, QUEENSLAND</electorate>
-                                <party>PROT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">GROOM, William</name>
+                                
                                 <name role="display">Mr W H GROOM</name>
                             </talker>
                             <para>I do not think that on the initiation of the Commonwealth we should make
@@ -883,15 +714,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>83</page.no>
-                            <time.stamp />
-                            <name.id>K7U</name.id>
-                            <electorate>Corio</electorate>
+                            <page>83</page>
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">CROUCH, Richard</name>
                             <name role="display">Mr CROUCH</name>
                         </talker>
                         <para>- I feel that it is a very great honour for me, the youngest member of the House              to be asked to second the motion for the adoption of the Address in Reply which has
@@ -930,15 +754,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>-Ishouldhope so. </para>
@@ -947,15 +765,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>-This Ministry is not a Ministry of all the talents, but it is practically a
@@ -971,15 +783,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>-May I say further that what really influenced the people of Victoriaand
@@ -1000,15 +806,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- Notwithstanding honorable members' expression of derision, I repeat the
@@ -1018,15 +818,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>K8L</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">THOMAS, Josiah</name>
                                 <name role="display">Mr Thomas</name>
                             </talker>
                             <para>- They certainly want wages. </para>
@@ -1035,15 +829,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>-Not taxes. </para>
@@ -1052,15 +840,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>84</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                <page>84</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- It is the working men of the community who are chiefly interested in the
@@ -1122,15 +904,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>85</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                <page>85</page>
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>-I thought that they had all the liberalism here. </para>
@@ -1264,15 +1038,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- If my honorable friend had been present he would have known that the remark was
@@ -1282,15 +1050,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- I was there, and I did not understand it was said in a jocular spirit. But I am
@@ -1323,15 +1085,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- What about the Emperor ? </para>
@@ -1340,15 +1096,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>- What about the Monroe doctrine? </para>
@@ -1357,15 +1105,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr CROUCH</name>
                             </talker>
                             <para>- I think it was Tennyson who said - </para>
@@ -1387,15 +1129,9 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>88</page.no>
-                            <time.stamp />
-                            <name.id>F4P</name.id>
-                            <electorate>East Sydney</electorate>
+                            
                             <party />
                             <role>New South Wales</role>
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">REID, George</name>
                             <name role="display">Mr REID</name>
                         </talker>
                         <para />
@@ -1404,15 +1140,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am quite willing to adjourn my speech until after dinner if that be the wish
@@ -1423,15 +1153,8 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>88</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>- It is now only half-past five, and I understood that <inline font-weight="bold">Mr. Speaker</inline> intended to adjourn for dinner at half past six. On this point
@@ -1445,15 +1168,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>88</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>88</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I think it would be better. <inline font-weight="bold">(Mr. Speaker left the
@@ -1478,15 +1195,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>89</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- But I anticipate the greatest benefit not only to those of us who have the
@@ -1523,15 +1234,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>89</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>89</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Can it be that the dangers to the Constitution only existed SO long as my
@@ -1570,15 +1275,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>90</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>90</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Is the Constitution to be respected or not? Was it intended that, side by side
@@ -1641,15 +1340,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr Crouch</name>
                             </talker>
                             <para>- No. </para>
@@ -1693,15 +1386,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>JNV</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BAMFORD, Frederick</name>
                                 <name role="display">Mr Bamford</name>
                             </talker>
                             <para>- No. </para>
@@ -1710,15 +1397,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Are you a protectionist? </para>
@@ -1727,15 +1408,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>JNV</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BAMFORD, Frederick</name>
                                 <name role="display">Mr Bamford</name>
                             </talker>
                             <para>- Yes. </para>
@@ -1744,15 +1419,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- That is the sort of declaration I want. I want to separate the sheep from the
@@ -1765,15 +1434,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>91</page.no>
-                                <time.stamp />
-                                <name.id>KIQ</name.id>
+                                <page>91</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">MACDONALD-PATERSON, Thomas</name>
                                 <name role="display">Mr Macdonald-Paterson</name>
                             </talker>
                             <para>- Baal ! No ! </para>
@@ -1782,15 +1445,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am not referring to my honorable friend. </para>
@@ -1800,15 +1457,9 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>92</page.no>
-                            <time.stamp />
-                            <name.id>10000</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SPEAKER, Mr</name>
                             <name role="display">Mr SPEAKER</name>
                         </talker>
                         <para>- I must ask the right honorable member to address his remarks to the Chair, and
@@ -1817,15 +1468,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am very much obliged to you for asking me to do so, <inline font-weight="bold">Sir, but</inline> I really thought that I might bore you. Isa                was referring to the honorable membe for Capricornia/ Another revenue tariffist
@@ -1841,15 +1486,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- No ; revenue tarifiists. </para>
@@ -1858,15 +1497,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am glad to have that correction. May I suggest to the right honorable member
@@ -1910,15 +1543,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- No; they are revenue tariffists. &lt; </para>
@@ -1927,15 +1554,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>92</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>92</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Revenue tariffists is the term I wish to use, because it is the term.'
@@ -1965,15 +1586,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>93</page.no>
-                                <time.stamp />
-                                <name.id>KHC</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">HIGGINS, Henry</name>
                                 <name role="display">Mr Higgins</name>
                             </talker>
                             <para>- The one lost sheep. </para>
@@ -1982,15 +1597,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>93</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Like many other lost sheep, he may become a flock in the long run. I have-
@@ -2012,15 +1621,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>93</page.no>
-                                <time.stamp />
-                                <name.id>F4R</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">WATSON, John Christian</name>
                                 <name role="display">Mr Watson</name>
                             </talker>
                             <para>- He is not here to-night. </para>
@@ -2029,15 +1632,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>93</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>93</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I have, on that account, been guarded in pointing out the true state of
@@ -2133,15 +1730,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>95</page.no>
-                                <time.stamp />
-                                <name.id>10000</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SPEAKER, Mr</name>
                                 <name role="display">Mr SPEAKER</name>
                             </talker>
                             <para>- May I say the reason I called the honorable member to order just now was not
@@ -2152,15 +1743,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>95</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am very much obliged to you, sir. As you know, in the ardour of addressing
@@ -2196,15 +1781,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>95</page.no>
-                                <time.stamp />
-                                <name.id>KEW</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">KINGSTON, Charles</name>
                                 <name role="display">Mr Kingston</name>
                             </talker>
                             <para>- Member for South Australia. The constituency is the whole State. </para>
@@ -2213,15 +1792,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>95</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>95</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- That is so ; in South Australia it was a national vote for both Houses. I find
@@ -2261,15 +1834,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>96</page.no>
-                                <time.stamp />
-                                <name.id>KFJ</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">FORREST, John</name>
                                 <name role="display">Sir John Forrest</name>
                             </talker>
                             <para>- Why does the honorable member not divide the House ? </para>
@@ -2278,15 +1845,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>96</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- My honorable friends will always try to choose a time for me to divide the
@@ -2299,15 +1860,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>96</page.no>
-                                <time.stamp />
-                                <name.id>KFJ</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">FORREST, John</name>
                                 <name role="display">Sir John Forrest</name>
                             </talker>
                             <para>- The honorable member prefers to attack every one personally. </para>
@@ -2316,15 +1871,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>96</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>96</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I hope my honorable friend will get accustomed to a little of the healthy
@@ -2419,15 +1968,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>97</page.no>
-                                <time.stamp />
-                                <name.id>K7U</name.id>
+                                <page>97</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">CROUCH, Richard</name>
                                 <name role="display">Mr Crouch</name>
                             </talker>
                             <para>- Where is there a freetrader amongst the members of the Opposition? </para>
@@ -2572,15 +2115,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- We gained 2,000 last year ! </para>
@@ -2589,15 +2126,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am delighted' to hear it. That is something to crow about. May I tell
@@ -2609,15 +2140,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- That is- not a fair, comparison. The increase I speak of was in our city
@@ -2628,15 +2153,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Then the honorable member is speaking from s6me little private information of
@@ -2646,15 +2165,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- I am speaking from the report of the inspector of factories which was
@@ -2664,15 +2177,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I do not know anything about that. </para>
@@ -2681,15 +2188,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- The right honorable member evidently does not. </para>
@@ -2698,15 +2199,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I am dealing with the States of New South Wales and Victoria, and, in making a
@@ -2731,15 +2226,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- Not at all. </para>
@@ -2748,15 +2237,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>100</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>100</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I suppose it is a sign of national prosperity ! It shows the patriotism of the
@@ -2775,15 +2258,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>101</page.no>
-                                <time.stamp />
-                                <name.id>KFJ</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">FORREST, John</name>
                                 <name role="display">Sir John Forrest</name>
                             </talker>
                             <para>- More than that. </para>
@@ -2792,15 +2269,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>101</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>101</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I believe so ; but my right honorable friend makes it a nile to say " more
@@ -2884,15 +2355,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>102</page.no>
-                                <time.stamp />
-                                <name.id>F4R</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">WATSON, John Christian</name>
                                 <name role="display">Mr Watson</name>
                             </talker>
                             <para>- Thank you. </para>
@@ -2901,15 +2366,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>102</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- The honorable member need not thank me. Let him thank the Cabinet. I say
@@ -2953,15 +2412,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>102</page.no>
-                                <time.stamp />
-                                <name.id>F4R</name.id>
+                                <page>102</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">WATSON, John Christian</name>
                                 <name role="display">Mr Watson</name>
                             </talker>
                             <para>- That was written in April. I thought the honorable member would have been
@@ -2971,15 +2424,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I do not wish to intrude my private affairs into Parliament, but my honorable
@@ -2995,15 +2442,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- You have shuffled. </para>
@@ -3012,15 +2453,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- My honorable friend is a judge of shuffling. </para>
@@ -3029,15 +2464,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- On this question you did nothing but shuffle. </para>
@@ -3056,15 +2485,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- Some of these days the Prime Minister will have a chance of answering your
@@ -3076,15 +2499,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- I have no reason whatever to protest against the length of the honorable
@@ -3096,15 +2513,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- I hope my friend will not do anything of the kind again, if it is to be made
@@ -3116,15 +2527,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- I do not, and I never said so. </para>
@@ -3133,15 +2538,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- "Well, what is the use of referring to it ? May I remind the honorable
@@ -3153,15 +2552,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- Well, surely, if my right honorable friend sat patiently while the oldest and
@@ -3172,15 +2565,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- Certainly, I do not object to the length of the honorable gentleman's
@@ -3194,15 +2581,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- I shall explain every phrase in the speech attacked, at a time when the
@@ -3213,15 +2594,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- I am only replying in the spirit of the honorable member's remarks.
@@ -3231,15 +2606,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- It is scarcely parliamentary for the honorable gentleman to say he will reply
@@ -3250,15 +2619,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- Perhaps it will save the House and the honorable and learned member some
@@ -3269,15 +2632,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- It is offensive to me, though I do not say it would be offensive to the
@@ -3287,15 +2644,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr Barton</name>
                             </talker>
                             <para>- I have had lots of that sort of thing. </para>
@@ -3304,15 +2655,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>103</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>103</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- And the honorable gentleman seems to thrive on it. I say these are high and
@@ -3336,15 +2681,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>104</page.no>
-                                <time.stamp />
-                                <name.id>KQP</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">MCDONALD, Charles</name>
                                 <name role="display">Mr McDonald</name>
                             </talker>
                             <para>- The sugar districts, too. </para>
@@ -3353,15 +2692,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>104</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- So I understand, and this is a matter which will have to be considered                because that is the only way of ascertaining the feelings of the State of Queensland
@@ -3403,15 +2736,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>104</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>- The Minister for Home Affairs said he was a fit and proper person. </para>
@@ -3420,15 +2745,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>104</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                <page>104</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr REID</name>
                             </talker>
                             <para>- He said, I understand, that <inline font-weight="bold">Mr. Fegan</inline> was
@@ -3613,15 +2932,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- If there were a joint sitting we could talk to the right honorable member.
@@ -3631,15 +2944,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I did not interject when the right honorable member was speaking. Is it a fact
@@ -3659,15 +2966,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>KTT</name.id>
-                                <electorate>PARKES, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Arthur</name>
+                                
                                 <name role="display">Mr BRUCE SMITH</name>
                             </talker>
                             <para>- The House has to se the proposed Tariff first. </para>
@@ -3676,15 +2975,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- The House hast ddeclarations contained in the Governor-General's speech
@@ -3703,15 +2996,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- To what Minister's speeches does the right honorable member refer ?
@@ -3721,15 +3008,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>108</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>108</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I am speaking of my own speeches. The right honorable member knows that it is
@@ -3843,15 +3124,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>110</page.no>
-                                <time.stamp />
-                                <name.id>F4S</name.id>
-                                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">COOK, Joseph</name>
+                                
                                 <name role="display">Mr JOSEPH COOK</name>
                             </talker>
                             <para>- Who-says that ? </para>
@@ -3860,15 +3133,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>110</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>110</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- A good many people would tell the honorable member that. But, as he will have
@@ -3968,15 +3235,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>L2I</name.id>
-                                <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                                <party>FT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Sydney</name>
+                                
                                 <name role="display">Mr SYDNEY SMITH</name>
                             </talker>
                             <para>- The honorable gentleman told the people differently in New South Wales.
@@ -3986,15 +3245,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I have not told the people differently in New South Wales from what I have
@@ -4008,15 +3261,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- If that is what I was reported as saying, it is an incorrect report. I cannot                be chasing mistakes that are made in reports of my speeches. Even if I succeeded in
@@ -4027,15 +3274,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>L2I</name.id>
-                                <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                                <party>FT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Sydney</name>
+                                
                                 <name role="display">Mr SYDNEY SMITH</name>
                             </talker>
                             <para>- I can find the statement. </para>
@@ -4045,15 +3284,9 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>112</page.no>
-                            <time.stamp />
-                            <name.id>10000</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">SPEAKER, The</name>
                             <name role="display">The SPEAKER</name>
                         </talker>
                         <para>- Under the practice of the British House of Commons which, of course, we follow              and under any possible standing orders, interjections are disorderly. I do not object
@@ -4064,15 +3297,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>L2I</name.id>
-                                <electorate>MACQUARIE, NEW SOUTH WALES</electorate>
-                                <party>FT</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Sydney</name>
+                                
                                 <name role="display">Mr SYDNEY SMITH</name>
                             </talker>
                             <para>- I apologize ; but I interjected because I did not wish any such statement to
@@ -4082,15 +3307,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>112</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>112</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Perhaps it will satisfy the honorable member if I say that if I endeavoured to
@@ -4163,15 +3382,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>113</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- How long ! The honorable member will find that in the Bill, and will see that
@@ -4197,15 +3410,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>113</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>113</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I say the question should be dealt with as soon as practicable. At Maitland I
@@ -4218,15 +3425,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Then why not say it plainly. </para>
@@ -4235,15 +3436,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I am saying all I have to say as plainly as I can, and shall continue to do so
@@ -4279,15 +3474,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Even within ten years. </para>
@@ -4296,15 +3485,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I say within five years. </para>
@@ -4313,15 +3496,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- With the Braddon clause ? </para>
@@ -4330,15 +3507,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I think even then after the five years. </para>
@@ -4347,15 +3518,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Now we know the period the speech covers. </para>
@@ -4364,15 +3529,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Of course, I am willing to admit that the Government at the end of five years
@@ -4383,15 +3542,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>K5D</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">O'MALLEY, King</name>
                                 <name role="display">Mr O'Malley</name>
                             </talker>
                             <para>- The Government may be in heaven by that time. </para>
@@ -4400,15 +3553,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I admit, so long as I am not unduly hurried, that there may be better places
@@ -4418,15 +3565,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- It would be in purgatory, like their fiscal policy. </para>
@@ -4435,15 +3576,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Any policy my honorable friend is likely to introduce would go to a place
@@ -4453,15 +3588,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- That is not an orthodox idea of the other regions. </para>
@@ -4470,15 +3599,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- As to the other matters which have been referred to, I think the most
@@ -4498,15 +3621,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Apply that argument to a case of murder. </para>
@@ -4515,15 +3632,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>114</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>114</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I am not aware that my honorable friend had any argument about murder in his
@@ -4533,15 +3644,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- I cannot say that of the speech. </para>
@@ -4550,15 +3655,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- My friend says the speech is not in the "Queen's English"; it is
@@ -4577,15 +3676,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I admit the thing never entered my head at all, but when the Secretary for
@@ -4603,15 +3696,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Nobody has been "fooled," except some who have "fooled                themselves by jumping before they came to the fence. I hope I am to be allowed
@@ -4627,15 +3714,7 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>KTT</name.id>
-                                <electorate>PARKES, NEW SOUTH WALES</electorate>
-                                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">SMITH, Arthur</name>
+                                
                                 <name role="display">Mr BRUCE SMITH</name>
                             </talker>
                             <para>- In the press it was reported that <inline font-weight="bold">Mr.
@@ -4645,15 +3724,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- I do not know what statements were made in the press before. As I have said, I
@@ -4679,15 +3752,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- What a loss we have sustained. </para>
@@ -4696,15 +3763,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- The right honorable member has sustained a loss. </para>
@@ -4713,15 +3774,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Why did not the honorable gentleman stick to him? </para>
@@ -4730,15 +3785,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>115</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>115</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- The right honorable gentleman has sustained a loss, because he would have
@@ -4777,15 +3826,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- Have the Government made any appointments ? </para>
@@ -4794,15 +3837,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- No permanent appointments have been made, because we considered it our
@@ -4815,15 +3852,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- What are they ? </para>
@@ -4832,15 +3863,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Honorable members will recognise that it was a matter of very great
@@ -4856,15 +3881,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>009MD</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">DEAKIN, Alfred</name>
                                 <name role="display">Mr Deakin</name>
                             </talker>
                             <para>- And the clerks at the table. </para>
@@ -4873,15 +3892,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- And the clerks at the table. There have been no appointments made outside of
@@ -4904,15 +3917,7 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>116</page.no>
-                            <time.stamp />
-                            <name.id>F4S</name.id>
-                            <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
-                            <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">COOK, Joseph</name>
+                            
                             <name role="display">Mr JOSEPH COOK</name>
                         </talker>
                         <para>- Having regard to what has fallen from the right honorable gentleman, perhaps he
@@ -4921,15 +3926,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>116</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                <page>116</page>
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- This being the first night of the debate I have no objection, but I will not
@@ -4944,26 +3943,18 @@
         <debate>
             <debateinfo>
                 <title>SPECIAL ADJOURNMENT</title>
-                <page.no>117</page.no>
-                <type>special adjournment</type>
+                
             </debateinfo>
             <subdebate.1>
                 <subdebateinfo>
                     <title>Standing Orders</title>
-                    <page.no>117</page.no>
+                    
                 </subdebateinfo>
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>117</page.no>
-                            <time.stamp />
-                            <name.id>009LR</name.id>
+                            
                             <electorate />
-                            <party>Protectionist</party>
-                            <role />
-                            <in.gov>1</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">BARTON, Edmund</name>
                             <name role="display">Mr BARTON</name>
                         </talker>
                         <para>- I move- </para>
@@ -4974,15 +3965,9 @@
                 <speech>
                     <talk.start>
                         <talker>
-                            <page.no>117</page.no>
-                            <time.stamp />
-                            <name.id>F4P</name.id>
+                            
                             <electorate />
                             <party />
-                            <role />
-                            <in.gov>0</in.gov>
-                            <first.speech>0</first.speech>
-                            <name role="metadata">REID, George</name>
                             <name role="display">Mr REID</name>
                         </talker>
                         <para>- I should like the right honorable gentleman to tell me when we shall be asked to
@@ -4992,15 +3977,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>117</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- Seeing that these standing orders are to be merely provisional, I have left
@@ -5013,15 +3992,9 @@
                     <interjection>
                         <talk.start>
                             <talker>
-                                <page.no>117</page.no>
-                                <time.stamp />
-                                <name.id>F4P</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">REID, George</name>
                                 <name role="display">Mr Reid</name>
                             </talker>
                             <para>- But the Government will deal with them then? </para>
@@ -5030,15 +4003,9 @@
                     <continue>
                         <talk.start>
                             <talker>
-                                <page.no>117</page.no>
-                                <time.stamp />
-                                <name.id>009LR</name.id>
+                                
                                 <electorate />
                                 <party />
-                                <role />
-                                <in.gov>0</in.gov>
-                                <first.speech>0</first.speech>
-                                <name role="metadata">BARTON, Edmund</name>
                                 <name role="display">Mr BARTON</name>
                             </talker>
                             <para>- We will then. </para>
@@ -5050,7 +4017,7 @@
         </debate>
         <adjournment>
             <adjournmentinfo>
-                <page.no>117</page.no>
+                <page>117</page>
                 <time.stamp>22:10:00</time.stamp>
             </adjournmentinfo>
             <para>House adjourned at 10.10 p.m. </para>
