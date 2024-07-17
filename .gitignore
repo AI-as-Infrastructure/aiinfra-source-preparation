@@ -12,6 +12,7 @@ __pycache__/
 ENV/
 
 # Distribution / packaging
+.DS_Store
 .Python
 build/
 develop-eggs/
@@ -103,3 +104,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 logs/
+
