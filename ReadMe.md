@@ -2,4 +2,4 @@ This repository contains scripts used to prepare source documents for the [AI as
 
 This repository is only a _working repo_, containing Python code used to prepare the sources for publication in the [primary project source repository](https://github.com/AI-as-Infrastructure/aiinfra-source). It is retained here to support methodological transparency.
 
-The NZ sources are prepared in a [separate repository](https://github.com/AI-as-Infrastructure/aiinfra-nzhansard-wrangling) before being added to here, due to the significant additional processing needed. 
+The NZ sources are prepared in a [separate repository](https://github.com/AI-as-Infrastructure/aiinfra-nzhansard-preparation) before being added to here, due to the significant additional processing needed. 
